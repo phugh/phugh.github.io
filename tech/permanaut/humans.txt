@@ -1,0 +1,14 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+/* TEAM */
+Your title: P. Hughes
+Site: http://phugh.es
+Twitter: @phughespsych
+
+/* TEAM */
+Original PERMA Profiler - Butler, J., & Kern, M. L. (2015). The PERMA-Profiler: A brief multidimensional measure of flourishing. Available from http://www.peggykern.org/questionnaires.html
+
+/* SITE */
+CSS3, HTML5
+Apache Server Configs, jQuery, Normalize.css, MaterialiseCSS
