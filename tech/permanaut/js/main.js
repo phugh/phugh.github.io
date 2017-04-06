@@ -1,25 +1,67 @@
-var ls = !(window.localStorage == null)
-var zx = 0
+/* jshint globalstrict: true, browser: true, devel: true, sub: true, esversion: 5, asi: true, -W041 */ /* global $, Materialize, Chart */
+'use strict'; // eslint-disable-line
+var testNo = 0 // testNo becomes a count of previous tests in localStorage
+var storage = false // localStorage availability
 
+function postToFeed () {
+  var obj = {
+    method: 'feed',
+    link: 'http://www.phugh.es/tech/permanaut/',
+    description: 'I just got a wellbeing score of ' + $('.owRes').text() + '/10, what will you get?',
+    picture: 'http://www.phugh.es/tech/permanaut/tile-wide.png',
+    name: 'PERMAnaut Wellbeing Quiz'
+  }
+  FB.ui(obj)
+}
+
+/**
+* Test if localStorage is available
+* @function lsTest
+* @return {bool} true or false
+*/
+function lsTest () {
+  var test = 'test'
+  try {
+    window.localStorage.setItem(test, test)
+    window.localStorage.removeItem(test)
+    if (storage != null) storage = true
+    return true
+  } catch (e) {
+    if (storage != null) storage = false
+    return false
+  }
+}
+
+/**
+* Sum input slider values
+* @function calcSliders
+* @param  {type} x {description}
+* @return {Number} Sum
+*/
 function calcSliders (x) {
   var sliderValues = []
   var total = 0
-  var index
-  var len
+  var index, len
   sliderValues.push(parseInt($(x).val(), 10))
   for (index = 0, len = sliderValues.length; index < len; ++index) {
     total += sliderValues[index]
-  };
+  }
   return total
-};
+}
 
 function calculateScores () {
   // define our containers
-  var PERMAScores = { 'Positive Emotion': 0, 'Engagement': 0, 'Relationships': 0, 'Meaning': 0, 'Accomplishment': 0 }
-  var nTotal = 0
-  var hTotal = 0
-  var zTotal = 0
-  var lonTotal = 0
+  var PERMAScores = {
+    'Positive Emotion': 0,
+    'Engagement': 0,
+    'Relationships': 0,
+    'Meaning': 0,
+    'Accomplishment': 0,
+    'Negative Emotion': 0,
+    'Health': 0,
+    'Loneliness': 0,
+    'Happy': 0
+  }
 
   // get values from sliders, convert to readable number, and dump the results in the corresponding container then add them up
   $('input[id^=P]').each(function () {
@@ -38,65 +80,71 @@ function calculateScores () {
     PERMAScores['Accomplishment'] += calcSliders(this)
   })
   $('input[id^=N]').each(function () {
-    nTotal += calcSliders(this)
+    PERMAScores['Negative Emotion'] += calcSliders(this)
   })
   $('input[id^=H]').each(function () {
-    hTotal += calcSliders(this)
+    PERMAScores['Health'] += calcSliders(this)
   })
 
   // these sliders are just single values so no containers are required
-  lonTotal = (parseInt($('#LON').val(), 10).toFixed(2))
-  zTotal = parseInt($('#Z1').val(), 10)
-
-  // calculate overall wellbeing score
-  var PERMATotal = 0
-  for (var key in PERMAScores) {
-    PERMATotal += PERMAScores[key]
-  };
-  var owTotal = (((PERMATotal + zTotal) / 16).toFixed(2))
+  PERMAScores['Loneliness'] = parseInt($('#LON').val(), 10)
+  PERMAScores['Happy'] = parseInt($('#Z1').val(), 10)
 
   // calculate results to two decimal places
-  var pFS = ((PERMAScores['Positive Emotion'] / 3).toFixed(2))
-  var eFS = ((PERMAScores['Engagement'] / 3).toFixed(2))
-  var rFS = ((PERMAScores['Relationships'] / 3).toFixed(2))
-  var mFS = ((PERMAScores['Meaning'] / 3).toFixed(2))
-  var aFS = ((PERMAScores['Accomplishment'] / 3).toFixed(2))
-  var nFS = ((nTotal / 3).toFixed(2))
-  var hFS = ((hTotal / 3).toFixed(2))
+  for (var key in PERMAScores) {
+    if (PERMAScores.hasOwnProperty(key)) {
+      if (key === 'Happy' || key === 'Loneliness') { // HERE
+        PERMAScores[key] = PERMAScores[key]
+      } else {
+        PERMAScores[key] = parseFloat((PERMAScores[key] / 3).toFixed(2))
+      }
+    }
+  }
 
-  // find highest and lowest areas and print list
-  var keysSorted = Object.keys(PERMAScores).sort(function (a, b) { return PERMAScores[b] - PERMAScores[a] })
-  var PERMAEqual = { 'Positive Emotion': 15, 'Engagement': 15, 'Relationships': 15, 'Meaning': 15, 'Accomplishment': 15 }
-  if (_.isEqual(PERMAScores, PERMAEqual)) {
-    console.log('PERMA Scores are all 5s, not printing list.')
-  } else {
-    $('#highestresult').text('Highest to lowest: ' + keysSorted.join(', '))
-  };
+  // calculate overall wellbeing score
+  var owTotal =
+    PERMAScores['Positive Emotion'] +
+    PERMAScores['Engagement'] +
+    PERMAScores['Relationships'] +
+    PERMAScores['Meaning'] +
+    PERMAScores['Accomplishment'] +
+    PERMAScores['Happy']
+  PERMAScores['Overall'] = parseFloat((owTotal / 6).toFixed(2))
 
   // Display text
-  $('.pRes').text(pFS)
-  $('.eRes').text(eFS)
-  $('.rRes').text(rFS)
-  $('.mRes').text(mFS)
-  $('.aRes').text(aFS)
-  $('.nRes').text(nFS)
-  $('.hRes').text(hFS)
-  $('.owRes').text(owTotal)
-  $('.lonRes').text(lonTotal)
+  $('.pRes').text(PERMAScores['Positive Emotion'])
+  $('.eRes').text(PERMAScores['Engagement'])
+  $('.rRes').text(PERMAScores['Relationships'])
+  $('.mRes').text(PERMAScores['Meaning'])
+  $('.aRes').text(PERMAScores['Accomplishment'])
+  $('.nRes').text(PERMAScores['Negative Emotion'])
+  $('.hRes').text(PERMAScores['Health'])
+  $('.lonRes').text(PERMAScores['Loneliness'])
+  $('.owRes').text(PERMAScores['Overall'])
 
   // hide the testCards and scroll to the top of the page
-  $('#quizPane').hide()
+  document.getElementById('quizPane').classList.add('hidden')
   window.scrollTo(0, 0)
-  $('#resultsPane').fadeIn('fast')
+  document.getElementById('resultsPane').classList.remove('hidden')
 
   // generate chart
+  var dataArr = [
+    PERMAScores['Positive Emotion'],
+    PERMAScores['Engagement'],
+    PERMAScores['Relationships'],
+    PERMAScores['Meaning'],
+    PERMAScores['Accomplishment'],
+    PERMAScores['Negative Emotion'],
+    PERMAScores['Health'],
+    PERMAScores['Overall']
+  ]
   var data = {
     labels: ['P', 'E', 'R', 'M', 'A', 'N', 'H', 'OW'],
     datasets: [
       {
         label: 'Your Results',
         backgroundColor: '#2196f3',
-        data: [pFS, eFS, rFS, mFS, aFS, nFS, hFS, owTotal]
+        data: dataArr
       }
     ]
   }
@@ -107,7 +155,7 @@ function calculateScores () {
       {
         label: 'Your Results',
         backgroundColor: '#2196f3',
-        data: [pFS, eFS, rFS, mFS, aFS, nFS, hFS, owTotal]
+        data: dataArr
       },
       {
         label: 'Average',
@@ -131,14 +179,15 @@ function calculateScores () {
   }
 
   var ctx = document.getElementById('resultsChart').getContext('2d')
+  var myBarChart = null // eslint-disable-line
   if ($('#goCompare').prop('checked')) {
-    var myBarChart = new Chart(ctx, {
+    myBarChart = new Chart(ctx, {
       type: 'bar',
       data: dataCompare,
       options: opts
     })
   } else {
-    var myBarChart = new Chart(ctx, {
+    myBarChart = new Chart(ctx, {
       type: 'bar',
       data: data,
       options: opts
@@ -157,45 +206,60 @@ function calculateScores () {
   var inp = $('#nameInput').val()
   var tinp = $.trim(inp)
   if (tinp.length > 0) {
-    $('#topText').text('PERMAnaut - ' + inp + "'s PERMA Profile - " + outputDate)
+    $('#topText').text('PERMA-P - ' + inp + "'s PERMA Profile - " + outputDate)
   } else {
-    $('#topText').text('PERMAnaut - ' + 'PERMA Profile Results - ' + outputDate)
+    $('#topText').text('PERMA-P - ' + 'PERMA Profile Results - ' + outputDate)
     tinp = 'Anon'
   }
 
-  if (ls) {
-    var lsd = { 'Name': tinp, 'DateString': d, 'Date': outputDate, 'P': pFS, 'E': eFS, 'R': rFS, 'M': mFS, 'A': aFS, 'N': nFS, 'H': hFS, 'L': lonTotal, 'O': owTotal }
-    window.localStorage.setItem('PNS' + (zx + 1), JSON.stringify(lsd))
+  if (storage === true) {
+    var lsd = {
+      'Name': tinp,
+      'DateString': d,
+      'Date': outputDate,
+      'P': PERMAScores['Positive Emotion'],
+      'E': PERMAScores['Engagement'],
+      'R': PERMAScores['Relationships'],
+      'M': PERMAScores['Meaning'],
+      'A': PERMAScores['Accomplishment'],
+      'N': PERMAScores['Negative Emotion'],
+      'H': PERMAScores['Health'],
+      'L': PERMAScores['Loneliness'],
+      'O': PERMAScores['Overall']
+    }
+    window.localStorage.setItem('PNS' + (testNo += 1), JSON.stringify(lsd))
   }
-};
+}
 
-function updatevalues (x) {
-  // update slider label according to slider value
+/**
+* update slider label according to slider value
+* @function updatevalues
+* @param  {object} x slider DOM element
+*/
+function updatevalues (x) { // eslint-disable-line
   $(x).next('span').next('span').text(x.value)
-};
+}
 
-function nextBlock (x) {
+/**
+* Hide this block, show the next
+* @function nextBlock
+* @param  {object} x Anchor DOM element
+*/
+function nextBlock (x) { // eslint-disable-line
   // hide the current block, find the next one and show it
   var thisBlock = $(x).closest('div.block')
   $(thisBlock).hide()
   $(thisBlock).next('div.block').show()
-};
-
-function postToFeed () {
-  var obj = {
-    method: 'feed',
-    link: 'http://www.phugh.es/tech/permanaut/',
-    description: 'I just got a wellbeing score of ' + $('.owRes').text() + '/10, what will you get?',
-    picture: 'http://www.phugh.es/tech/permanaut/tile-wide.png',
-    name: 'PERMAnaut Wellbeing Quiz'
-  }
-  FB.ui(obj)
 }
 
+/**
+* Load and display previous scores from localStorage
+* @function getPreviousScores
+*/
 function getPreviousScores () {
-  if (zx !== 0) {
-    for (var i = 0; i < zx; i++) {
-      var retrievedObject = localStorage.getItem('PNS' + (i + 1))
+  if (testNo !== 0) {
+    for (var i = 0; i < testNo; i++) {
+      var retrievedObject = window.localStorage.getItem('PNS' + (i + 1))
       var q = JSON.parse(retrievedObject)
       $('.tbody').append('<tr><td>' + q.Name + '</td><td>' + q.Date +
                 '</td><td>' + q.P + '</td><td>' + q.N +
@@ -208,41 +272,60 @@ function getPreviousScores () {
   }
 }
 
-function clearPreviousScores () {
+/**
+* Clear scores from localStorage
+* @function clearPreviousScores
+*/
+function clearPreviousScores () { // eslint-disable-line
   $('.tbody').empty()
-  $.each(localStorage, function (i, v) {
+  $.each(window.localStorage, function (i, v) {
     if (i.match(/^PNS/)) {
-      localStorage.removeItem(i)
+      window.localStorage.removeItem(i)
     }
   })
   Materialize.toast('Previous scores cleared', 2500)
 }
 
+/**
+* Determine pressed key and act accordingly
+* @function checkKey
+* @param  {event} e window.event
+*/
+function checkKey (e) {
+  e = e || window.event
+  if (e.keyCode === 39) {
+    var x = $('.btnNext:visible')
+    x.click()
+  }
+}
+
 $(document).ready(function () {
-  // hide results pages
-  $('#resultsPane').hide()
+  // hide all test blocks except the first
+  $('.block').not(':first').hide()
   $('.prevResTable').hide()
 
   // test localStorage availability
-  if (ls) {
-    ls = 1
-    $.each(localStorage, function (i, v) {
+  lsTest()
+
+  // if localStorage is available, itterate test number
+  if (storage === true) {
+    $.each(window.localStorage, function (i, v) {
       if (i.match(/^PNS/)) {
-        zx += 1
+        testNo += 1
       }
     })
     getPreviousScores()
   } else {
-    ls = 0
-    Materialize.toast('localStorage unavailable. Score saving disabled.', 4000)
+    Materialize.toast('Offline storage unavailable. Score saving disabled.', 4000)
   }
-
-  // hide all test blocks except the first
-  $('.block').not(':first').hide()
 
   // set some global chart options
   Chart.defaults.global.responsive = true
 
+  // check for keypresses
+  document.onkeydown = checkKey
+
+  // Facebook init
   window.fbAsyncInit = function () {
     FB.init({
       appId: '1096633653680137',
@@ -250,14 +333,4 @@ $(document).ready(function () {
       version: 'v2.5'
     })
   }
-});
-
-// init facebook
-(function (d, s, id) {
-  var js
-  var fjs = d.getElementsByTagName(s)[0]
-  if (d.getElementById(id)) { return }
-  js = d.createElement(s); js.id = id
-  js.src = '//connect.facebook.net/en_US/sdk.js'
-  fjs.parentNode.insertBefore(js, fjs)
-}(document, 'script', 'facebook-jssdk'))
+})

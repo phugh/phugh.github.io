@@ -1,0 +1,9 @@
+{
+  "name": "PERMA-P",
+  "short_name": "PERMA-P",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#3071a9",
+  "theme_color": "#2196F3",
+  "description": "The PERMA Profiler."
+  }
