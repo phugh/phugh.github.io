@@ -1,8 +1,12 @@
-/* jshint globalstrict: true, browser: true, devel: true, sub: true, esversion: 5, asi: true, -W041 */ /* global $, Materialize, Chart */
+/* jshint globalstrict: true, browser: true, sub: true, esversion: 5, asi: true, -W041 */ /* global $, Materialize, Chart, FB */
 'use strict'; // eslint-disable-line
 var testNo = 0 // testNo becomes a count of previous tests in localStorage
 var storage = false // localStorage availability
 
+/**
+* Handles Facebook score sharing
+* @function postToFeed
+*/
 function postToFeed () {
   var obj = {
     method: 'feed',
@@ -47,188 +51,6 @@ function calcSliders (x) {
     total += sliderValues[index]
   }
   return total
-}
-
-function calculateScores () {
-  // define our containers
-  var PERMAScores = {
-    'Positive Emotion': 0,
-    'Engagement': 0,
-    'Relationships': 0,
-    'Meaning': 0,
-    'Accomplishment': 0,
-    'Negative Emotion': 0,
-    'Health': 0,
-    'Loneliness': 0,
-    'Happy': 0
-  }
-
-  // get values from sliders, convert to readable number, and dump the results in the corresponding container then add them up
-  $('input[id^=P]').each(function () {
-    PERMAScores['Positive Emotion'] += calcSliders(this)
-  })
-  $('input[id^=E]').each(function () {
-    PERMAScores['Engagement'] += calcSliders(this)
-  })
-  $('input[id^=R]').each(function () {
-    PERMAScores['Relationships'] += calcSliders(this)
-  })
-  $('input[id^=M]').each(function () {
-    PERMAScores['Meaning'] += calcSliders(this)
-  })
-  $('input[id^=A]').each(function () {
-    PERMAScores['Accomplishment'] += calcSliders(this)
-  })
-  $('input[id^=N]').each(function () {
-    PERMAScores['Negative Emotion'] += calcSliders(this)
-  })
-  $('input[id^=H]').each(function () {
-    PERMAScores['Health'] += calcSliders(this)
-  })
-
-  // these sliders are just single values so no containers are required
-  PERMAScores['Loneliness'] = parseInt($('#LON').val(), 10)
-  PERMAScores['Happy'] = parseInt($('#Z1').val(), 10)
-
-  // calculate results to two decimal places
-  for (var key in PERMAScores) {
-    if (PERMAScores.hasOwnProperty(key)) {
-      if (key === 'Happy' || key === 'Loneliness') { // HERE
-        PERMAScores[key] = PERMAScores[key]
-      } else {
-        PERMAScores[key] = parseFloat((PERMAScores[key] / 3).toFixed(2))
-      }
-    }
-  }
-
-  // calculate overall wellbeing score
-  var owTotal =
-    PERMAScores['Positive Emotion'] +
-    PERMAScores['Engagement'] +
-    PERMAScores['Relationships'] +
-    PERMAScores['Meaning'] +
-    PERMAScores['Accomplishment'] +
-    PERMAScores['Happy']
-  PERMAScores['Overall'] = parseFloat((owTotal / 6).toFixed(2))
-
-  // Display text
-  $('.pRes').text(PERMAScores['Positive Emotion'])
-  $('.eRes').text(PERMAScores['Engagement'])
-  $('.rRes').text(PERMAScores['Relationships'])
-  $('.mRes').text(PERMAScores['Meaning'])
-  $('.aRes').text(PERMAScores['Accomplishment'])
-  $('.nRes').text(PERMAScores['Negative Emotion'])
-  $('.hRes').text(PERMAScores['Health'])
-  $('.lonRes').text(PERMAScores['Loneliness'])
-  $('.owRes').text(PERMAScores['Overall'])
-
-  // hide the testCards and scroll to the top of the page
-  document.getElementById('quizPane').classList.add('hidden')
-  window.scrollTo(0, 0)
-  document.getElementById('resultsPane').classList.remove('hidden')
-
-  // generate chart
-  var dataArr = [
-    PERMAScores['Positive Emotion'],
-    PERMAScores['Engagement'],
-    PERMAScores['Relationships'],
-    PERMAScores['Meaning'],
-    PERMAScores['Accomplishment'],
-    PERMAScores['Negative Emotion'],
-    PERMAScores['Health'],
-    PERMAScores['Overall']
-  ]
-  var data = {
-    labels: ['P', 'E', 'R', 'M', 'A', 'N', 'H', 'OW'],
-    datasets: [
-      {
-        label: 'Your Results',
-        backgroundColor: '#2196f3',
-        data: dataArr
-      }
-    ]
-  }
-
-  var dataCompare = {
-    labels: ['P', 'E', 'R', 'M', 'A', 'N', 'H', 'OW'],
-    datasets: [
-      {
-        label: 'Your Results',
-        backgroundColor: '#2196f3',
-        data: dataArr
-      },
-      {
-        label: 'Average',
-        backgroundColor: '#00bcd4',
-        data: [6.79, 7.41, 6.99, 7.17, 7.37, 7.14, 4.49, 7.03]
-      }
-    ]
-  }
-
-  var opts = {
-    scales: {
-      yAxes: [{
-        ticks: {
-          max: 10,
-          min: 0,
-          stepSize: 1,
-          beginAtZero: true
-        }
-      }]
-    }
-  }
-
-  var ctx = document.getElementById('resultsChart').getContext('2d')
-  var myBarChart = null // eslint-disable-line
-  if ($('#goCompare').prop('checked')) {
-    myBarChart = new Chart(ctx, {
-      type: 'bar',
-      data: dataCompare,
-      options: opts
-    })
-  } else {
-    myBarChart = new Chart(ctx, {
-      type: 'bar',
-      data: data,
-      options: opts
-    })
-    $('#keyText').hide()
-  }
-
-  // print results page header
-  var d = new Date()
-  var month = d.getMonth() + 1
-  var day = d.getDate()
-  var outputDate = (('' + day).length < 2 ? '0' : '') + day + '/' +
-    (('' + month).length < 2 ? '0' : '') + month + '/' +
-    d.getFullYear()
-
-  var inp = $('#nameInput').val()
-  var tinp = $.trim(inp)
-  if (tinp.length > 0) {
-    $('#topText').text('PERMA-P - ' + inp + "'s PERMA Profile - " + outputDate)
-  } else {
-    $('#topText').text('PERMA-P - ' + 'PERMA Profile Results - ' + outputDate)
-    tinp = 'Anon'
-  }
-
-  if (storage === true) {
-    var lsd = {
-      'Name': tinp,
-      'DateString': d,
-      'Date': outputDate,
-      'P': PERMAScores['Positive Emotion'],
-      'E': PERMAScores['Engagement'],
-      'R': PERMAScores['Relationships'],
-      'M': PERMAScores['Meaning'],
-      'A': PERMAScores['Accomplishment'],
-      'N': PERMAScores['Negative Emotion'],
-      'H': PERMAScores['Health'],
-      'L': PERMAScores['Loneliness'],
-      'O': PERMAScores['Overall']
-    }
-    window.localStorage.setItem('PNS' + (testNo += 1), JSON.stringify(lsd))
-  }
 }
 
 /**
@@ -296,6 +118,190 @@ function checkKey (e) {
   if (e.keyCode === 39) {
     var x = $('.btnNext:visible')
     x.click()
+  }
+}
+
+/**
+* Our main function
+* @function calculateScores
+*/
+function calculateScores () {
+  // define our containers
+  var PERMAScores = {
+    'Positive Emotion': 0,
+    'Engagement': 0,
+    'Relationships': 0,
+    'Meaning': 0,
+    'Accomplishment': 0,
+    'Negative Emotion': 0,
+    'Health': 0,
+    'Loneliness': 0,
+    'Happy': 0
+  }
+
+  // get values from sliders, convert to readable number, and dump the results in the corresponding container then add them up
+  $('input[id^=P]').each(function () {
+    PERMAScores['Positive Emotion'] += calcSliders(this)
+  })
+  $('input[id^=E]').each(function () {
+    PERMAScores['Engagement'] += calcSliders(this)
+  })
+  $('input[id^=R]').each(function () {
+    PERMAScores['Relationships'] += calcSliders(this)
+  })
+  $('input[id^=M]').each(function () {
+    PERMAScores['Meaning'] += calcSliders(this)
+  })
+  $('input[id^=A]').each(function () {
+    PERMAScores['Accomplishment'] += calcSliders(this)
+  })
+  $('input[id^=N]').each(function () {
+    PERMAScores['Negative Emotion'] += calcSliders(this)
+  })
+  $('input[id^=H]').each(function () {
+    PERMAScores['Health'] += calcSliders(this)
+  })
+
+  // these sliders are just single values so no containers are required
+  PERMAScores['Loneliness'] = parseInt($('#LON').val(), 10)
+  PERMAScores['Happy'] = parseInt($('#Z1').val(), 10)
+
+  // calculate results to two decimal places
+  for (var key in PERMAScores) {
+    if (PERMAScores.hasOwnProperty(key)) {
+      if (key === 'Happy' || key === 'Loneliness') { // HERE
+        PERMAScores[key] = PERMAScores[key]
+      } else {
+        PERMAScores[key] = parseFloat((PERMAScores[key] / 3).toFixed(2))
+      }
+    }
+  }
+
+  // calculate overall wellbeing score
+  var owTotal =
+    PERMAScores['Positive Emotion'] +
+    PERMAScores['Engagement'] +
+    PERMAScores['Relationships'] +
+    PERMAScores['Meaning'] +
+    PERMAScores['Accomplishment'] +
+    PERMAScores['Happy']
+
+  PERMAScores['Overall'] = parseFloat((owTotal / 6).toFixed(2))
+
+  // display text
+  $('.pRes').text(PERMAScores['Positive Emotion'])
+  $('.eRes').text(PERMAScores['Engagement'])
+  $('.rRes').text(PERMAScores['Relationships'])
+  $('.mRes').text(PERMAScores['Meaning'])
+  $('.aRes').text(PERMAScores['Accomplishment'])
+  $('.nRes').text(PERMAScores['Negative Emotion'])
+  $('.hRes').text(PERMAScores['Health'])
+  $('.lonRes').text(PERMAScores['Loneliness'])
+  $('.owRes').text(PERMAScores['Overall'])
+
+  // hide the testCards and scroll to the top of the page
+  document.getElementById('quizPane').classList.add('hidden')
+  window.scrollTo(0, 0)
+  document.getElementById('resultsPane').classList.remove('hidden')
+
+  // generate chart
+  var dataArr = [
+    PERMAScores['Positive Emotion'],
+    PERMAScores['Engagement'],
+    PERMAScores['Relationships'],
+    PERMAScores['Meaning'],
+    PERMAScores['Accomplishment'],
+    PERMAScores['Negative Emotion'],
+    PERMAScores['Health'],
+    PERMAScores['Overall']
+  ]
+  var data = {
+    labels: ['P', 'E', 'R', 'M', 'A', 'N', 'H', 'OW'],
+    datasets: [{
+      label: 'Your Results',
+      backgroundColor: '#2196f3',
+      data: dataArr
+    }]
+  }
+  var dataCompare = {
+    labels: ['P', 'E', 'R', 'M', 'A', 'N', 'H', 'OW'],
+    datasets: [
+      {
+        label: 'Your Results',
+        backgroundColor: '#2196f3',
+        data: dataArr
+      },
+      {
+        label: 'Average',
+        backgroundColor: '#00bcd4',
+        data: [6.79, 7.41, 6.99, 7.17, 7.37, 7.14, 4.49, 7.03]
+      }
+    ]
+  }
+  var opts = {
+    scales: {
+      yAxes: [{
+        ticks: {
+          max: 10,
+          min: 0,
+          stepSize: 1,
+          beginAtZero: true
+        }
+      }]
+    }
+  }
+
+  var ctx = document.getElementById('resultsChart').getContext('2d')
+  var myBarChart = null // eslint-disable-line
+  if ($('#goCompare').prop('checked')) {
+    myBarChart = new Chart(ctx, {
+      type: 'bar',
+      data: dataCompare,
+      options: opts
+    })
+  } else {
+    myBarChart = new Chart(ctx, {
+      type: 'bar',
+      data: data,
+      options: opts
+    })
+    $('#keyText').hide()
+  }
+
+  // print results page header
+  var d = new Date()
+  var month = d.getMonth() + 1
+  var day = d.getDate()
+  var outputDate = (('' + day).length < 2 ? '0' : '') + day + '/' +
+    (('' + month).length < 2 ? '0' : '') + month + '/' +
+    d.getFullYear()
+
+  var inp = $('#nameInput').val()
+  var tinp = $.trim(inp)
+  if (tinp.length > 0) {
+    $('#topText').text('PERMA-P - ' + inp + "'s PERMA Profile - " + outputDate)
+  } else {
+    $('#topText').text('PERMA-P - ' + 'PERMA Profile Results - ' + outputDate)
+    tinp = 'Anon'
+  }
+
+  // save results to localStorage
+  if (storage === true) {
+    var lsd = {
+      'Name': tinp,
+      'DateString': d,
+      'Date': outputDate,
+      'P': PERMAScores['Positive Emotion'],
+      'E': PERMAScores['Engagement'],
+      'R': PERMAScores['Relationships'],
+      'M': PERMAScores['Meaning'],
+      'A': PERMAScores['Accomplishment'],
+      'N': PERMAScores['Negative Emotion'],
+      'H': PERMAScores['Health'],
+      'L': PERMAScores['Loneliness'],
+      'O': PERMAScores['Overall']
+    }
+    window.localStorage.setItem('PNS' + (testNo += 1), JSON.stringify(lsd))
   }
 }
 

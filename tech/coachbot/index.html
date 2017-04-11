@@ -3,9 +3,9 @@
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Coachbot | Peter Hughes</title>
     <meta name="description" content="CoachBot - Clean Language Coaching Robot">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="theme-color" content="#455A64">
     <meta name="mobile-web-app-capable" content="yes">
     <meta name="application-name" content="Coachbot | Peter Hughes">
@@ -15,9 +15,12 @@
     <meta name="robots" content="index, follow">
     <link rel="canonical" href="http://www.phugh.es/">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/skeleton/2.0.4/skeleton.min.css">
-    <style>hr {border-top: 1px solid #898989;}</style>
+    <style>
+      body {background-color: #d3d3d3; color: #222;}
+      hr {border-top: 1px solid #898989;}
+      </style>
   </head>
-  <body style="background-color: #E4E4E4; color: #222;">
+  <body>
     <div class="container">
       <div class="row">
         <div class="one-third column">
@@ -25,7 +28,7 @@
           <p>A Clean Language Coaching Robot</p>
         </div>
         <div class="two-thirds column u-pull-right">
-          <img src="balloon.jpg" alt="And what would you like to have happen?" class="u-max-full-width"/>
+          <img src="balloon.png" alt="And what would you like to have happen?" class="u-max-full-width"/>
         </div>
       </div>
       <hr>
@@ -52,7 +55,68 @@
       <hr>
       <div class="row">
         <h4>Helpful Commands</h4>
-        <img src="commands.jpg" alt="" class="u-max-full-width"/>
+        <table class="u-full-width">
+          <thead>
+            <tr>
+              <th>Command</th>
+              <th>Action</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>!help</td>
+              <td>Display help text</td>
+            </tr>
+            <tr>
+              <td>!version</td>
+              <td>Display version info</td>
+            </tr>
+            <tr>
+              <td>!goodbye</td>
+              <td>End the current session</td>
+            </tr>
+            <tr>
+              <td>!?</td>
+              <td>Type this if the bot isn't making sense</td>
+            </tr>
+            <tr>
+              <td>!reset (client/settings/all)</td>
+              <td>Reset the client/settings/both to default</td>
+            </tr>
+            <tr>
+              <td>!name name</td>
+              <td>Change the client's name</td>
+            </tr>
+            <tr>
+              <td>!botName name</td>
+              <td>Change the bot's name</td>
+            </tr>
+            <tr>
+              <td>!sound true/false</td>
+              <td>Toggle sound effects</td>
+            </tr>
+            <tr>
+              <td>!debug true/false</td>
+              <td>Toggle debug console logging</td>
+            </tr>
+            <tr>
+              <td>!logging</td>
+              <td>Toggle verbose console logging mode</td>
+            </tr>
+            <tr>
+              <td>!capitalise true/false</td>
+              <td>Toggle sentence case for bot replies</td>
+            </tr>
+            <tr>
+              <td>!quote</td>
+              <td>Toggle quotation marks in bot's replies</td>
+            </tr>
+            <tr>
+              <td>!rv</td>
+              <td>Toggle verb form flipping</td>
+            </tr>
+          </tbody>
+        </table>
       </div>
       <hr>
       <div class="row">
