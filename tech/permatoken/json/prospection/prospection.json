@@ -1,0 +1,4702 @@
+[
+  {
+    "term": "hate",
+    "category": "PRESENT",
+    "weight": 0.178097840537
+  },
+  {
+    "term": "all the",
+    "category": "PRESENT",
+    "weight": 0.0111579547923
+  },
+  {
+    "term": "every",
+    "category": "PRESENT",
+    "weight": -0.250429408255
+  },
+  {
+    "term": "school",
+    "category": "PRESENT",
+    "weight": -0.0860290720118
+  },
+  {
+    "term": ". lmao",
+    "category": "PRESENT",
+    "weight": -0.0076388148217
+  },
+  {
+    "term": "me out",
+    "category": "PRESENT",
+    "weight": 0.0649362751006
+  },
+  {
+    "term": "tired",
+    "category": "PRESENT",
+    "weight": 0.123453377714
+  },
+  {
+    "term": "am .",
+    "category": "PRESENT",
+    "weight": -0.0392286621844
+  },
+  {
+    "term": "new",
+    "category": "PRESENT",
+    "weight": -0.0155768991472
+  },
+  {
+    "term": "never",
+    "category": "PRESENT",
+    "weight": 0.0152289108466
+  },
+  {
+    "term": "here",
+    "category": "PRESENT",
+    "weight": -0.0247784843626
+  },
+  {
+    "term": "i'm",
+    "category": "PRESENT",
+    "weight": 0.0689838683497
+  },
+  {
+    "term": "<3",
+    "category": "PRESENT",
+    "weight": 0.0220489891323
+  },
+  {
+    "term": "me",
+    "category": "PRESENT",
+    "weight": -0.0757119109052
+  },
+  {
+    "term": "my",
+    "category": "PRESENT",
+    "weight": -0.0492446196856
+  },
+  {
+    "term": "want",
+    "category": "PRESENT",
+    "weight": 0.0774596618342
+  },
+  {
+    "term": "happy birthday",
+    "category": "PRESENT",
+    "weight": 0.0440905905046
+  },
+  {
+    "term": "how",
+    "category": "PRESENT",
+    "weight": 0.0279230089311
+  },
+  {
+    "term": "have to",
+    "category": "PRESENT",
+    "weight": 0.142470922614
+  },
+  {
+    "term": "after",
+    "category": "PRESENT",
+    "weight": -0.391894215434
+  },
+  {
+    "term": "before",
+    "category": "PRESENT",
+    "weight": -0.138458605577
+  },
+  {
+    "term": ",",
+    "category": "PRESENT",
+    "weight": 0.0353801005412
+  },
+  {
+    "term": "then",
+    "category": "PRESENT",
+    "weight": -0.258566686738
+  },
+  {
+    "term": "them",
+    "category": "PRESENT",
+    "weight": 0.0143543012349
+  },
+  {
+    "term": "break",
+    "category": "PRESENT",
+    "weight": -0.343420359729
+  },
+  {
+    "term": "they",
+    "category": "PRESENT",
+    "weight": -0.00753096510854
+  },
+  {
+    "term": "went",
+    "category": "PRESENT",
+    "weight": -0.0658368926027
+  },
+  {
+    "term": "rt",
+    "category": "PRESENT",
+    "weight": 0.294951640453
+  },
+  {
+    "term": "have a",
+    "category": "PRESENT",
+    "weight": 0.281082122187
+  },
+  {
+    "term": "got",
+    "category": "PRESENT",
+    "weight": -0.292360145145
+  },
+  {
+    "term": "days",
+    "category": "PRESENT",
+    "weight": -0.528585057767
+  },
+  {
+    "term": "girls",
+    "category": "PRESENT",
+    "weight": 0.0515485983909
+  },
+  {
+    "term": "took",
+    "category": "PRESENT",
+    "weight": -0.241931309899
+  },
+  {
+    "term": "a little",
+    "category": "PRESENT",
+    "weight": 0.0604085560558
+  },
+  {
+    "term": "matter",
+    "category": "PRESENT",
+    "weight": 0.0201050517693
+  },
+  {
+    "term": "feeling",
+    "category": "PRESENT",
+    "weight": 0.0430778105502
+  },
+  {
+    "term": "spent",
+    "category": "PRESENT",
+    "weight": -0.120936206371
+  },
+  {
+    "term": "seen",
+    "category": "PRESENT",
+    "weight": -0.22397148978
+  },
+  {
+    "term": "! i",
+    "category": "PRESENT",
+    "weight": -0.0613496677838
+  },
+  {
+    "term": "-",
+    "category": "PRESENT",
+    "weight": 0.0201289923879
+  },
+  {
+    "term": "i don't",
+    "category": "PRESENT",
+    "weight": 0.068214102946
+  },
+  {
+    "term": ". ",
+    "category": "PRESENT",
+    "weight": -0.0255145816809
+  },
+  {
+    "term": "! !",
+    "category": "PRESENT",
+    "weight": 0.0743675212245
+  },
+  {
+    "term": "had to",
+    "category": "PRESENT",
+    "weight": -0.133745230973
+  },
+  {
+    "term": "has a",
+    "category": "PRESENT",
+    "weight": 0.0947959924455
+  },
+  {
+    "term": "came",
+    "category": "PRESENT",
+    "weight": -0.221095047006
+  },
+  {
+    "term": "it .",
+    "category": "PRESENT",
+    "weight": 0.0285679495484
+  },
+  {
+    "term": "! http://t.co",
+    "category": "PRESENT",
+    "weight": -0.206197417559
+  },
+  {
+    "term": "about",
+    "category": "PRESENT",
+    "weight": -0.00419772126534
+  },
+  {
+    "term": 10,
+    "category": "PRESENT",
+    "weight": -0.0538802371023
+  },
+  {
+    "term": "da",
+    "category": "PRESENT",
+    "weight": 0.156776374187
+  },
+  {
+    "term": "said",
+    "category": "PRESENT",
+    "weight": -0.163452117633
+  },
+  {
+    "term": "there's",
+    "category": "PRESENT",
+    "weight": 0.0753896372593
+  },
+  {
+    "term": "bout to",
+    "category": "PRESENT",
+    "weight": -0.103851161694
+  },
+  {
+    "term": "wtf",
+    "category": "PRESENT",
+    "weight": -0.102741655882
+  },
+  {
+    "term": "been",
+    "category": "PRESENT",
+    "weight": -0.274665492896
+  },
+  {
+    "term": "life",
+    "category": "PRESENT",
+    "weight": 0.156611556445
+  },
+  {
+    "term": "has",
+    "category": "PRESENT",
+    "weight": 0.0203617278269
+  },
+  {
+    "term": "is",
+    "category": "PRESENT",
+    "weight": 0.276979742893
+  },
+  {
+    "term": "im",
+    "category": "PRESENT",
+    "weight": 0.015013963468
+  },
+  {
+    "term": "in",
+    "category": "PRESENT",
+    "weight": -0.107269344897
+  },
+  {
+    "term": "s / o",
+    "category": "PRESENT",
+    "weight": 0.0373988263208
+  },
+  {
+    "term": "the",
+    "category": "PRESENT",
+    "weight": -0.0811159113566
+  },
+  {
+    "term": "left",
+    "category": "PRESENT",
+    "weight": -0.207363344669
+  },
+  {
+    "term": "just",
+    "category": "PRESENT",
+    "weight": -0.148012255464
+  },
+  {
+    "term": "thanks",
+    "category": "PRESENT",
+    "weight": -0.0100392683694
+  },
+  {
+    "term": "yes",
+    "category": "PRESENT",
+    "weight": -0.013101392434
+  },
+  {
+    "term": "had",
+    "category": "PRESENT",
+    "weight": -0.343306513243
+  },
+  {
+    "term": "on .",
+    "category": "PRESENT",
+    "weight": 0.00299286642635
+  },
+  {
+    "term": "at my",
+    "category": "PRESENT",
+    "weight": 0.00130357518196
+  },
+  {
+    "term": "gave",
+    "category": "PRESENT",
+    "weight": -0.2403794714
+  },
+  {
+    "term": "is a",
+    "category": "PRESENT",
+    "weight": 0.12519730043
+  },
+  {
+    "term": "night",
+    "category": "PRESENT",
+    "weight": -0.509647576773
+  },
+  {
+    "term": "i had",
+    "category": "PRESENT",
+    "weight": 0.224799493943
+  },
+  {
+    "term": "right",
+    "category": "PRESENT",
+    "weight": 0.0541890418536
+  },
+  {
+    "term": "deal",
+    "category": "PRESENT",
+    "weight": -0.0499214262864
+  },
+  {
+    "term": "for",
+    "category": "PRESENT",
+    "weight": -0.134709609907
+  },
+  {
+    "term": "get on",
+    "category": "PRESENT",
+    "weight": -0.0259769601595
+  },
+  {
+    "term": "everything",
+    "category": "PRESENT",
+    "weight": 0.0103827372193
+  },
+  {
+    "term": "o",
+    "category": "PRESENT",
+    "weight": 0.00284891614379
+  },
+  {
+    "term": "i am",
+    "category": "PRESENT",
+    "weight": 0.0478468080082
+  },
+  {
+    "term": "two",
+    "category": "PRESENT",
+    "weight": -0.137518434668
+  },
+  {
+    "term": "down",
+    "category": "PRESENT",
+    "weight": -0.0210121047686
+  },
+  {
+    "term": "music",
+    "category": "PRESENT",
+    "weight": 0.263977595242
+  },
+  {
+    "term": "was",
+    "category": "PRESENT",
+    "weight": -0.637257431596
+  },
+  {
+    "term": "happy",
+    "category": "PRESENT",
+    "weight": 0.337363403597
+  },
+  {
+    "term": "head",
+    "category": "PRESENT",
+    "weight": -0.038499382447
+  },
+  {
+    "term": "tell",
+    "category": "PRESENT",
+    "weight": -0.116727661001
+  },
+  {
+    "term": "later",
+    "category": "PRESENT",
+    "weight": -0.138347003117
+  },
+  {
+    "term": "it was",
+    "category": "PRESENT",
+    "weight": -0.295015277891
+  },
+  {
+    "term": "though ,",
+    "category": "PRESENT",
+    "weight": 0.309396352882
+  },
+  {
+    "term": "no",
+    "category": "PRESENT",
+    "weight": 0.111149402021
+  },
+  {
+    "term": "test",
+    "category": "PRESENT",
+    "weight": -0.20666327413
+  },
+  {
+    "term": "weekend",
+    "category": "PRESENT",
+    "weight": -0.481000477661
+  },
+  {
+    "term": "time",
+    "category": "PRESENT",
+    "weight": -0.0498388727101
+  },
+  {
+    "term": ":(",
+    "category": "PRESENT",
+    "weight": -0.00157198033865
+  },
+  {
+    "term": ":)",
+    "category": "PRESENT",
+    "weight": -0.0759368585097
+  },
+  {
+    "term": ". i'm",
+    "category": "PRESENT",
+    "weight": -0.0310431887732
+  },
+  {
+    "term": "/",
+    "category": "PRESENT",
+    "weight": 0.0178414701018
+  },
+  {
+    "term": "finally",
+    "category": "PRESENT",
+    "weight": -0.504555170047
+  },
+  {
+    "term": "text",
+    "category": "PRESENT",
+    "weight": -0.0249331614265
+  },
+  {
+    "term": "i can't",
+    "category": "PRESENT",
+    "weight": 0.0506937111989
+  },
+  {
+    "term": "did",
+    "category": "PRESENT",
+    "weight": -0.31600805694
+  },
+  {
+    "term": "soooo",
+    "category": "PRESENT",
+    "weight": -0.108582829222
+  },
+  {
+    "term": "says",
+    "category": "PRESENT",
+    "weight": -0.063268904518
+  },
+  {
+    "term": "waiting for",
+    "category": "PRESENT",
+    "weight": 0.593609993661
+  },
+  {
+    "term": "wait",
+    "category": "PRESENT",
+    "weight": -0.479448303192
+  },
+  {
+    "term": "so much",
+    "category": "PRESENT",
+    "weight": -0.173898305184
+  },
+  {
+    "term": "love",
+    "category": "PRESENT",
+    "weight": 0.154799987896
+  },
+  {
+    "term": "today",
+    "category": "PRESENT",
+    "weight": -0.240579032839
+  },
+  {
+    "term": "car",
+    "category": "PRESENT",
+    "weight": -0.0538905477299
+  },
+  {
+    "term": "can",
+    "category": "PRESENT",
+    "weight": -0.00857410345514
+  },
+  {
+    "term": "fuck",
+    "category": "PRESENT",
+    "weight": 0.0117788742329
+  },
+  {
+    "term": "heard",
+    "category": "PRESENT",
+    "weight": -0.214602552555
+  },
+  {
+    "term": "watching",
+    "category": "PRESENT",
+    "weight": 0.0811660921255
+  },
+  {
+    "term": 1,
+    "category": "PRESENT",
+    "weight": -0.104374143873
+  },
+  {
+    "term": "till",
+    "category": "PRESENT",
+    "weight": -0.104458763739
+  },
+  {
+    "term": "sunday",
+    "category": "PRESENT",
+    "weight": -0.43917760455
+  },
+  {
+    "term": "guys",
+    "category": "PRESENT",
+    "weight": 0.0964039031495
+  },
+  {
+    "term": "grow",
+    "category": "PRESENT",
+    "weight": 0.0275038223234
+  },
+  {
+    "term": "all my",
+    "category": "PRESENT",
+    "weight": -0.0838748070097
+  },
+  {
+    "term": "cold",
+    "category": "PRESENT",
+    "weight": 0.177659696353
+  },
+  {
+    "term": "still",
+    "category": "PRESENT",
+    "weight": 0.150958004858
+  },
+  {
+    "term": ".... but",
+    "category": "PRESENT",
+    "weight": 0.0705681880878
+  },
+  {
+    "term": "thank",
+    "category": "PRESENT",
+    "weight": -0.167383580363
+  },
+  {
+    "term": "the world",
+    "category": "PRESENT",
+    "weight": 0.0144272257739
+  },
+  {
+    "term": 3,
+    "category": "PRESENT",
+    "weight": -0.275467506109
+  },
+  {
+    "term": "not",
+    "category": "PRESENT",
+    "weight": -0.0328716652423
+  },
+  {
+    "term": "now",
+    "category": "PRESENT",
+    "weight": 0.0585761548603
+  },
+  {
+    "term": "day !",
+    "category": "PRESENT",
+    "weight": 0.238390673992
+  },
+  {
+    "term": "year",
+    "category": "PRESENT",
+    "weight": -0.207992183681
+  },
+  {
+    "term": "care",
+    "category": "PRESENT",
+    "weight": 0.0807858814084
+  },
+  {
+    "term": "first",
+    "category": "PRESENT",
+    "weight": -0.216212943033
+  },
+  {
+    "term": "tomorrow",
+    "category": "PRESENT",
+    "weight": -0.977217579817
+  },
+  {
+    "term": "anyone",
+    "category": "PRESENT",
+    "weight": -0.038430642067
+  },
+  {
+    "term": 2,
+    "category": "PRESENT",
+    "weight": -0.205433794443
+  },
+  {
+    "term": "get it",
+    "category": "PRESENT",
+    "weight": 0.126206383196
+  },
+  {
+    "term": "eyes",
+    "category": "PRESENT",
+    "weight": 0.164074788514
+  },
+  {
+    "term": "that",
+    "category": "PRESENT",
+    "weight": -0.0231187928767
+  },
+  {
+    "term": 13,
+    "category": "PRESENT",
+    "weight": -0.116703527019
+  },
+  {
+    "term": "bored",
+    "category": "PRESENT",
+    "weight": 0.501394974836
+  },
+  {
+    "term": "were",
+    "category": "PRESENT",
+    "weight": -0.203670327943
+  },
+  {
+    "term": "and",
+    "category": "PRESENT",
+    "weight": 0.0277708373918
+  },
+  {
+    "term": "say",
+    "category": "PRESENT",
+    "weight": 0.178215421671
+  },
+  {
+    "term": "saw",
+    "category": "PRESENT",
+    "weight": -0.37886491469
+  },
+  {
+    "term": "any",
+    "category": "PRESENT",
+    "weight": 0.0882354604686
+  },
+  {
+    "term": "have the",
+    "category": "PRESENT",
+    "weight": 0.168496317405
+  },
+  {
+    "term": "take",
+    "category": "PRESENT",
+    "weight": -0.184177249866
+  },
+  {
+    "term": "in my",
+    "category": "PRESENT",
+    "weight": -0.0214315354903
+  },
+  {
+    "term": "going",
+    "category": "PRESENT",
+    "weight": -0.311585817956
+  },
+  {
+    "term": "get",
+    "category": "PRESENT",
+    "weight": -0.166966187659
+  },
+  {
+    "term": "cannot",
+    "category": "PRESENT",
+    "weight": 0.168074402854
+  },
+  {
+    "term": "morning",
+    "category": "PRESENT",
+    "weight": -0.130263193689
+  },
+  {
+    "term": "again ...",
+    "category": "PRESENT",
+    "weight": 0.243292702114
+  },
+  {
+    "term": "come",
+    "category": "PRESENT",
+    "weight": -0.272274759219
+  },
+  {
+    "term": "s",
+    "category": "PRESENT",
+    "weight": 0.0533445931749
+  },
+  {
+    "term": "can't",
+    "category": "PRESENT",
+    "weight": 0.0452890552915
+  },
+  {
+    "term": "wants",
+    "category": "PRESENT",
+    "weight": 0.182407169407
+  },
+  {
+    "term": "for you",
+    "category": "PRESENT",
+    "weight": 0.00973930327723
+  },
+  {
+    "term": "those",
+    "category": "PRESENT",
+    "weight": 0.256792736799
+  },
+  {
+    "term": "these",
+    "category": "PRESENT",
+    "weight": 0.108538631079
+  },
+  {
+    "term": "coffee",
+    "category": "PRESENT",
+    "weight": -0.151303583207
+  },
+  {
+    "term": "about to",
+    "category": "PRESENT",
+    "weight": -0.314139268724
+  },
+  {
+    "term": "i love",
+    "category": "PRESENT",
+    "weight": 0.505804627496
+  },
+  {
+    "term": "without",
+    "category": "PRESENT",
+    "weight": -0.173528591187
+  },
+  {
+    "term": "do it",
+    "category": "PRESENT",
+    "weight": -0.232196089988
+  },
+  {
+    "term": "money",
+    "category": "PRESENT",
+    "weight": 0.0392686110198
+  },
+  {
+    "term": "rest",
+    "category": "PRESENT",
+    "weight": 0.123446943259
+  },
+  {
+    "term": "give a",
+    "category": "PRESENT",
+    "weight": 0.152296788497
+  },
+  {
+    "term": 4,
+    "category": "PRESENT",
+    "weight": -0.395156347181
+  },
+  {
+    "term": "real",
+    "category": "PRESENT",
+    "weight": 0.0561661462138
+  },
+  {
+    "term": "around",
+    "category": "PRESENT",
+    "weight": 0.00190147644988
+  },
+  {
+    "term": "read",
+    "category": "PRESENT",
+    "weight": -0.164847223828
+  },
+  {
+    "term": "gonna",
+    "category": "PRESENT",
+    "weight": -0.77893022342
+  },
+  {
+    "term": "amp",
+    "category": "PRESENT",
+    "weight": -0.0628016758758
+  },
+  {
+    "term": "thinks",
+    "category": "PRESENT",
+    "weight": 0.134958060019
+  },
+  {
+    "term": "on",
+    "category": "PRESENT",
+    "weight": -0.105882469613
+  },
+  {
+    "term": "oh",
+    "category": "PRESENT",
+    "weight": -0.144084490856
+  },
+  {
+    "term": "of",
+    "category": "PRESENT",
+    "weight": 0.0236360656807
+  },
+  {
+    "term": "it's",
+    "category": "PRESENT",
+    "weight": 0.174936669759
+  },
+  {
+    "term": "or",
+    "category": "PRESENT",
+    "weight": -0.0946854517097
+  },
+  {
+    "term": "you just",
+    "category": "PRESENT",
+    "weight": 0.0354635002819
+  },
+  {
+    "term": "your",
+    "category": "PRESENT",
+    "weight": 0.00631232198659
+  },
+  {
+    "term": "lol",
+    "category": "PRESENT",
+    "weight": -0.227773283158
+  },
+  {
+    "term": "start",
+    "category": "PRESENT",
+    "weight": -0.0105671708299
+  },
+  {
+    "term": "and you",
+    "category": "PRESENT",
+    "weight": -0.0840055306839
+  },
+  {
+    "term": "with",
+    "category": "PRESENT",
+    "weight": -0.0599436461688
+  },
+  {
+    "term": "/ o",
+    "category": "PRESENT",
+    "weight": 0.00324627297255
+  },
+  {
+    "term": "gone",
+    "category": "PRESENT",
+    "weight": -0.113103827798
+  },
+  {
+    "term": "ah",
+    "category": "PRESENT",
+    "weight": -0.0296656690413
+  },
+  {
+    "term": "an",
+    "category": "PRESENT",
+    "weight": -0.0232030533396
+  },
+  {
+    "term": "at",
+    "category": "PRESENT",
+    "weight": -0.140831778761
+  },
+  {
+    "term": "i need",
+    "category": "PRESENT",
+    "weight": -0.191931314733
+  },
+  {
+    "term": "saturday",
+    "category": "PRESENT",
+    "weight": -0.0997239106683
+  },
+  {
+    "term": "you",
+    "category": "PRESENT",
+    "weight": 0.0689419466775
+  },
+  {
+    "term": "i would",
+    "category": "PRESENT",
+    "weight": -0.043087578171
+  },
+  {
+    "term": "having",
+    "category": "PRESENT",
+    "weight": 0.0923369955837
+  },
+  {
+    "term": "u",
+    "category": "PRESENT",
+    "weight": 0.148525051854
+  },
+  {
+    "term": "all",
+    "category": "PRESENT",
+    "weight": 0.0252494798179
+  },
+  {
+    "term": "to",
+    "category": "PRESENT",
+    "weight": -0.15214003106
+  },
+  {
+    "term": "smile",
+    "category": "PRESENT",
+    "weight": 0.104233376597
+  },
+  {
+    "term": "i'll",
+    "category": "PRESENT",
+    "weight": -0.00697871354935
+  },
+  {
+    "term": "tea",
+    "category": "PRESENT",
+    "weight": 0.0418372849224
+  },
+  {
+    "term": "what",
+    "category": "PRESENT",
+    "weight": -0.00690736433539
+  },
+  {
+    "term": "right now",
+    "category": "PRESENT",
+    "weight": 0.249745143378
+  },
+  {
+    "term": "like the",
+    "category": "PRESENT",
+    "weight": 0.171194929881
+  },
+  {
+    "term": "full",
+    "category": "PRESENT",
+    "weight": 0.029385822215
+  },
+  {
+    "term": "hours",
+    "category": "PRESENT",
+    "weight": -0.239155596898
+  },
+  {
+    "term": "put",
+    "category": "PRESENT",
+    "weight": -0.0910111858343
+  },
+  {
+    "term": "up and",
+    "category": "PRESENT",
+    "weight": 0.0191879781551
+  },
+  {
+    "term": "i just",
+    "category": "PRESENT",
+    "weight": 0.102268802632
+  },
+  {
+    "term": "glad",
+    "category": "PRESENT",
+    "weight": -0.0511839385672
+  },
+  {
+    "term": "hour",
+    "category": "PRESENT",
+    "weight": -0.353493370542
+  },
+  {
+    "term": "to find",
+    "category": "PRESENT",
+    "weight": 0.184748719885
+  },
+  {
+    "term": "dress",
+    "category": "PRESENT",
+    "weight": 0.0869600092141
+  },
+  {
+    "term": "!",
+    "category": "PRESENT",
+    "weight": -0.0795216551762
+  },
+  {
+    "term": "bit of",
+    "category": "PRESENT",
+    "weight": 0.111774769942
+  },
+  {
+    "term": "tried",
+    "category": "PRESENT",
+    "weight": -0.0714422115473
+  },
+  {
+    "term": "coming",
+    "category": "PRESENT",
+    "weight": -0.0325798450467
+  },
+  {
+    "term": "a",
+    "category": "PRESENT",
+    "weight": -0.088243666646
+  },
+  {
+    "term": "help",
+    "category": "PRESENT",
+    "weight": 0.0449600729072
+  },
+  {
+    "term": "don't",
+    "category": "PRESENT",
+    "weight": 0.0365178458133
+  },
+  {
+    "term": "soon",
+    "category": "PRESENT",
+    "weight": -0.453477074802
+  },
+  {
+    "term": "its",
+    "category": "PRESENT",
+    "weight": 0.0715438841735
+  },
+  {
+    "term": "good",
+    "category": "PRESENT",
+    "weight": 0.0503010777854
+  },
+  {
+    "term": "just got",
+    "category": "PRESENT",
+    "weight": -0.425752178601
+  },
+  {
+    "term": "always",
+    "category": "PRESENT",
+    "weight": 0.293628991576
+  },
+  {
+    "term": "found",
+    "category": "PRESENT",
+    "weight": -0.121133017806
+  },
+  {
+    "term": "week",
+    "category": "PRESENT",
+    "weight": -0.55184727714
+  },
+  {
+    "term": "everyone",
+    "category": "PRESENT",
+    "weight": 0.118655492166
+  },
+  {
+    "term": "off to",
+    "category": "PRESENT",
+    "weight": -0.273911883371
+  },
+  {
+    "term": "friday",
+    "category": "PRESENT",
+    "weight": -0.0912179004849
+  },
+  {
+    "term": "guess",
+    "category": "PRESENT",
+    "weight": -0.23595893735
+  },
+  {
+    "term": "wish i",
+    "category": "PRESENT",
+    "weight": 0.392390061436
+  },
+  {
+    "term": "dont",
+    "category": "PRESENT",
+    "weight": 0.0469640089629
+  },
+  {
+    "term": "feel",
+    "category": "PRESENT",
+    "weight": 0.052415178953
+  },
+  {
+    "term": "done",
+    "category": "PRESENT",
+    "weight": -0.296485793963
+  },
+  {
+    "term": "are you",
+    "category": "PRESENT",
+    "weight": -0.13218720245
+  },
+  {
+    "term": "for the",
+    "category": "PRESENT",
+    "weight": -0.095759438046
+  },
+  {
+    "term": ". http://t.co /",
+    "category": "PRESENT",
+    "weight": 0.00134845606476
+  },
+  {
+    "term": "i think",
+    "category": "PRESENT",
+    "weight": -0.00946086879116
+  },
+  {
+    "term": "just want",
+    "category": "PRESENT",
+    "weight": 0.603051394314
+  },
+  {
+    "term": "i like",
+    "category": "PRESENT",
+    "weight": 0.156021977591
+  },
+  {
+    "term": "hit",
+    "category": "PRESENT",
+    "weight": -0.167878443935
+  },
+  {
+    "term": "i go",
+    "category": "PRESENT",
+    "weight": 0.0763885044425
+  },
+  {
+    "term": "feels",
+    "category": "PRESENT",
+    "weight": 0.0815768268009
+  },
+  {
+    "term": "no one",
+    "category": "PRESENT",
+    "weight": 0.273553647016
+  },
+  {
+    "term": "! ? !",
+    "category": "PRESENT",
+    "weight": -0.0209445769625
+  },
+  {
+    "term": "see",
+    "category": "PRESENT",
+    "weight": 0.0199192750463
+  },
+  {
+    "term": "are",
+    "category": "PRESENT",
+    "weight": 0.216942479996
+  },
+  {
+    "term": "please",
+    "category": "PRESENT",
+    "weight": -0.325108229986
+  },
+  {
+    "term": "won",
+    "category": "PRESENT",
+    "weight": -0.24351776487
+  },
+  {
+    "term": "last",
+    "category": "PRESENT",
+    "weight": -0.299323053031
+  },
+  {
+    "term": "to be",
+    "category": "PRESENT",
+    "weight": 0.286745255233
+  },
+  {
+    "term": "whole",
+    "category": "PRESENT",
+    "weight": -0.0670298680043
+  },
+  {
+    "term": "due",
+    "category": "PRESENT",
+    "weight": -0.209037012963
+  },
+  {
+    "term": "what's",
+    "category": "PRESENT",
+    "weight": 0.417448280911
+  },
+  {
+    "term": "trying to",
+    "category": "PRESENT",
+    "weight": 0.250669666191
+  },
+  {
+    "term": "look",
+    "category": "PRESENT",
+    "weight": 0.213436355977
+  },
+  {
+    "term": "i can",
+    "category": "PRESENT",
+    "weight": 0.0432979683853
+  },
+  {
+    "term": "yesterday",
+    "category": "PRESENT",
+    "weight": -0.26825933146
+  },
+  {
+    "term": "! http://t.co /",
+    "category": "PRESENT",
+    "weight": -0.0269328315076
+  },
+  {
+    "term": "one more",
+    "category": "PRESENT",
+    "weight": -0.141422683469
+  },
+  {
+    "term": "listening",
+    "category": "PRESENT",
+    "weight": 0.100297931634
+  },
+  {
+    "term": "world",
+    "category": "PRESENT",
+    "weight": 0.119896716905
+  },
+  {
+    "term": "excited",
+    "category": "PRESENT",
+    "weight": -0.0138812646261
+  },
+  {
+    "term": "...",
+    "category": "PRESENT",
+    "weight": -0.0568704639536
+  },
+  {
+    "term": "game",
+    "category": "PRESENT",
+    "weight": -0.22041123026
+  },
+  {
+    "term": "be",
+    "category": "PRESENT",
+    "weight": 0.0688581916043
+  },
+  {
+    "term": "run",
+    "category": "PRESENT",
+    "weight": -0.022451611045
+  },
+  {
+    "term": "wanna",
+    "category": "PRESENT",
+    "weight": -0.316839524991
+  },
+  {
+    "term": "into",
+    "category": "PRESENT",
+    "weight": -0.0106104737942
+  },
+  {
+    "term": "because",
+    "category": "PRESENT",
+    "weight": 0.180676120121
+  },
+  {
+    "term": "..",
+    "category": "PRESENT",
+    "weight": -0.0664744467033
+  },
+  {
+    "term": "long",
+    "category": "PRESENT",
+    "weight": -0.0380760134488
+  },
+  {
+    "term": ":",
+    "category": "PRESENT",
+    "weight": 0.0371108612139
+  },
+  {
+    "term": "....",
+    "category": "PRESENT",
+    "weight": 0.0817443086785
+  },
+  {
+    "term": "up",
+    "category": "PRESENT",
+    "weight": -0.072333971909
+  },
+  {
+    "term": "ur",
+    "category": "PRESENT",
+    "weight": 0.00941574307173
+  },
+  {
+    "term": "%",
+    "category": "PRESENT",
+    "weight": -0.191910063222
+  },
+  {
+    "term": "nice",
+    "category": "PRESENT",
+    "weight": 0.0523314557563
+  },
+  {
+    "term": ": i",
+    "category": "PRESENT",
+    "weight": -0.0828464269194
+  },
+  {
+    "term": "find a",
+    "category": "PRESENT",
+    "weight": 0.263404206226
+  },
+  {
+    "term": "with all",
+    "category": "PRESENT",
+    "weight": -0.0160828094196
+  },
+  {
+    "term": "go",
+    "category": "PRESENT",
+    "weight": -0.101595892061
+  },
+  {
+    "term": "wishes",
+    "category": "PRESENT",
+    "weight": -0.0412771955309
+  },
+  {
+    "term": "my life",
+    "category": "PRESENT",
+    "weight": 0.0505560764145
+  },
+  {
+    "term": "great",
+    "category": "PRESENT",
+    "weight": -0.102070612706
+  },
+  {
+    "term": 30,
+    "category": "PRESENT",
+    "weight": -0.0953452465538
+  },
+  {
+    "term": "leaving",
+    "category": "PRESENT",
+    "weight": -0.0080300780856
+  },
+  {
+    "term": "makes",
+    "category": "PRESENT",
+    "weight": 0.380300830282
+  },
+  {
+    "term": "http://t.co /",
+    "category": "PRESENT",
+    "weight": 0.0198289987459
+  },
+  {
+    "term": "i was",
+    "category": "PRESENT",
+    "weight": 0.188955897832
+  },
+  {
+    "term": "of my",
+    "category": "PRESENT",
+    "weight": -0.0454137293637
+  },
+  {
+    "term": "use",
+    "category": "PRESENT",
+    "weight": -0.000689614528293
+  },
+  {
+    "term": "from",
+    "category": "PRESENT",
+    "weight": -0.276212074408
+  },
+  {
+    "term": "next",
+    "category": "PRESENT",
+    "weight": -0.2408609484
+  },
+  {
+    "term": "babe",
+    "category": "PRESENT",
+    "weight": 0.0563302342691
+  },
+  {
+    "term": "this",
+    "category": "PRESENT",
+    "weight": -0.0943939516036
+  },
+  {
+    "term": "ride",
+    "category": "PRESENT",
+    "weight": -0.0947149730359
+  },
+  {
+    "term": "when",
+    "category": "PRESENT",
+    "weight": -0.168678926049
+  },
+  {
+    "term": "? !",
+    "category": "PRESENT",
+    "weight": -0.00733815132053
+  },
+  {
+    "term": "watch",
+    "category": "PRESENT",
+    "weight": -0.125572361651
+  },
+  {
+    "term": "won't",
+    "category": "PRESENT",
+    "weight": -0.174489572126
+  },
+  {
+    "term": "day",
+    "category": "PRESENT",
+    "weight": -0.207351867877
+  },
+  {
+    "term": "our",
+    "category": "PRESENT",
+    "weight": -0.0590732072948
+  },
+  {
+    "term": "out",
+    "category": "PRESENT",
+    "weight": -0.0122752897809
+  },
+  {
+    "term": "'",
+    "category": "PRESENT",
+    "weight": -0.00730350917769
+  },
+  {
+    "term": "cause",
+    "category": "PRESENT",
+    "weight": 0.16904001792
+  },
+  {
+    "term": "could",
+    "category": "PRESENT",
+    "weight": -0.0469222267232
+  },
+  {
+    "term": "the best",
+    "category": "PRESENT",
+    "weight": 0.0165443503441
+  },
+  {
+    "term": "loves",
+    "category": "PRESENT",
+    "weight": 0.0317731851996
+  },
+  {
+    "term": "tonight",
+    "category": "PRESENT",
+    "weight": -0.833603889796
+  },
+  {
+    "term": "i miss",
+    "category": "PRESENT",
+    "weight": 0.394326798609
+  },
+  {
+    "term": "need",
+    "category": "PRESENT",
+    "weight": 0.0290723342859
+  },
+  {
+    "term": "it is",
+    "category": "PRESENT",
+    "weight": -0.0278482818264
+  },
+  {
+    "term": "should",
+    "category": "PRESENT",
+    "weight": -0.109141408094
+  },
+  {
+    "term": "hope",
+    "category": "PRESENT",
+    "weight": -0.259945457234
+  },
+  {
+    "term": "yay !",
+    "category": "PRESENT",
+    "weight": -0.329348199672
+  },
+  {
+    "term": "=)",
+    "category": "PRESENT",
+    "weight": -0.0702538417224
+  },
+  {
+    "term": "we",
+    "category": "PRESENT",
+    "weight": -0.057515212516
+  },
+  {
+    "term": "on my",
+    "category": "PRESENT",
+    "weight": 0.265138799576
+  },
+  {
+    "term": "bought",
+    "category": "PRESENT",
+    "weight": -0.136823922281
+  },
+  {
+    "term": "i get",
+    "category": "PRESENT",
+    "weight": -0.176044873175
+  },
+  {
+    "term": "walk",
+    "category": "PRESENT",
+    "weight": -0.0129202305343
+  },
+  {
+    "term": "going to",
+    "category": "PRESENT",
+    "weight": -0.292602111434
+  },
+  {
+    "term": "s /",
+    "category": "PRESENT",
+    "weight": 0.00325763056588
+  },
+  {
+    "term": "am",
+    "category": "PRESENT",
+    "weight": 0.124666181156
+  },
+  {
+    "term": "finished",
+    "category": "PRESENT",
+    "weight": -0.24577159242
+  },
+  {
+    "term": "if you",
+    "category": "PRESENT",
+    "weight": 0.076587256139
+  },
+  {
+    "term": "will",
+    "category": "PRESENT",
+    "weight": -0.311583864624
+  },
+  {
+    "term": "almost",
+    "category": "PRESENT",
+    "weight": -0.0328755621342
+  },
+  {
+    "term": ")",
+    "category": "PRESENT",
+    "weight": -0.000686263473433
+  },
+  {
+    "term": "party",
+    "category": "PRESENT",
+    "weight": -0.194986124405
+  },
+  {
+    "term": "gets",
+    "category": "PRESENT",
+    "weight": -0.0179255225646
+  },
+  {
+    "term": "off",
+    "category": "PRESENT",
+    "weight": -0.207763118859
+  },
+  {
+    "term": "i",
+    "category": "PRESENT",
+    "weight": -0.040168470706
+  },
+  {
+    "term": "to all",
+    "category": "PRESENT",
+    "weight": 0.0221214039183
+  },
+  {
+    "term": "well",
+    "category": "PRESENT",
+    "weight": -0.0831544885441
+  },
+  {
+    "term": "is the",
+    "category": "PRESENT",
+    "weight": 0.110742149037
+  },
+  {
+    "term": "like",
+    "category": "PRESENT",
+    "weight": 0.0829915196323
+  },
+  {
+    "term": "lost",
+    "category": "PRESENT",
+    "weight": -0.547156008907
+  },
+  {
+    "term": ": if",
+    "category": "PRESENT",
+    "weight": 0.147303331066
+  },
+  {
+    "term": "become",
+    "category": "PRESENT",
+    "weight": 0.0795317688261
+  },
+  {
+    "term": "nigga",
+    "category": "PRESENT",
+    "weight": 0.266297152503
+  },
+  {
+    "term": "in this",
+    "category": "PRESENT",
+    "weight": 0.327765832097
+  },
+  {
+    "term": "home",
+    "category": "PRESENT",
+    "weight": 0.091385473151
+  },
+  {
+    "term": "... it",
+    "category": "PRESENT",
+    "weight": -0.0873312657543
+  },
+  {
+    "term": "a long",
+    "category": "PRESENT",
+    "weight": -0.0851022637667
+  },
+  {
+    "term": "?",
+    "category": "PRESENT",
+    "weight": -0.0518664554867
+  },
+  {
+    "term": "getting",
+    "category": "PRESENT",
+    "weight": -0.0618879501414
+  },
+  {
+    "term": "own",
+    "category": "PRESENT",
+    "weight": 0.0840964100882
+  },
+  {
+    "term": "*",
+    "category": "PRESENT",
+    "weight": 0.0379594572936
+  },
+  {
+    "term": "but",
+    "category": "PRESENT",
+    "weight": 0.13396522522
+  },
+  {
+    "term": "he",
+    "category": "PRESENT",
+    "weight": -0.0369303309424
+  },
+  {
+    "term": "made",
+    "category": "PRESENT",
+    "weight": -0.326432797344
+  },
+  {
+    "term": "girl",
+    "category": "PRESENT",
+    "weight": -0.0259970593051
+  },
+  {
+    "term": "sick",
+    "category": "PRESENT",
+    "weight": 0.10969961733
+  },
+  {
+    "term": ". http://t.co",
+    "category": "PRESENT",
+    "weight": 0.00837722539084
+  },
+  {
+    "term": "all the",
+    "category": "FUTURE",
+    "weight": 0.0723674084647
+  },
+  {
+    "term": "to work",
+    "category": "FUTURE",
+    "weight": -0.0447425742907
+  },
+  {
+    "term": "school",
+    "category": "FUTURE",
+    "weight": 0.0982044594791
+  },
+  {
+    "term": "tired",
+    "category": "FUTURE",
+    "weight": -0.125470459326
+  },
+  {
+    "term": "even",
+    "category": "FUTURE",
+    "weight": -0.14371768729
+  },
+  {
+    "term": "new",
+    "category": "FUTURE",
+    "weight": 0.0283986154868
+  },
+  {
+    "term": "ever",
+    "category": "FUTURE",
+    "weight": -0.0510196460067
+  },
+  {
+    "term": "never",
+    "category": "FUTURE",
+    "weight": -0.0940698460503
+  },
+  {
+    "term": "here",
+    "category": "FUTURE",
+    "weight": 0.13417161261
+  },
+  {
+    "term": "<3",
+    "category": "FUTURE",
+    "weight": -0.00603477339585
+  },
+  {
+    "term": "until",
+    "category": "FUTURE",
+    "weight": 0.0274219709113
+  },
+  {
+    "term": "haha",
+    "category": "FUTURE",
+    "weight": -0.0388630465319
+  },
+  {
+    "term": "me",
+    "category": "FUTURE",
+    "weight": 0.0325364240299
+  },
+  {
+    "term": "my",
+    "category": "FUTURE",
+    "weight": -0.0160972024833
+  },
+  {
+    "term": "want",
+    "category": "FUTURE",
+    "weight": 0.016305572558
+  },
+  {
+    "term": "i hope",
+    "category": "FUTURE",
+    "weight": 0.180950827732
+  },
+  {
+    "term": "thing",
+    "category": "FUTURE",
+    "weight": 0.00436321490298
+  },
+  {
+    "term": "how",
+    "category": "FUTURE",
+    "weight": -0.0904715437066
+  },
+  {
+    "term": "amazing",
+    "category": "FUTURE",
+    "weight": -0.051611317488
+  },
+  {
+    "term": "ima",
+    "category": "FUTURE",
+    "weight": 0.0380479208335
+  },
+  {
+    "term": ",",
+    "category": "FUTURE",
+    "weight": -0.0362975000696
+  },
+  {
+    "term": "weeks",
+    "category": "FUTURE",
+    "weight": 0.295563939407
+  },
+  {
+    "term": "then",
+    "category": "FUTURE",
+    "weight": 0.120594411006
+  },
+  {
+    "term": "on the",
+    "category": "FUTURE",
+    "weight": 0.0830211090393
+  },
+  {
+    "term": "break",
+    "category": "FUTURE",
+    "weight": 0.302040247948
+  },
+  {
+    "term": "went",
+    "category": "FUTURE",
+    "weight": -0.284559209948
+  },
+  {
+    "term": "christmas !",
+    "category": "FUTURE",
+    "weight": 0.16302157061
+  },
+  {
+    "term": "got",
+    "category": "FUTURE",
+    "weight": -0.197045326834
+  },
+  {
+    "term": "days",
+    "category": "FUTURE",
+    "weight": 0.540595758183
+  },
+  {
+    "term": "girls",
+    "category": "FUTURE",
+    "weight": -0.0420266157215
+  },
+  {
+    "term": "gym",
+    "category": "FUTURE",
+    "weight": 0.0424431457186
+  },
+  {
+    "term": "took",
+    "category": "FUTURE",
+    "weight": -0.0211815868531
+  },
+  {
+    "term": "mind",
+    "category": "FUTURE",
+    "weight": -0.0261253826717
+  },
+  {
+    "term": ". i",
+    "category": "FUTURE",
+    "weight": -0.029423911093
+  },
+  {
+    "term": "! i",
+    "category": "FUTURE",
+    "weight": 0.00349516418812
+  },
+  {
+    "term": "-",
+    "category": "FUTURE",
+    "weight": -0.0776475506898
+  },
+  {
+    "term": "is going",
+    "category": "FUTURE",
+    "weight": 0.0674844547639
+  },
+  {
+    "term": "busy",
+    "category": "FUTURE",
+    "weight": 0.324495090149
+  },
+  {
+    "term": "do",
+    "category": "FUTURE",
+    "weight": 0.0259413068487
+  },
+  {
+    "term": "best",
+    "category": "FUTURE",
+    "weight": -0.107088692726
+  },
+  {
+    "term": "hopefully",
+    "category": "FUTURE",
+    "weight": 0.380767155936
+  },
+  {
+    "term": "bout to",
+    "category": "FUTURE",
+    "weight": 0.545078735249
+  },
+  {
+    "term": "been",
+    "category": "FUTURE",
+    "weight": -0.130027510658
+  },
+  {
+    "term": ".",
+    "category": "FUTURE",
+    "weight": -0.063208497918
+  },
+  {
+    "term": "life",
+    "category": "FUTURE",
+    "weight": -0.131196539444
+  },
+  {
+    "term": "has",
+    "category": "FUTURE",
+    "weight": -0.088526242442
+  },
+  {
+    "term": "is",
+    "category": "FUTURE",
+    "weight": -0.108116409413
+  },
+  {
+    "term": "in",
+    "category": "FUTURE",
+    "weight": 0.0571632663389
+  },
+  {
+    "term": "if",
+    "category": "FUTURE",
+    "weight": 0.221461555961
+  },
+  {
+    "term": "make",
+    "category": "FUTURE",
+    "weight": 0.0554137838179
+  },
+  {
+    "term": "the",
+    "category": "FUTURE",
+    "weight": -0.0537367245099
+  },
+  {
+    "term": "just",
+    "category": "FUTURE",
+    "weight": -0.127121623385
+  },
+  {
+    "term": "thanks",
+    "category": "FUTURE",
+    "weight": -0.210074689196
+  },
+  {
+    "term": "yet",
+    "category": "FUTURE",
+    "weight": -0.0434847224091
+  },
+  {
+    "term": "had",
+    "category": "FUTURE",
+    "weight": -0.242914790558
+  },
+  {
+    "term": "is a",
+    "category": "FUTURE",
+    "weight": -0.0606125061631
+  },
+  {
+    "term": "night",
+    "category": "FUTURE",
+    "weight": 0.072713693476
+  },
+  {
+    "term": "people",
+    "category": "FUTURE",
+    "weight": -0.219354135755
+  },
+  {
+    "term": "for",
+    "category": "FUTURE",
+    "weight": 0.0916066524289
+  },
+  {
+    "term": "christmas",
+    "category": "FUTURE",
+    "weight": 0.0340520620333
+  },
+  {
+    "term": "super",
+    "category": "FUTURE",
+    "weight": -0.0834587793485
+  },
+  {
+    "term": "way",
+    "category": "FUTURE",
+    "weight": -0.0458316657687
+  },
+  {
+    "term": "was",
+    "category": "FUTURE",
+    "weight": -0.480784993444
+  },
+  {
+    "term": "happy",
+    "category": "FUTURE",
+    "weight": -0.141325957414
+  },
+  {
+    "term": "head",
+    "category": "FUTURE",
+    "weight": 0.0259167994696
+  },
+  {
+    "term": "hear",
+    "category": "FUTURE",
+    "weight": -0.0515667493616
+  },
+  {
+    "term": "tell",
+    "category": "FUTURE",
+    "weight": 0.0820727884468
+  },
+  {
+    "term": "later",
+    "category": "FUTURE",
+    "weight": 0.43791756831
+  },
+  {
+    "term": "check",
+    "category": "FUTURE",
+    "weight": 0.124680253953
+  },
+  {
+    "term": "no",
+    "category": "FUTURE",
+    "weight": -0.216360654734
+  },
+  {
+    "term": "til",
+    "category": "FUTURE",
+    "weight": 0.0253635795079
+  },
+  {
+    "term": "test",
+    "category": "FUTURE",
+    "weight": 0.165338604623
+  },
+  {
+    "term": "out of",
+    "category": "FUTURE",
+    "weight": -0.112964355882
+  },
+  {
+    "term": "why",
+    "category": "FUTURE",
+    "weight": -0.232541097845
+  },
+  {
+    "term": "weekend",
+    "category": "FUTURE",
+    "weight": 0.472021554362
+  },
+  {
+    "term": "time",
+    "category": "FUTURE",
+    "weight": 0.106482548199
+  },
+  {
+    "term": "back in the",
+    "category": "FUTURE",
+    "weight": 0.0358245198078
+  },
+  {
+    "term": ":)",
+    "category": "FUTURE",
+    "weight": 0.0214040806436
+  },
+  {
+    "term": "i can't",
+    "category": "FUTURE",
+    "weight": -0.0279731349781
+  },
+  {
+    "term": "did",
+    "category": "FUTURE",
+    "weight": -0.4705556233
+  },
+  {
+    "term": "team",
+    "category": "FUTURE",
+    "weight": 0.0705408560901
+  },
+  {
+    "term": "wait",
+    "category": "FUTURE",
+    "weight": 0.878768732038
+  },
+  {
+    "term": "love",
+    "category": "FUTURE",
+    "weight": -0.0664910153287
+  },
+  {
+    "term": "today",
+    "category": "FUTURE",
+    "weight": 0.0829744404672
+  },
+  {
+    "term": "can",
+    "category": "FUTURE",
+    "weight": 0.164533231435
+  },
+  {
+    "term": "awesome",
+    "category": "FUTURE",
+    "weight": -0.069885174794
+  },
+  {
+    "term": "didn't",
+    "category": "FUTURE",
+    "weight": -0.588788721476
+  },
+  {
+    "term": "fuck",
+    "category": "FUTURE",
+    "weight": -0.141617332695
+  },
+  {
+    "term": "watching",
+    "category": "FUTURE",
+    "weight": -0.0571711096104
+  },
+  {
+    "term": 1,
+    "category": "FUTURE",
+    "weight": 0.0263051950965
+  },
+  {
+    "term": "till",
+    "category": "FUTURE",
+    "weight": 0.335595866806
+  },
+  {
+    "term": "sunday",
+    "category": "FUTURE",
+    "weight": 0.526230332282
+  },
+  {
+    "term": "guys",
+    "category": "FUTURE",
+    "weight": -0.0300036446791
+  },
+  {
+    "term": "man",
+    "category": "FUTURE",
+    "weight": -0.0081794289378
+  },
+  {
+    "term": "so",
+    "category": "FUTURE",
+    "weight": -0.0214828063393
+  },
+  {
+    "term": "still",
+    "category": "FUTURE",
+    "weight": -0.116227200152
+  },
+  {
+    "term": "half",
+    "category": "FUTURE",
+    "weight": -0.104374253366
+  },
+  {
+    "term": "now",
+    "category": "FUTURE",
+    "weight": -0.0716802290063
+  },
+  {
+    "term": "day !",
+    "category": "FUTURE",
+    "weight": -0.189287108226
+  },
+  {
+    "term": "year",
+    "category": "FUTURE",
+    "weight": 0.2456916447
+  },
+  {
+    "term": "going to bed",
+    "category": "FUTURE",
+    "weight": -0.293169041129
+  },
+  {
+    "term": "seriously",
+    "category": "FUTURE",
+    "weight": -0.00186343288216
+  },
+  {
+    "term": "care",
+    "category": "FUTURE",
+    "weight": -0.0800226960783
+  },
+  {
+    "term": "that is",
+    "category": "FUTURE",
+    "weight": 0.0856653812252
+  },
+  {
+    "term": "tomorrow",
+    "category": "FUTURE",
+    "weight": 1.15807005102
+  },
+  {
+    "term": "little",
+    "category": "FUTURE",
+    "weight": -0.0235075177242
+  },
+  {
+    "term": "anyone",
+    "category": "FUTURE",
+    "weight": 0.0811022565794
+  },
+  {
+    "term": 2,
+    "category": "FUTURE",
+    "weight": 0.056213641585
+  },
+  {
+    "term": "get it",
+    "category": "FUTURE",
+    "weight": -0.0809795968347
+  },
+  {
+    "term": "friend",
+    "category": "FUTURE",
+    "weight": 0.0209640803749
+  },
+  {
+    "term": "that",
+    "category": "FUTURE",
+    "weight": -0.147202304443
+  },
+  {
+    "term": "than",
+    "category": "FUTURE",
+    "weight": -0.0639580324319
+  },
+  {
+    "term": "bored",
+    "category": "FUTURE",
+    "weight": -0.199825052889
+  },
+  {
+    "term": "gotta",
+    "category": "FUTURE",
+    "weight": 0.0884037229702
+  },
+  {
+    "term": "r",
+    "category": "FUTURE",
+    "weight": -0.0125261032513
+  },
+  {
+    "term": "were",
+    "category": "FUTURE",
+    "weight": -0.0163448594475
+  },
+  {
+    "term": "and",
+    "category": "FUTURE",
+    "weight": -0.0296126969027
+  },
+  {
+    "term": "say",
+    "category": "FUTURE",
+    "weight": -0.052190280118
+  },
+  {
+    "term": "in my",
+    "category": "FUTURE",
+    "weight": 0.0665335247969
+  },
+  {
+    "term": "can i",
+    "category": "FUTURE",
+    "weight": 0.0586027747076
+  },
+  {
+    "term": "going",
+    "category": "FUTURE",
+    "weight": 0.550786001916
+  },
+  {
+    "term": "get",
+    "category": "FUTURE",
+    "weight": 0.221634871001
+  },
+  {
+    "term": "make it",
+    "category": "FUTURE",
+    "weight": 0.0280178792909
+  },
+  {
+    "term": "love you",
+    "category": "FUTURE",
+    "weight": -0.0385023423711
+  },
+  {
+    "term": "come",
+    "category": "FUTURE",
+    "weight": 0.134580556673
+  },
+  {
+    "term": "many",
+    "category": "FUTURE",
+    "weight": -0.103456327437
+  },
+  {
+    "term": "last night",
+    "category": "FUTURE",
+    "weight": -0.132769852915
+  },
+  {
+    "term": "those",
+    "category": "FUTURE",
+    "weight": -0.113651062842
+  },
+  {
+    "term": "these",
+    "category": "FUTURE",
+    "weight": -0.106719138268
+  },
+  {
+    "term": ", i",
+    "category": "FUTURE",
+    "weight": -0.105379067889
+  },
+  {
+    "term": "about to",
+    "category": "FUTURE",
+    "weight": 0.664598864488
+  },
+  {
+    "term": "i love",
+    "category": "FUTURE",
+    "weight": -0.434454004899
+  },
+  {
+    "term": "do it",
+    "category": "FUTURE",
+    "weight": 0.0400522256553
+  },
+  {
+    "term": "being",
+    "category": "FUTURE",
+    "weight": -0.0483875502125
+  },
+  {
+    "term": "what a",
+    "category": "FUTURE",
+    "weight": -0.23356812999
+  },
+  {
+    "term": "of the",
+    "category": "FUTURE",
+    "weight": -0.0538863861291
+  },
+  {
+    "term": "thinking",
+    "category": "FUTURE",
+    "weight": 0.0443933776993
+  },
+  {
+    "term": 4,
+    "category": "FUTURE",
+    "weight": 0.0992641624085
+  },
+  {
+    "term": "gonna",
+    "category": "FUTURE",
+    "weight": 0.946288485213
+  },
+  {
+    "term": "on",
+    "category": "FUTURE",
+    "weight": 0.044929659561
+  },
+  {
+    "term": "let me",
+    "category": "FUTURE",
+    "weight": 0.00415919993145
+  },
+  {
+    "term": "or",
+    "category": "FUTURE",
+    "weight": 0.185441832472
+  },
+  {
+    "term": "there",
+    "category": "FUTURE",
+    "weight": -0.0536633799788
+  },
+  {
+    "term": "start",
+    "category": "FUTURE",
+    "weight": 0.143949252756
+  },
+  {
+    "term": "trying",
+    "category": "FUTURE",
+    "weight": -0.134701171112
+  },
+  {
+    "term": "with",
+    "category": "FUTURE",
+    "weight": 0.0000552857310679
+  },
+  {
+    "term": "they're",
+    "category": "FUTURE",
+    "weight": 0.143697083392
+  },
+  {
+    "term": "as",
+    "category": "FUTURE",
+    "weight": -0.162094974053
+  },
+  {
+    "term": "at",
+    "category": "FUTURE",
+    "weight": 0.0674111798323
+  },
+  {
+    "term": "again",
+    "category": "FUTURE",
+    "weight": -0.0176451389974
+  },
+  {
+    "term": "i need",
+    "category": "FUTURE",
+    "weight": 0.677920189416
+  },
+  {
+    "term": "saturday",
+    "category": "FUTURE",
+    "weight": 0.351791495825
+  },
+  {
+    "term": "you",
+    "category": "FUTURE",
+    "weight": -0.110527596795
+  },
+  {
+    "term": "all",
+    "category": "FUTURE",
+    "weight": -0.0285930840052
+  },
+  {
+    "term": "month",
+    "category": "FUTURE",
+    "weight": 0.442123844139
+  },
+  {
+    "term": "imma",
+    "category": "FUTURE",
+    "weight": 0.157222877605
+  },
+  {
+    "term": "to",
+    "category": "FUTURE",
+    "weight": 0.127466962886
+  },
+  {
+    "term": "i'll",
+    "category": "FUTURE",
+    "weight": 0.251181359484
+  },
+  {
+    "term": "and a",
+    "category": "FUTURE",
+    "weight": 0.00132494208121
+  },
+  {
+    "term": "my birthday",
+    "category": "FUTURE",
+    "weight": 0.206750370367
+  },
+  {
+    "term": "hours",
+    "category": "FUTURE",
+    "weight": 0.110546240008
+  },
+  {
+    "term": "with me",
+    "category": "FUTURE",
+    "weight": 0.0164765998651
+  },
+  {
+    "term": "i'm going",
+    "category": "FUTURE",
+    "weight": 0.164779879295
+  },
+  {
+    "term": "more",
+    "category": "FUTURE",
+    "weight": 0.131296816111
+  },
+  {
+    "term": "hour",
+    "category": "FUTURE",
+    "weight": 0.16648593463
+  },
+  {
+    "term": "!",
+    "category": "FUTURE",
+    "weight": 0.045936251632
+  },
+  {
+    "term": "fb",
+    "category": "FUTURE",
+    "weight": -0.0127618713281
+  },
+  {
+    "term": "coming",
+    "category": "FUTURE",
+    "weight": 0.219820635553
+  },
+  {
+    "term": "a",
+    "category": "FUTURE",
+    "weight": -0.0508146809433
+  },
+  {
+    "term": "soon",
+    "category": "FUTURE",
+    "weight": 0.359997329508
+  },
+  {
+    "term": "always",
+    "category": "FUTURE",
+    "weight": -0.0612955224575
+  },
+  {
+    "term": "someone",
+    "category": "FUTURE",
+    "weight": -0.0128802665159
+  },
+  {
+    "term": "week",
+    "category": "FUTURE",
+    "weight": 0.30923685473
+  },
+  {
+    "term": "everyone",
+    "category": "FUTURE",
+    "weight": -0.045017140658
+  },
+  {
+    "term": "brother",
+    "category": "FUTURE",
+    "weight": 0.086574206129
+  },
+  {
+    "term": "off to",
+    "category": "FUTURE",
+    "weight": 0.634495403038
+  },
+  {
+    "term": "friday",
+    "category": "FUTURE",
+    "weight": 0.11022155869
+  },
+  {
+    "term": "guess",
+    "category": "FUTURE",
+    "weight": 0.345857222376
+  },
+  {
+    "term": "dont",
+    "category": "FUTURE",
+    "weight": -0.136269442255
+  },
+  {
+    "term": "miss",
+    "category": "FUTURE",
+    "weight": -0.171488526152
+  },
+  {
+    "term": "i think",
+    "category": "FUTURE",
+    "weight": 0.312491623114
+  },
+  {
+    "term": "nothing",
+    "category": "FUTURE",
+    "weight": -0.0584415902873
+  },
+  {
+    "term": "sometimes",
+    "category": "FUTURE",
+    "weight": -0.00467041423341
+  },
+  {
+    "term": "pretty",
+    "category": "FUTURE",
+    "weight": -0.035100781146
+  },
+  {
+    "term": "feel like",
+    "category": "FUTURE",
+    "weight": 0.0486844646989
+  },
+  {
+    "term": "his",
+    "category": "FUTURE",
+    "weight": -0.0160435054743
+  },
+  {
+    "term": "hit",
+    "category": "FUTURE",
+    "weight": 0.0873691821106
+  },
+  {
+    "term": "him",
+    "category": "FUTURE",
+    "weight": 0.0775091819522
+  },
+  {
+    "term": "see",
+    "category": "FUTURE",
+    "weight": 0.181092240101
+  },
+  {
+    "term": "are",
+    "category": "FUTURE",
+    "weight": -0.00415157723286
+  },
+  {
+    "term": "please",
+    "category": "FUTURE",
+    "weight": 0.495723919842
+  },
+  {
+    "term": "to be",
+    "category": "FUTURE",
+    "weight": -0.209635552279
+  },
+  {
+    "term": "due",
+    "category": "FUTURE",
+    "weight": 0.502212610892
+  },
+  {
+    "term": "damn",
+    "category": "FUTURE",
+    "weight": -0.0329514052714
+  },
+  {
+    "term": "look",
+    "category": "FUTURE",
+    "weight": -0.0455650118921
+  },
+  {
+    "term": "ready",
+    "category": "FUTURE",
+    "weight": 0.0852284148779
+  },
+  {
+    "term": "one more",
+    "category": "FUTURE",
+    "weight": 0.157696005064
+  },
+  {
+    "term": "listening",
+    "category": "FUTURE",
+    "weight": -0.151155723116
+  },
+  {
+    "term": "world",
+    "category": "FUTURE",
+    "weight": -0.0472199561239
+  },
+  {
+    "term": "excited",
+    "category": "FUTURE",
+    "weight": 0.25048714679
+  },
+  {
+    "term": "...",
+    "category": "FUTURE",
+    "weight": -0.0913785577302
+  },
+  {
+    "term": "for a",
+    "category": "FUTURE",
+    "weight": 0.0253296567453
+  },
+  {
+    "term": "some",
+    "category": "FUTURE",
+    "weight": 0.123914364921
+  },
+  {
+    "term": "by",
+    "category": "FUTURE",
+    "weight": -0.0418373440403
+  },
+  {
+    "term": "anything",
+    "category": "FUTURE",
+    "weight": 0.155493555859
+  },
+  {
+    "term": "! ! !",
+    "category": "FUTURE",
+    "weight": -0.030596728254
+  },
+  {
+    "term": "like a",
+    "category": "FUTURE",
+    "weight": -0.136450453196
+  },
+  {
+    "term": "wanna",
+    "category": "FUTURE",
+    "weight": 0.380514032807
+  },
+  {
+    "term": "today !",
+    "category": "FUTURE",
+    "weight": 0.104097829946
+  },
+  {
+    "term": ":",
+    "category": "FUTURE",
+    "weight": -0.151311788125
+  },
+  {
+    "term": "....",
+    "category": "FUTURE",
+    "weight": -0.0114397490061
+  },
+  {
+    "term": "%",
+    "category": "FUTURE",
+    "weight": 0.0355237639507
+  },
+  {
+    "term": "nice",
+    "category": "FUTURE",
+    "weight": -0.00187313096003
+  },
+  {
+    "term": "<newline>",
+    "category": "FUTURE",
+    "weight": -0.00606907086191
+  },
+  {
+    "term": "go",
+    "category": "FUTURE",
+    "weight": 0.254671412805
+  },
+  {
+    "term": "http://t.co",
+    "category": "FUTURE",
+    "weight": -0.100711510857
+  },
+  {
+    "term": "it too",
+    "category": "FUTURE",
+    "weight": 0.00699924949926
+  },
+  {
+    "term": ";",
+    "category": "FUTURE",
+    "weight": -0.0352595462359
+  },
+  {
+    "term": "my life",
+    "category": "FUTURE",
+    "weight": -0.0326826844367
+  },
+  {
+    "term": "leaving",
+    "category": "FUTURE",
+    "weight": 0.0350804784504
+  },
+  {
+    "term": "makes",
+    "category": "FUTURE",
+    "weight": -0.0754475012355
+  },
+  {
+    "term": "wit",
+    "category": "FUTURE",
+    "weight": 0.00310285360259
+  },
+  {
+    "term": "from",
+    "category": "FUTURE",
+    "weight": -0.0365980653635
+  },
+  {
+    "term": "next",
+    "category": "FUTURE",
+    "weight": 0.0838575562256
+  },
+  {
+    "term": "few",
+    "category": "FUTURE",
+    "weight": 0.0870428705997
+  },
+  {
+    "term": "text me",
+    "category": "FUTURE",
+    "weight": 0.181576712179
+  },
+  {
+    "term": "this",
+    "category": "FUTURE",
+    "weight": 0.12526117069
+  },
+  {
+    "term": "this is",
+    "category": "FUTURE",
+    "weight": -0.0794726738152
+  },
+  {
+    "term": "didnt",
+    "category": "FUTURE",
+    "weight": -0.0637297510014
+  },
+  {
+    "term": "> >",
+    "category": "FUTURE",
+    "weight": -0.00844546727991
+  },
+  {
+    "term": "watch",
+    "category": "FUTURE",
+    "weight": 0.427540684922
+  },
+  {
+    "term": "move",
+    "category": "FUTURE",
+    "weight": 0.026150736299
+  },
+  {
+    "term": "day",
+    "category": "FUTURE",
+    "weight": 0.0540861550306
+  },
+  {
+    "term": "'",
+    "category": "FUTURE",
+    "weight": 0.00342457122185
+  },
+  {
+    "term": "cause",
+    "category": "FUTURE",
+    "weight": -0.00392873728949
+  },
+  {
+    "term": "could",
+    "category": "FUTURE",
+    "weight": 0.201289517466
+  },
+  {
+    "term": "their",
+    "category": "FUTURE",
+    "weight": -0.205238304237
+  },
+  {
+    "term": "bed",
+    "category": "FUTURE",
+    "weight": 0.0135548738622
+  },
+  {
+    "term": "tonight",
+    "category": "FUTURE",
+    "weight": 0.961627023828
+  },
+  {
+    "term": "have",
+    "category": "FUTURE",
+    "weight": 0.0146356119048
+  },
+  {
+    "term": "give me",
+    "category": "FUTURE",
+    "weight": 0.0826797157402
+  },
+  {
+    "term": "my family",
+    "category": "FUTURE",
+    "weight": 0.0485001433237
+  },
+  {
+    "term": "bring",
+    "category": "FUTURE",
+    "weight": 0.195651399447
+  },
+  {
+    "term": "should",
+    "category": "FUTURE",
+    "weight": 0.141896604724
+  },
+  {
+    "term": "hope",
+    "category": "FUTURE",
+    "weight": 0.179543435333
+  },
+  {
+    "term": "i should",
+    "category": "FUTURE",
+    "weight": 0.0401189634147
+  },
+  {
+    "term": "she",
+    "category": "FUTURE",
+    "weight": -0.0852082742364
+  },
+  {
+    "term": "wish",
+    "category": "FUTURE",
+    "weight": 0.157255202158
+  },
+  {
+    "term": "we",
+    "category": "FUTURE",
+    "weight": 0.0178887973234
+  },
+  {
+    "term": "i get",
+    "category": "FUTURE",
+    "weight": 0.0937486389506
+  },
+  {
+    "term": "tuesday",
+    "category": "FUTURE",
+    "weight": 0.558324625543
+  },
+  {
+    "term": "walk",
+    "category": "FUTURE",
+    "weight": 0.263066657873
+  },
+  {
+    "term": "follow me",
+    "category": "FUTURE",
+    "weight": 0.0949627992063
+  },
+  {
+    "term": "yay",
+    "category": "FUTURE",
+    "weight": 0.220100075107
+  },
+  {
+    "term": "going to",
+    "category": "FUTURE",
+    "weight": 0.132787129902
+  },
+  {
+    "term": "i will",
+    "category": "FUTURE",
+    "weight": 0.0442616005272
+  },
+  {
+    "term": "will",
+    "category": "FUTURE",
+    "weight": 0.59078935116
+  },
+  {
+    "term": ")",
+    "category": "FUTURE",
+    "weight": 0.0282142137093
+  },
+  {
+    "term": "party",
+    "category": "FUTURE",
+    "weight": 0.219524175404
+  },
+  {
+    "term": "off",
+    "category": "FUTURE",
+    "weight": 0.126433454366
+  },
+  {
+    "term": "i",
+    "category": "FUTURE",
+    "weight": -0.0895682394284
+  },
+  {
+    "term": "know",
+    "category": "FUTURE",
+    "weight": -0.011961834467
+  },
+  {
+    "term": "like",
+    "category": "FUTURE",
+    "weight": -0.028153905326
+  },
+  {
+    "term": ": if",
+    "category": "FUTURE",
+    "weight": -0.0693703084654
+  },
+  {
+    "term": "a long",
+    "category": "FUTURE",
+    "weight": 0.0300942521907
+  },
+  {
+    "term": "?",
+    "category": "FUTURE",
+    "weight": 0.110028924058
+  },
+  {
+    "term": "cant wait",
+    "category": "FUTURE",
+    "weight": 0.0176572871933
+  },
+  {
+    "term": "getting",
+    "category": "FUTURE",
+    "weight": 0.0804725819066
+  },
+  {
+    "term": "own",
+    "category": "FUTURE",
+    "weight": -0.134962876551
+  },
+  {
+    "term": "i've",
+    "category": "FUTURE",
+    "weight": -0.0503384967047
+  },
+  {
+    "term": "but",
+    "category": "FUTURE",
+    "weight": -0.05470424252
+  },
+  {
+    "term": ":) i",
+    "category": "FUTURE",
+    "weight": 0.128931443341
+  },
+  {
+    "term": "i want",
+    "category": "FUTURE",
+    "weight": 0.125473507974
+  },
+  {
+    "term": "sick",
+    "category": "FUTURE",
+    "weight": -0.0314370833345
+  },
+  {
+    "term": "monday",
+    "category": "FUTURE",
+    "weight": 0.390119762559
+  },
+  {
+    "term": "friends",
+    "category": "FUTURE",
+    "weight": -0.0949918292857
+  },
+  {
+    "term": "goin",
+    "category": "FUTURE",
+    "weight": 0.150695482513
+  },
+  {
+    "term": "hate",
+    "category": "PAST",
+    "weight": -0.0218261618479
+  },
+  {
+    "term": "all the",
+    "category": "PAST",
+    "weight": -0.262148705236
+  },
+  {
+    "term": "i wish",
+    "category": "PAST",
+    "weight": -0.0347209596349
+  },
+  {
+    "term": "every",
+    "category": "PAST",
+    "weight": 0.401338370644
+  },
+  {
+    "term": ". lmao",
+    "category": "PAST",
+    "weight": 0.258768959112
+  },
+  {
+    "term": "street",
+    "category": "PAST",
+    "weight": 0.110472073169
+  },
+  {
+    "term": "even",
+    "category": "PAST",
+    "weight": 0.0293456922914
+  },
+  {
+    "term": "ever",
+    "category": "PAST",
+    "weight": 0.123441357014
+  },
+  {
+    "term": "told",
+    "category": "PAST",
+    "weight": 0.174090492164
+  },
+  {
+    "term": "here",
+    "category": "PAST",
+    "weight": -0.0227571752437
+  },
+  {
+    "term": "i'm",
+    "category": "PAST",
+    "weight": -0.0873598497288
+  },
+  {
+    "term": "<3",
+    "category": "PAST",
+    "weight": -0.00661768242039
+  },
+  {
+    "term": "would",
+    "category": "PAST",
+    "weight": 0.00308402407328
+  },
+  {
+    "term": "until",
+    "category": "PAST",
+    "weight": -0.00847293884817
+  },
+  {
+    "term": "me",
+    "category": "PAST",
+    "weight": 0.0166616843878
+  },
+  {
+    "term": "my",
+    "category": "PAST",
+    "weight": 0.0499596968785
+  },
+  {
+    "term": "want",
+    "category": "PAST",
+    "weight": -0.15784687467
+  },
+  {
+    "term": "times",
+    "category": "PAST",
+    "weight": 0.180433277481
+  },
+  {
+    "term": "thing",
+    "category": "PAST",
+    "weight": -0.0491047000427
+  },
+  {
+    "term": "how",
+    "category": "PAST",
+    "weight": 0.0365784744449
+  },
+  {
+    "term": "amazing",
+    "category": "PAST",
+    "weight": 0.165804098932
+  },
+  {
+    "term": "pizza",
+    "category": "PAST",
+    "weight": 0.233888172338
+  },
+  {
+    "term": "have to",
+    "category": "PAST",
+    "weight": -0.0771790241875
+  },
+  {
+    "term": "after",
+    "category": "PAST",
+    "weight": 0.239190595303
+  },
+  {
+    "term": "third",
+    "category": "PAST",
+    "weight": 0.0632752979854
+  },
+  {
+    "term": ",",
+    "category": "PAST",
+    "weight": -0.0105763899349
+  },
+  {
+    "term": "they",
+    "category": "PAST",
+    "weight": 0.0364270136782
+  },
+  {
+    "term": "went",
+    "category": "PAST",
+    "weight": 0.452525459629
+  },
+  {
+    "term": "mean",
+    "category": "PAST",
+    "weight": 0.0400820611507
+  },
+  {
+    "term": "rt",
+    "category": "PAST",
+    "weight": -0.20863083167
+  },
+  {
+    "term": "have a",
+    "category": "PAST",
+    "weight": -0.257762181904
+  },
+  {
+    "term": "got",
+    "category": "PAST",
+    "weight": 0.491042339272
+  },
+  {
+    "term": "took",
+    "category": "PAST",
+    "weight": 0.633973469904
+  },
+  {
+    "term": "a little",
+    "category": "PAST",
+    "weight": -0.0109286665641
+  },
+  {
+    "term": "feeling",
+    "category": "PAST",
+    "weight": -0.0796329822281
+  },
+  {
+    "term": "mind",
+    "category": "PAST",
+    "weight": 0.0448637008048
+  },
+  {
+    "term": "spent",
+    "category": "PAST",
+    "weight": 0.709796979731
+  },
+  {
+    "term": "seen",
+    "category": "PAST",
+    "weight": 0.498521153373
+  },
+  {
+    "term": "-",
+    "category": "PAST",
+    "weight": 0.0133503451458
+  },
+  {
+    "term": "snow",
+    "category": "PAST",
+    "weight": -0.161851459978
+  },
+  {
+    "term": "! !",
+    "category": "PAST",
+    "weight": -0.0322454760754
+  },
+  {
+    "term": "dog",
+    "category": "PAST",
+    "weight": 0.0464058301919
+  },
+  {
+    "term": "had to",
+    "category": "PAST",
+    "weight": 0.0464118536065
+  },
+  {
+    "term": "has a",
+    "category": "PAST",
+    "weight": -0.0427613570202
+  },
+  {
+    "term": "came",
+    "category": "PAST",
+    "weight": 0.398392216969
+  },
+  {
+    "term": "for my",
+    "category": "PAST",
+    "weight": -0.022934326674
+  },
+  {
+    "term": "it .",
+    "category": "PAST",
+    "weight": -0.0403600797983
+  },
+  {
+    "term": "busy",
+    "category": "PAST",
+    "weight": -0.159264774056
+  },
+  {
+    "term": "do",
+    "category": "PAST",
+    "weight": -0.0329797026071
+  },
+  {
+    "term": "lmao",
+    "category": "PAST",
+    "weight": 0.0579836289928
+  },
+  {
+    "term": "said",
+    "category": "PAST",
+    "weight": 0.337003390138
+  },
+  {
+    "term": "away",
+    "category": "PAST",
+    "weight": 0.0333162103506
+  },
+  {
+    "term": "hopefully",
+    "category": "PAST",
+    "weight": -0.180521648805
+  },
+  {
+    "term": "been",
+    "category": "PAST",
+    "weight": 0.484719748742
+  },
+  {
+    "term": ".",
+    "category": "PAST",
+    "weight": 0.0374419402792
+  },
+  {
+    "term": "much",
+    "category": "PAST",
+    "weight": 0.00203055861185
+  },
+  {
+    "term": "is",
+    "category": "PAST",
+    "weight": -0.185647465323
+  },
+  {
+    "term": "cant",
+    "category": "PAST",
+    "weight": -0.0989035695819
+  },
+  {
+    "term": "im",
+    "category": "PAST",
+    "weight": -0.0737923879368
+  },
+  {
+    "term": "in",
+    "category": "PAST",
+    "weight": 0.0377046102025
+  },
+  {
+    "term": "if",
+    "category": "PAST",
+    "weight": -0.20569115975
+  },
+  {
+    "term": "make",
+    "category": "PAST",
+    "weight": -0.0068695751867
+  },
+  {
+    "term": "people are",
+    "category": "PAST",
+    "weight": 0.131761461465
+  },
+  {
+    "term": "the",
+    "category": "PAST",
+    "weight": 0.124914455055
+  },
+  {
+    "term": "left",
+    "category": "PAST",
+    "weight": 0.248017427522
+  },
+  {
+    "term": "just",
+    "category": "PAST",
+    "weight": 0.212151637592
+  },
+  {
+    "term": "thanks",
+    "category": "PAST",
+    "weight": 0.423509306541
+  },
+  {
+    "term": "had",
+    "category": "PAST",
+    "weight": 0.619403197062
+  },
+  {
+    "term": "gave",
+    "category": "PAST",
+    "weight": 0.505701154716
+  },
+  {
+    "term": "night",
+    "category": "PAST",
+    "weight": 0.206251058999
+  },
+  {
+    "term": "i had",
+    "category": "PAST",
+    "weight": -0.178003917801
+  },
+  {
+    "term": "right",
+    "category": "PAST",
+    "weight": -0.00327247595278
+  },
+  {
+    "term": "deal",
+    "category": "PAST",
+    "weight": 0.0145695483557
+  },
+  {
+    "term": "people",
+    "category": "PAST",
+    "weight": 0.0490389487178
+  },
+  {
+    "term": "o",
+    "category": "PAST",
+    "weight": -0.000745691159013
+  },
+  {
+    "term": "two",
+    "category": "PAST",
+    "weight": 0.0653401193724
+  },
+  {
+    "term": "down",
+    "category": "PAST",
+    "weight": 0.081890854356
+  },
+  {
+    "term": "music",
+    "category": "PAST",
+    "weight": -0.086576101637
+  },
+  {
+    "term": "was",
+    "category": "PAST",
+    "weight": 0.942634865912
+  },
+  {
+    "term": "happy",
+    "category": "PAST",
+    "weight": -0.115195780286
+  },
+  {
+    "term": "it was",
+    "category": "PAST",
+    "weight": 0.0391561322115
+  },
+  {
+    "term": "no",
+    "category": "PAST",
+    "weight": 0.0235667736556
+  },
+  {
+    "term": "til",
+    "category": "PAST",
+    "weight": -0.0286744412685
+  },
+  {
+    "term": "why",
+    "category": "PAST",
+    "weight": 0.188347506743
+  },
+  {
+    "term": "let's",
+    "category": "PAST",
+    "weight": -0.0165017255234
+  },
+  {
+    "term": "fell",
+    "category": "PAST",
+    "weight": 0.11196092281
+  },
+  {
+    "term": "time",
+    "category": "PAST",
+    "weight": -0.016151591303
+  },
+  {
+    "term": "finally",
+    "category": "PAST",
+    "weight": 0.527182260377
+  },
+  {
+    "term": "did",
+    "category": "PAST",
+    "weight": 0.735255694455
+  },
+  {
+    "term": "says",
+    "category": "PAST",
+    "weight": 0.293716339163
+  },
+  {
+    "term": "wait",
+    "category": "PAST",
+    "weight": -0.359931643247
+  },
+  {
+    "term": "so much",
+    "category": "PAST",
+    "weight": 0.0505446460387
+  },
+  {
+    "term": "love",
+    "category": "PAST",
+    "weight": -0.0376136469346
+  },
+  {
+    "term": "today",
+    "category": "PAST",
+    "weight": 0.102526606058
+  },
+  {
+    "term": "car",
+    "category": "PAST",
+    "weight": 0.226240976276
+  },
+  {
+    "term": "can",
+    "category": "PAST",
+    "weight": -0.0966443514236
+  },
+  {
+    "term": "awesome",
+    "category": "PAST",
+    "weight": 0.136581061728
+  },
+  {
+    "term": "didn't",
+    "category": "PAST",
+    "weight": 0.303283689863
+  },
+  {
+    "term": "heard",
+    "category": "PAST",
+    "weight": 0.253940910666
+  },
+  {
+    "term": "grow",
+    "category": "PAST",
+    "weight": -0.0169706001345
+  },
+  {
+    "term": "maybe",
+    "category": "PAST",
+    "weight": -0.0604442151404
+  },
+  {
+    "term": "all my",
+    "category": "PAST",
+    "weight": 0.0179503304622
+  },
+  {
+    "term": ".... but",
+    "category": "PAST",
+    "weight": -0.0320193646477
+  },
+  {
+    "term": "thank",
+    "category": "PAST",
+    "weight": 0.127118875807
+  },
+  {
+    "term": "happened",
+    "category": "PAST",
+    "weight": 0.00344739628867
+  },
+  {
+    "term": 3,
+    "category": "PAST",
+    "weight": 0.200019888915
+  },
+  {
+    "term": "not",
+    "category": "PAST",
+    "weight": 0.0350583930601
+  },
+  {
+    "term": "made my",
+    "category": "PAST",
+    "weight": 0.0804371137882
+  },
+  {
+    "term": "yeah",
+    "category": "PAST",
+    "weight": 0.0378280027125
+  },
+  {
+    "term": "happen",
+    "category": "PAST",
+    "weight": 0.0693440331952
+  },
+  {
+    "term": "had a",
+    "category": "PAST",
+    "weight": 0.0425269621271
+  },
+  {
+    "term": "think",
+    "category": "PAST",
+    "weight": -0.0814129635328
+  },
+  {
+    "term": "first",
+    "category": "PAST",
+    "weight": 0.17284991152
+  },
+  {
+    "term": "open",
+    "category": "PAST",
+    "weight": 0.132084910897
+  },
+  {
+    "term": "tomorrow",
+    "category": "PAST",
+    "weight": -0.33993543276
+  },
+  {
+    "term": "slept",
+    "category": "PAST",
+    "weight": 0.257156153329
+  },
+  {
+    "term": "eyes",
+    "category": "PAST",
+    "weight": -0.000525676887917
+  },
+  {
+    "term": "that",
+    "category": "PAST",
+    "weight": 0.136991536936
+  },
+  {
+    "term": "than",
+    "category": "PAST",
+    "weight": 0.0782706869317
+  },
+  {
+    "term": 13,
+    "category": "PAST",
+    "weight": 0.307564674967
+  },
+  {
+    "term": "bored",
+    "category": "PAST",
+    "weight": -0.10535835787
+  },
+  {
+    "term": "were",
+    "category": "PAST",
+    "weight": 0.34939610294
+  },
+  {
+    "term": "say",
+    "category": "PAST",
+    "weight": -0.0779662472162
+  },
+  {
+    "term": "saw",
+    "category": "PAST",
+    "weight": 0.834254150039
+  },
+  {
+    "term": "any",
+    "category": "PAST",
+    "weight": -0.0555514469656
+  },
+  {
+    "term": "take",
+    "category": "PAST",
+    "weight": 0.0225186266148
+  },
+  {
+    "term": "going",
+    "category": "PAST",
+    "weight": -0.148198328866
+  },
+  {
+    "term": "get",
+    "category": "PAST",
+    "weight": -0.0177377018789
+  },
+  {
+    "term": "went to",
+    "category": "PAST",
+    "weight": 0.0383853702303
+  },
+  {
+    "term": ", that",
+    "category": "PAST",
+    "weight": 0.0402253553249
+  },
+  {
+    "term": "s",
+    "category": "PAST",
+    "weight": -0.082976085461
+  },
+  {
+    "term": "last night",
+    "category": "PAST",
+    "weight": 0.38332611638
+  },
+  {
+    "term": "can't",
+    "category": "PAST",
+    "weight": -0.0238111232281
+  },
+  {
+    "term": "wants",
+    "category": "PAST",
+    "weight": -0.0665183169729
+  },
+  {
+    "term": "when my",
+    "category": "PAST",
+    "weight": 0.0310897475549
+  },
+  {
+    "term": "about to",
+    "category": "PAST",
+    "weight": -0.0191195804214
+  },
+  {
+    "term": "i love",
+    "category": "PAST",
+    "weight": -0.215464157277
+  },
+  {
+    "term": "what a",
+    "category": "PAST",
+    "weight": 0.0560633551081
+  },
+  {
+    "term": "around",
+    "category": "PAST",
+    "weight": -0.00396997300051
+  },
+  {
+    "term": "read",
+    "category": "PAST",
+    "weight": 0.211104769035
+  },
+  {
+    "term": "gonna",
+    "category": "PAST",
+    "weight": -0.137476112477
+  },
+  {
+    "term": "amp",
+    "category": "PAST",
+    "weight": 0.1475250114
+  },
+  {
+    "term": "in the",
+    "category": "PAST",
+    "weight": -0.017089633853
+  },
+  {
+    "term": "on",
+    "category": "PAST",
+    "weight": 0.014505634684
+  },
+  {
+    "term": "oh",
+    "category": "PAST",
+    "weight": 0.137180409652
+  },
+  {
+    "term": "of",
+    "category": "PAST",
+    "weight": -0.00609996764119
+  },
+  {
+    "term": "favorite",
+    "category": "PAST",
+    "weight": 0.10102730235
+  },
+  {
+    "term": "it's",
+    "category": "PAST",
+    "weight": -0.18835764218
+  },
+  {
+    "term": "or",
+    "category": "PAST",
+    "weight": -0.045766585332
+  },
+  {
+    "term": "your",
+    "category": "PAST",
+    "weight": -0.0257622752398
+  },
+  {
+    "term": "there",
+    "category": "PAST",
+    "weight": 0.0689578453494
+  },
+  {
+    "term": "lol",
+    "category": "PAST",
+    "weight": 0.183133768135
+  },
+  {
+    "term": "with",
+    "category": "PAST",
+    "weight": 0.0119350802816
+  },
+  {
+    "term": "ah",
+    "category": "PAST",
+    "weight": 0.155253269241
+  },
+  {
+    "term": "an",
+    "category": "PAST",
+    "weight": 0.0558187908964
+  },
+  {
+    "term": "as",
+    "category": "PAST",
+    "weight": 0.21029829821
+  },
+  {
+    "term": "at",
+    "category": "PAST",
+    "weight": 0.0253662693487
+  },
+  {
+    "term": "again",
+    "category": "PAST",
+    "weight": 0.04218734163
+  },
+  {
+    "term": "i need",
+    "category": "PAST",
+    "weight": -0.113892867435
+  },
+  {
+    "term": 5,
+    "category": "PAST",
+    "weight": 0.0852032187864
+  },
+  {
+    "term": "you",
+    "category": "PAST",
+    "weight": 0.0158790386347
+  },
+  {
+    "term": "i would",
+    "category": "PAST",
+    "weight": 0.0226453480331
+  },
+  {
+    "term": "having",
+    "category": "PAST",
+    "weight": -0.141630178403
+  },
+  {
+    "term": "u",
+    "category": "PAST",
+    "weight": -0.124794364602
+  },
+  {
+    "term": "all",
+    "category": "PAST",
+    "weight": 0.0028652128286
+  },
+  {
+    "term": "month",
+    "category": "PAST",
+    "weight": -0.0388378821438
+  },
+  {
+    "term": "when people",
+    "category": "PAST",
+    "weight": 0.202592459208
+  },
+  {
+    "term": "follow",
+    "category": "PAST",
+    "weight": -0.0515029062534
+  },
+  {
+    "term": "to",
+    "category": "PAST",
+    "weight": -0.00145374326461
+  },
+  {
+    "term": "smile",
+    "category": "PAST",
+    "weight": -0.0830749682685
+  },
+  {
+    "term": "i'll",
+    "category": "PAST",
+    "weight": -0.0778760431983
+  },
+  {
+    "term": "yeah ,",
+    "category": "PAST",
+    "weight": 0.0986390336959
+  },
+  {
+    "term": "what",
+    "category": "PAST",
+    "weight": 0.0398749261952
+  },
+  {
+    "term": "right now",
+    "category": "PAST",
+    "weight": -0.279140754258
+  },
+  {
+    "term": "like the",
+    "category": "PAST",
+    "weight": -0.00473631263339
+  },
+  {
+    "term": ". at",
+    "category": "PAST",
+    "weight": 0.00170972638319
+  },
+  {
+    "term": "more",
+    "category": "PAST",
+    "weight": -0.0908156149666
+  },
+  {
+    "term": "i just",
+    "category": "PAST",
+    "weight": -0.0476337053703
+  },
+  {
+    "term": "broke",
+    "category": "PAST",
+    "weight": 0.305843278696
+  },
+  {
+    "term": "dress",
+    "category": "PAST",
+    "weight": -0.00258563546704
+  },
+  {
+    "term": "!",
+    "category": "PAST",
+    "weight": 0.00220597951249
+  },
+  {
+    "term": "tried",
+    "category": "PAST",
+    "weight": 0.429974286167
+  },
+  {
+    "term": "a",
+    "category": "PAST",
+    "weight": 0.120709805508
+  },
+  {
+    "term": "don't",
+    "category": "PAST",
+    "weight": -0.0236149863944
+  },
+  {
+    "term": "its",
+    "category": "PAST",
+    "weight": -0.0797337734781
+  },
+  {
+    "term": "bout",
+    "category": "PAST",
+    "weight": -0.019654646925
+  },
+  {
+    "term": "good",
+    "category": "PAST",
+    "weight": -0.0189419559738
+  },
+  {
+    "term": "just got",
+    "category": "PAST",
+    "weight": 0.363396353632
+  },
+  {
+    "term": "always",
+    "category": "PAST",
+    "weight": -0.0216785795263
+  },
+  {
+    "term": "found",
+    "category": "PAST",
+    "weight": 0.306342015523
+  },
+  {
+    "term": "week",
+    "category": "PAST",
+    "weight": 0.0598053743663
+  },
+  {
+    "term": "hard",
+    "category": "PAST",
+    "weight": 0.0495461080429
+  },
+  {
+    "term": "off to",
+    "category": "PAST",
+    "weight": -0.0563596866046
+  },
+  {
+    "term": "wish i",
+    "category": "PAST",
+    "weight": -0.0946258589077
+  },
+  {
+    "term": "must be",
+    "category": "PAST",
+    "weight": 0.0165766270862
+  },
+  {
+    "term": "dont",
+    "category": "PAST",
+    "weight": 0.012945561678
+  },
+  {
+    "term": "done",
+    "category": "PAST",
+    "weight": 0.210915179177
+  },
+  {
+    "term": "to get",
+    "category": "PAST",
+    "weight": -0.0141784290225
+  },
+  {
+    "term": "believe",
+    "category": "PAST",
+    "weight": -0.0377701136631
+  },
+  {
+    "term": "are you",
+    "category": "PAST",
+    "weight": 0.185897643667
+  },
+  {
+    "term": "woke up",
+    "category": "PAST",
+    "weight": 0.00348994164991
+  },
+  {
+    "term": "every time",
+    "category": "PAST",
+    "weight": 0.123854505066
+  },
+  {
+    "term": "i think",
+    "category": "PAST",
+    "weight": -0.0504393443019
+  },
+  {
+    "term": "just want",
+    "category": "PAST",
+    "weight": -0.0534604143029
+  },
+  {
+    "term": "find",
+    "category": "PAST",
+    "weight": -0.157337222815
+  },
+  {
+    "term": "i like",
+    "category": "PAST",
+    "weight": -0.0807675306902
+  },
+  {
+    "term": "his",
+    "category": "PAST",
+    "weight": 0.0651628922803
+  },
+  {
+    "term": "today ...",
+    "category": "PAST",
+    "weight": 0.0318252202787
+  },
+  {
+    "term": "see",
+    "category": "PAST",
+    "weight": -0.222356132627
+  },
+  {
+    "term": "are",
+    "category": "PAST",
+    "weight": -0.192622050752
+  },
+  {
+    "term": "please",
+    "category": "PAST",
+    "weight": -0.02318058877
+  },
+  {
+    "term": "won",
+    "category": "PAST",
+    "weight": 0.589227980006
+  },
+  {
+    "term": "last",
+    "category": "PAST",
+    "weight": 0.2060157281
+  },
+  {
+    "term": "back from",
+    "category": "PAST",
+    "weight": 0.113292255545
+  },
+  {
+    "term": ". my",
+    "category": "PAST",
+    "weight": 0.11133008735
+  },
+  {
+    "term": "damn",
+    "category": "PAST",
+    "weight": 0.108145892294
+  },
+  {
+    "term": "woke",
+    "category": "PAST",
+    "weight": 0.269914119852
+  },
+  {
+    "term": "why is",
+    "category": "PAST",
+    "weight": 0.0850406936999
+  },
+  {
+    "term": "look",
+    "category": "PAST",
+    "weight": -0.0208694953031
+  },
+  {
+    "term": "(:",
+    "category": "PAST",
+    "weight": -0.0641049002494
+  },
+  {
+    "term": "ready",
+    "category": "PAST",
+    "weight": -0.0449303650841
+  },
+  {
+    "term": "yesterday",
+    "category": "PAST",
+    "weight": 0.260857051982
+  },
+  {
+    "term": "moment",
+    "category": "PAST",
+    "weight": 0.102053932212
+  },
+  {
+    "term": "...",
+    "category": "PAST",
+    "weight": 0.138387211885
+  },
+  {
+    "term": "game",
+    "category": "PAST",
+    "weight": 0.127628909487
+  },
+  {
+    "term": "bit",
+    "category": "PAST",
+    "weight": -0.178299106842
+  },
+  {
+    "term": "some",
+    "category": "PAST",
+    "weight": -0.105851279251
+  },
+  {
+    "term": "back",
+    "category": "PAST",
+    "weight": 0.00778693877682
+  },
+  {
+    "term": "want to",
+    "category": "PAST",
+    "weight": -0.00502482784049
+  },
+  {
+    "term": "be",
+    "category": "PAST",
+    "weight": -0.139507729354
+  },
+  {
+    "term": "by",
+    "category": "PAST",
+    "weight": 0.0177366014101
+  },
+  {
+    "term": "like a",
+    "category": "PAST",
+    "weight": 0.0190699631457
+  },
+  {
+    "term": "because",
+    "category": "PAST",
+    "weight": -0.168997749751
+  },
+  {
+    "term": "..",
+    "category": "PAST",
+    "weight": 0.0759621474199
+  },
+  {
+    "term": ":",
+    "category": "PAST",
+    "weight": 0.0305303523876
+  },
+  {
+    "term": "....",
+    "category": "PAST",
+    "weight": -0.100260031145
+  },
+  {
+    "term": "up",
+    "category": "PAST",
+    "weight": 0.0522923443209
+  },
+  {
+    "term": "called",
+    "category": "PAST",
+    "weight": 0.0837152391737
+  },
+  {
+    "term": ": i",
+    "category": "PAST",
+    "weight": 0.011331978685
+  },
+  {
+    "term": "go",
+    "category": "PAST",
+    "weight": -0.153387157429
+  },
+  {
+    "term": "http://t.co",
+    "category": "PAST",
+    "weight": 0.0260835590659
+  },
+  {
+    "term": "should have",
+    "category": "PAST",
+    "weight": 0.420747383661
+  },
+  {
+    "term": "great",
+    "category": "PAST",
+    "weight": 0.129256614221
+  },
+  {
+    "term": 30,
+    "category": "PAST",
+    "weight": 0.113684893262
+  },
+  {
+    "term": "makes",
+    "category": "PAST",
+    "weight": -0.035718369682
+  },
+  {
+    "term": "thats",
+    "category": "PAST",
+    "weight": 0.0228022787043
+  },
+  {
+    "term": "i was",
+    "category": "PAST",
+    "weight": -0.202161026577
+  },
+  {
+    "term": "just a",
+    "category": "PAST",
+    "weight": -0.0967706678176
+  },
+  {
+    "term": "from",
+    "category": "PAST",
+    "weight": 0.302634900187
+  },
+  {
+    "term": "&",
+    "category": "PAST",
+    "weight": 0.0151048355599
+  },
+  {
+    "term": "and now",
+    "category": "PAST",
+    "weight": 0.293703679489
+  },
+  {
+    "term": "sister",
+    "category": "PAST",
+    "weight": 0.0114017421033
+  },
+  {
+    "term": "this",
+    "category": "PAST",
+    "weight": -0.035734910502
+  },
+  {
+    "term": "ride",
+    "category": "PAST",
+    "weight": 0.0186742008253
+  },
+  {
+    "term": "when",
+    "category": "PAST",
+    "weight": 0.132065271965
+  },
+  {
+    "term": "this is",
+    "category": "PAST",
+    "weight": 0.194162551185
+  },
+  {
+    "term": "didnt",
+    "category": "PAST",
+    "weight": 0.195004662036
+  },
+  {
+    "term": "? !",
+    "category": "PAST",
+    "weight": 0.0555367348793
+  },
+  {
+    "term": "watch",
+    "category": "PAST",
+    "weight": -0.106939711119
+  },
+  {
+    "term": "move",
+    "category": "PAST",
+    "weight": -0.0208997763049
+  },
+  {
+    "term": "won't",
+    "category": "PAST",
+    "weight": 0.015658766428
+  },
+  {
+    "term": "day",
+    "category": "PAST",
+    "weight": 0.105166114585
+  },
+  {
+    "term": "doesnt",
+    "category": "PAST",
+    "weight": 0.137959053364
+  },
+  {
+    "term": "out",
+    "category": "PAST",
+    "weight": 0.0197549044024
+  },
+  {
+    "term": "their",
+    "category": "PAST",
+    "weight": 0.182264397658
+  },
+  {
+    "term": "bed",
+    "category": "PAST",
+    "weight": -0.0273685191968
+  },
+  {
+    "term": "tonight",
+    "category": "PAST",
+    "weight": -0.129090050689
+  },
+  {
+    "term": "have",
+    "category": "PAST",
+    "weight": -0.00730859613444
+  },
+  {
+    "term": "i miss",
+    "category": "PAST",
+    "weight": -0.0869416289241
+  },
+  {
+    "term": "need",
+    "category": "PAST",
+    "weight": -0.194616613524
+  },
+  {
+    "term": "the day",
+    "category": "PAST",
+    "weight": -0.0163797465058
+  },
+  {
+    "term": "at the",
+    "category": "PAST",
+    "weight": -0.067199410833
+  },
+  {
+    "term": "bring",
+    "category": "PAST",
+    "weight": -0.123880878605
+  },
+  {
+    "term": "she",
+    "category": "PAST",
+    "weight": 0.0290389812749
+  },
+  {
+    "term": "wish",
+    "category": "PAST",
+    "weight": -0.333703021738
+  },
+  {
+    "term": "on my",
+    "category": "PAST",
+    "weight": -0.0976741554079
+  },
+  {
+    "term": "bought",
+    "category": "PAST",
+    "weight": 0.500743641667
+  },
+  {
+    "term": "job",
+    "category": "PAST",
+    "weight": 0.101332160465
+  },
+  {
+    "term": "like it",
+    "category": "PAST",
+    "weight": -0.119508746736
+  },
+  {
+    "term": "follow me",
+    "category": "PAST",
+    "weight": -0.0311159508162
+  },
+  {
+    "term": ">",
+    "category": "PAST",
+    "weight": 0.00469763092546
+  },
+  {
+    "term": "am",
+    "category": "PAST",
+    "weight": -0.122862680696
+  },
+  {
+    "term": "finished",
+    "category": "PAST",
+    "weight": 0.550879858507
+  },
+  {
+    "term": "will",
+    "category": "PAST",
+    "weight": -0.241690363745
+  },
+  {
+    "term": "i",
+    "category": "PAST",
+    "weight": 0.0740670984667
+  },
+  {
+    "term": "well",
+    "category": "PAST",
+    "weight": 0.0254034522715
+  },
+  {
+    "term": "is the",
+    "category": "PAST",
+    "weight": -0.0524057365374
+  },
+  {
+    "term": "know",
+    "category": "PAST",
+    "weight": 0.0921099527761
+  },
+  {
+    "term": "like",
+    "category": "PAST",
+    "weight": -0.0235115346979
+  },
+  {
+    "term": "lost",
+    "category": "PAST",
+    "weight": 0.44773119957
+  },
+  {
+    "term": "home",
+    "category": "PAST",
+    "weight": -0.0508899895023
+  },
+  {
+    "term": "... it",
+    "category": "PAST",
+    "weight": 0.220662083933
+  },
+  {
+    "term": "?",
+    "category": "PAST",
+    "weight": -0.0460272445229
+  },
+  {
+    "term": ". it",
+    "category": "PAST",
+    "weight": -0.0767169010946
+  },
+  {
+    "term": "in one",
+    "category": "PAST",
+    "weight": 0.0552275149573
+  },
+  {
+    "term": "but",
+    "category": "PAST",
+    "weight": -0.044954968313
+  },
+  {
+    "term": "he",
+    "category": "PAST",
+    "weight": 0.0171244644419
+  },
+  {
+    "term": "made",
+    "category": "PAST",
+    "weight": 0.397115115071
+  },
+  {
+    "term": "i want",
+    "category": "PAST",
+    "weight": -0.0505146640226
+  },
+  {
+    "term": "i dont",
+    "category": "PAST",
+    "weight": 0.00337463742289
+  },
+  {
+    "term": "other",
+    "category": "PAST",
+    "weight": 0.10286490649
+  },
+  {
+    "term": "monday",
+    "category": "PAST",
+    "weight": -0.0553674739256
+  },
+  {
+    "term": "friends",
+    "category": "PAST",
+    "weight": 0.0228475575941
+  },
+  {
+    "term": "goin",
+    "category": "PAST",
+    "weight": -0.0197864257528
+  }
+]

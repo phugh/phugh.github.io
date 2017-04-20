@@ -1,0 +1,2127 @@
+[
+  {
+    "term": "joyous",
+    "category": "POS_P",
+    "weight": 0
+  },
+  {
+    "term": "comfortable",
+    "category": "POS_P",
+    "weight": 0
+  },
+  {
+    "term": "cheerful",
+    "category": "POS_P",
+    "weight": 0
+  },
+  {
+    "term": "fabulous",
+    "category": "POS_P",
+    "weight": 0
+  },
+  {
+    "term": "entertained",
+    "category": "POS_P",
+    "weight": 0
+  },
+  {
+    "term": "grateful",
+    "category": "POS_P",
+    "weight": 0
+  },
+  {
+    "term": "exuberant",
+    "category": "POS_P",
+    "weight": 0
+  },
+  {
+    "term": "gratified",
+    "category": "POS_P",
+    "weight": 0
+  },
+  {
+    "term": "smiling",
+    "category": "POS_P",
+    "weight": 0
+  },
+  {
+    "term": "superb",
+    "category": "POS_P",
+    "weight": 0
+  },
+  {
+    "term": "blissful",
+    "category": "POS_P",
+    "weight": 0
+  },
+  {
+    "term": "gratitude",
+    "category": "POS_P",
+    "weight": 0
+  },
+  {
+    "term": "incredible",
+    "category": "POS_P",
+    "weight": 0
+  },
+  {
+    "term": "euphoric",
+    "category": "POS_P",
+    "weight": 0
+  },
+  {
+    "term": "fortunate",
+    "category": "POS_P",
+    "weight": 0
+  },
+  {
+    "term": "wonderful",
+    "category": "POS_P",
+    "weight": 0
+  },
+  {
+    "term": "peaceful",
+    "category": "POS_P",
+    "weight": 0
+  },
+  {
+    "term": "upbeat",
+    "category": "POS_P",
+    "weight": 0
+  },
+  {
+    "term": "lovely",
+    "category": "POS_P",
+    "weight": 0
+  },
+  {
+    "term": "cozy",
+    "category": "POS_P",
+    "weight": 0
+  },
+  {
+    "term": "ecstatic",
+    "category": "POS_P",
+    "weight": 0
+  },
+  {
+    "term": "festive",
+    "category": "POS_P",
+    "weight": 0
+  },
+  {
+    "term": "carefree",
+    "category": "POS_P",
+    "weight": 0
+  },
+  {
+    "term": "pleasant",
+    "category": "POS_P",
+    "weight": 0
+  },
+  {
+    "term": "jovial",
+    "category": "POS_P",
+    "weight": 0
+  },
+  {
+    "term": "excellent",
+    "category": "POS_P",
+    "weight": 0
+  },
+  {
+    "term": "cheery",
+    "category": "POS_P",
+    "weight": 0
+  },
+  {
+    "term": "dazzled",
+    "category": "POS_P",
+    "weight": 0
+  },
+  {
+    "term": "jubilant",
+    "category": "POS_P",
+    "weight": 0
+  },
+  {
+    "term": "giggling",
+    "category": "POS_P",
+    "weight": 0
+  },
+  {
+    "term": "enthusiastic",
+    "category": "POS_P",
+    "weight": 0
+  },
+  {
+    "term": "contented",
+    "category": "POS_P",
+    "weight": 0
+  },
+  {
+    "term": "optimism",
+    "category": "POS_P",
+    "weight": 0
+  },
+  {
+    "term": "grinning",
+    "category": "POS_P",
+    "weight": 0
+  },
+  {
+    "term": "delightful",
+    "category": "POS_P",
+    "weight": 0
+  },
+  {
+    "term": "laughing",
+    "category": "POS_P",
+    "weight": 0
+  },
+  {
+    "term": "gleeful",
+    "category": "POS_P",
+    "weight": 0
+  },
+  {
+    "term": "perky",
+    "category": "POS_P",
+    "weight": 0
+  },
+  {
+    "term": "cheerfulness",
+    "category": "POS_P",
+    "weight": 0
+  },
+  {
+    "term": "radiant",
+    "category": "POS_P",
+    "weight": 0
+  },
+  {
+    "term": "optimistic",
+    "category": "POS_P",
+    "weight": 0
+  },
+  {
+    "term": "pessimistic",
+    "category": "NEG_P",
+    "weight": 0
+  },
+  {
+    "term": "discontent",
+    "category": "NEG_P",
+    "weight": 0
+  },
+  {
+    "term": "perturbed",
+    "category": "NEG_P",
+    "weight": 0
+  },
+  {
+    "term": "ridiculed",
+    "category": "NEG_P",
+    "weight": 0
+  },
+  {
+    "term": "cynical",
+    "category": "NEG_P",
+    "weight": 0
+  },
+  {
+    "term": "pestered",
+    "category": "NEG_P",
+    "weight": 0
+  },
+  {
+    "term": "dissatisfaction",
+    "category": "NEG_P",
+    "weight": 0
+  },
+  {
+    "term": "disappointing",
+    "category": "NEG_P",
+    "weight": 0
+  },
+  {
+    "term": "wrathful",
+    "category": "NEG_P",
+    "weight": 0
+  },
+  {
+    "term": "bawled",
+    "category": "NEG_P",
+    "weight": 0
+  },
+  {
+    "term": "bugged",
+    "category": "NEG_P",
+    "weight": 0
+  },
+  {
+    "term": "doleful",
+    "category": "NEG_P",
+    "weight": 0
+  },
+  {
+    "term": "displeasure",
+    "category": "NEG_P",
+    "weight": 0
+  },
+  {
+    "term": "irritable",
+    "category": "NEG_P",
+    "weight": 0
+  },
+  {
+    "term": "anger",
+    "category": "NEG_P",
+    "weight": 0
+  },
+  {
+    "term": "constricted",
+    "category": "NEG_P",
+    "weight": 0
+  },
+  {
+    "term": "contemptuous",
+    "category": "NEG_P",
+    "weight": 0
+  },
+  {
+    "term": "vulnerable",
+    "category": "NEG_P",
+    "weight": 0
+  },
+  {
+    "term": "poorly",
+    "category": "NEG_P",
+    "weight": 0
+  },
+  {
+    "term": "bummed",
+    "category": "NEG_P",
+    "weight": 0
+  },
+  {
+    "term": "terrorized",
+    "category": "NEG_P",
+    "weight": 0
+  },
+  {
+    "term": "afraid",
+    "category": "NEG_P",
+    "weight": 0
+  },
+  {
+    "term": "haughty",
+    "category": "NEG_P",
+    "weight": 0
+  },
+  {
+    "term": "fuming",
+    "category": "NEG_P",
+    "weight": 0
+  },
+  {
+    "term": "infuriated",
+    "category": "NEG_P",
+    "weight": 0
+  },
+  {
+    "term": "startled",
+    "category": "NEG_P",
+    "weight": 0
+  },
+  {
+    "term": "angry",
+    "category": "NEG_P",
+    "weight": 0
+  },
+  {
+    "term": "chagrin",
+    "category": "NEG_P",
+    "weight": 0
+  },
+  {
+    "term": "disgusting",
+    "category": "NEG_P",
+    "weight": 0
+  },
+  {
+    "term": "grieved",
+    "category": "NEG_P",
+    "weight": 0
+  },
+  {
+    "term": "glum",
+    "category": "NEG_P",
+    "weight": 0
+  },
+  {
+    "term": "anguished",
+    "category": "NEG_P",
+    "weight": 0
+  },
+  {
+    "term": "disheartened",
+    "category": "NEG_P",
+    "weight": 0
+  },
+  {
+    "term": "unpleasant",
+    "category": "NEG_P",
+    "weight": 0
+  },
+  {
+    "term": "remorse",
+    "category": "NEG_P",
+    "weight": 0
+  },
+  {
+    "term": "disgust",
+    "category": "NEG_P",
+    "weight": 0
+  },
+  {
+    "term": "horrible",
+    "category": "NEG_P",
+    "weight": 0
+  },
+  {
+    "term": "distraught",
+    "category": "NEG_P",
+    "weight": 0
+  },
+  {
+    "term": "woeful",
+    "category": "NEG_P",
+    "weight": 0
+  },
+  {
+    "term": "unhappiness",
+    "category": "NEG_P",
+    "weight": 0
+  },
+  {
+    "term": "despairing",
+    "category": "NEG_P",
+    "weight": 0
+  },
+  {
+    "term": "indignant",
+    "category": "NEG_P",
+    "weight": 0
+  },
+  {
+    "term": "distressing",
+    "category": "NEG_P",
+    "weight": 0
+  },
+  {
+    "term": "melancholy",
+    "category": "NEG_P",
+    "weight": 0
+  },
+  {
+    "term": "displeased",
+    "category": "NEG_P",
+    "weight": 0
+  },
+  {
+    "term": "wary",
+    "category": "NEG_P",
+    "weight": 0
+  },
+  {
+    "term": "horrid",
+    "category": "NEG_P",
+    "weight": 0
+  },
+  {
+    "term": "snappy",
+    "category": "NEG_P",
+    "weight": 0
+  },
+  {
+    "term": "accosted",
+    "category": "NEG_P",
+    "weight": 0
+  },
+  {
+    "term": "disconcerted",
+    "category": "NEG_P",
+    "weight": 0
+  },
+  {
+    "term": "ornery",
+    "category": "NEG_P",
+    "weight": 0
+  },
+  {
+    "term": "grief",
+    "category": "NEG_P",
+    "weight": 0
+  },
+  {
+    "term": "uneasy",
+    "category": "NEG_P",
+    "weight": 0
+  },
+  {
+    "term": "shameful",
+    "category": "NEG_P",
+    "weight": 0
+  },
+  {
+    "term": "ashamed",
+    "category": "NEG_P",
+    "weight": 0
+  },
+  {
+    "term": "terrified",
+    "category": "NEG_P",
+    "weight": 0
+  },
+  {
+    "term": "sad",
+    "category": "NEG_P",
+    "weight": 0
+  },
+  {
+    "term": "disappointed",
+    "category": "NEG_P",
+    "weight": 0
+  },
+  {
+    "term": "mournful",
+    "category": "NEG_P",
+    "weight": 0
+  },
+  {
+    "term": "pissed",
+    "category": "NEG_P",
+    "weight": 0
+  },
+  {
+    "term": "wrath",
+    "category": "NEG_P",
+    "weight": 0
+  },
+  {
+    "term": "ungrateful",
+    "category": "NEG_P",
+    "weight": 0
+  },
+  {
+    "term": "disappointment",
+    "category": "NEG_P",
+    "weight": 0
+  },
+  {
+    "term": "discontented",
+    "category": "NEG_P",
+    "weight": 0
+  },
+  {
+    "term": "pressured",
+    "category": "NEG_P",
+    "weight": 0
+  },
+  {
+    "term": "unenthusiastic",
+    "category": "NEG_P",
+    "weight": 0
+  },
+  {
+    "term": "loathed",
+    "category": "NEG_P",
+    "weight": 0
+  },
+  {
+    "term": "frustrating",
+    "category": "NEG_P",
+    "weight": 0
+  },
+  {
+    "term": "grieve",
+    "category": "NEG_P",
+    "weight": 0
+  },
+  {
+    "term": "bitterness",
+    "category": "NEG_P",
+    "weight": 0
+  },
+  {
+    "term": "edgy",
+    "category": "NEG_P",
+    "weight": 0
+  },
+  {
+    "term": "sorrowful",
+    "category": "NEG_P",
+    "weight": 0
+  },
+  {
+    "term": "angst",
+    "category": "NEG_P",
+    "weight": 0
+  },
+  {
+    "term": "sadness",
+    "category": "NEG_P",
+    "weight": 0
+  },
+  {
+    "term": "sour",
+    "category": "NEG_P",
+    "weight": 0
+  },
+  {
+    "term": "dread",
+    "category": "NEG_P",
+    "weight": 0
+  },
+  {
+    "term": "insulted",
+    "category": "NEG_P",
+    "weight": 0
+  },
+  {
+    "term": "misery",
+    "category": "NEG_P",
+    "weight": 0
+  },
+  {
+    "term": "frantic",
+    "category": "NEG_P",
+    "weight": 0
+  },
+  {
+    "term": "grieving",
+    "category": "NEG_P",
+    "weight": 0
+  },
+  {
+    "term": "vexation",
+    "category": "NEG_P",
+    "weight": 0
+  },
+  {
+    "term": "distressed",
+    "category": "NEG_P",
+    "weight": 0
+  },
+  {
+    "term": "remorseful",
+    "category": "NEG_P",
+    "weight": 0
+  },
+  {
+    "term": "repulsed",
+    "category": "NEG_P",
+    "weight": 0
+  },
+  {
+    "term": "eagerness",
+    "category": "POS_E",
+    "weight": 0
+  },
+  {
+    "term": "mindful",
+    "category": "POS_E",
+    "weight": 0
+  },
+  {
+    "term": "pursuant",
+    "category": "POS_E",
+    "weight": 0
+  },
+  {
+    "term": "persevering",
+    "category": "POS_E",
+    "weight": 0
+  },
+  {
+    "term": "inquisitive",
+    "category": "POS_E",
+    "weight": 0
+  },
+  {
+    "term": "lively",
+    "category": "POS_E",
+    "weight": 0
+  },
+  {
+    "term": "riveted",
+    "category": "POS_E",
+    "weight": 0
+  },
+  {
+    "term": "ponder",
+    "category": "POS_E",
+    "weight": 0
+  },
+  {
+    "term": "industrious",
+    "category": "POS_E",
+    "weight": 0
+  },
+  {
+    "term": "daring",
+    "category": "POS_E",
+    "weight": 0
+  },
+  {
+    "term": "eager",
+    "category": "POS_E",
+    "weight": 0
+  },
+  {
+    "term": "interesting",
+    "category": "POS_E",
+    "weight": 0
+  },
+  {
+    "term": "captivate",
+    "category": "POS_E",
+    "weight": 0
+  },
+  {
+    "term": "captivated",
+    "category": "POS_E",
+    "weight": 0
+  },
+  {
+    "term": "engrossed",
+    "category": "POS_E",
+    "weight": 0
+  },
+  {
+    "term": "fervent",
+    "category": "POS_E",
+    "weight": 0
+  },
+  {
+    "term": "spellbinding",
+    "category": "POS_E",
+    "weight": 0
+  },
+  {
+    "term": "contemplative",
+    "category": "POS_E",
+    "weight": 0
+  },
+  {
+    "term": "fervor",
+    "category": "POS_E",
+    "weight": 0
+  },
+  {
+    "term": "tenacity",
+    "category": "POS_E",
+    "weight": 0
+  },
+  {
+    "term": "reflective",
+    "category": "POS_E",
+    "weight": 0
+  },
+  {
+    "term": "decisive",
+    "category": "POS_E",
+    "weight": 0
+  },
+  {
+    "term": "diligence",
+    "category": "POS_E",
+    "weight": 0
+  },
+  {
+    "term": "fascination",
+    "category": "POS_E",
+    "weight": 0
+  },
+  {
+    "term": "pondering",
+    "category": "POS_E",
+    "weight": 0
+  },
+  {
+    "term": "constructive",
+    "category": "POS_E",
+    "weight": 0
+  },
+  {
+    "term": "captivates",
+    "category": "POS_E",
+    "weight": 0
+  },
+  {
+    "term": "curiosity",
+    "category": "POS_E",
+    "weight": 0
+  },
+  {
+    "term": "vigilance",
+    "category": "POS_E",
+    "weight": 0
+  },
+  {
+    "term": "dedication",
+    "category": "POS_E",
+    "weight": 0
+  },
+  {
+    "term": "attentive",
+    "category": "POS_E",
+    "weight": 0
+  },
+  {
+    "term": "adventurous",
+    "category": "POS_E",
+    "weight": 0
+  },
+  {
+    "term": "energized",
+    "category": "POS_E",
+    "weight": 0
+  },
+  {
+    "term": "diligent",
+    "category": "POS_E",
+    "weight": 0
+  },
+  {
+    "term": "mesmerized",
+    "category": "POS_E",
+    "weight": 0
+  },
+  {
+    "term": "yearning",
+    "category": "POS_E",
+    "weight": 0
+  },
+  {
+    "term": "vivacious",
+    "category": "POS_E",
+    "weight": 0
+  },
+  {
+    "term": "keen",
+    "category": "POS_E",
+    "weight": 0
+  },
+  {
+    "term": "intrigued",
+    "category": "POS_E",
+    "weight": 0
+  },
+  {
+    "term": "transfixed",
+    "category": "POS_E",
+    "weight": 0
+  },
+  {
+    "term": "intrigue",
+    "category": "POS_E",
+    "weight": 0
+  },
+  {
+    "term": "distracted",
+    "category": "NEG_E",
+    "weight": 0
+  },
+  {
+    "term": "somnolent",
+    "category": "NEG_E",
+    "weight": 0
+  },
+  {
+    "term": "sleepy",
+    "category": "NEG_E",
+    "weight": 0
+  },
+  {
+    "term": "weariness",
+    "category": "NEG_E",
+    "weight": 0
+  },
+  {
+    "term": "listless",
+    "category": "NEG_E",
+    "weight": 0
+  },
+  {
+    "term": "stoned",
+    "category": "NEG_E",
+    "weight": 0
+  },
+  {
+    "term": "disengagement",
+    "category": "NEG_E",
+    "weight": 0
+  },
+  {
+    "term": "oblivious",
+    "category": "NEG_E",
+    "weight": 0
+  },
+  {
+    "term": "disinterested",
+    "category": "NEG_E",
+    "weight": 0
+  },
+  {
+    "term": "idleness",
+    "category": "NEG_E",
+    "weight": 0
+  },
+  {
+    "term": "tiresome",
+    "category": "NEG_E",
+    "weight": 0
+  },
+  {
+    "term": "sluggish",
+    "category": "NEG_E",
+    "weight": 0
+  },
+  {
+    "term": "torpor",
+    "category": "NEG_E",
+    "weight": 0
+  },
+  {
+    "term": "tedious",
+    "category": "NEG_E",
+    "weight": 0
+  },
+  {
+    "term": "impartial",
+    "category": "NEG_E",
+    "weight": 0
+  },
+  {
+    "term": "forgetful",
+    "category": "NEG_E",
+    "weight": 0
+  },
+  {
+    "term": "weary",
+    "category": "NEG_E",
+    "weight": 0
+  },
+  {
+    "term": "negligent",
+    "category": "NEG_E",
+    "weight": 0
+  },
+  {
+    "term": "dreamy",
+    "category": "NEG_E",
+    "weight": 0
+  },
+  {
+    "term": "boredom",
+    "category": "NEG_E",
+    "weight": 0
+  },
+  {
+    "term": "numb",
+    "category": "NEG_E",
+    "weight": 0
+  },
+  {
+    "term": "unmoved",
+    "category": "NEG_E",
+    "weight": 0
+  },
+  {
+    "term": "interminable",
+    "category": "NEG_E",
+    "weight": 0
+  },
+  {
+    "term": "inertia",
+    "category": "NEG_E",
+    "weight": 0
+  },
+  {
+    "term": "distraction",
+    "category": "NEG_E",
+    "weight": 0
+  },
+  {
+    "term": "restlessness",
+    "category": "NEG_E",
+    "weight": 0
+  },
+  {
+    "term": "distract",
+    "category": "NEG_E",
+    "weight": 0
+  },
+  {
+    "term": "disengage",
+    "category": "NEG_E",
+    "weight": 0
+  },
+  {
+    "term": "oblivion",
+    "category": "NEG_E",
+    "weight": 0
+  },
+  {
+    "term": "wandering",
+    "category": "NEG_E",
+    "weight": 0
+  },
+  {
+    "term": "unaware",
+    "category": "NEG_E",
+    "weight": 0
+  },
+  {
+    "term": "neighbors",
+    "category": "POS_R",
+    "weight": 0
+  },
+  {
+    "term": "cordial",
+    "category": "POS_R",
+    "weight": 0
+  },
+  {
+    "term": "genial",
+    "category": "POS_R",
+    "weight": 0
+  },
+  {
+    "term": "brotherly",
+    "category": "POS_R",
+    "weight": 0
+  },
+  {
+    "term": "sincere",
+    "category": "POS_R",
+    "weight": 0
+  },
+  {
+    "term": "sociability",
+    "category": "POS_R",
+    "weight": 0
+  },
+  {
+    "term": "sincerely",
+    "category": "POS_R",
+    "weight": 0
+  },
+  {
+    "term": "amorous",
+    "category": "POS_R",
+    "weight": 0
+  },
+  {
+    "term": "interdependence",
+    "category": "POS_R",
+    "weight": 0
+  },
+  {
+    "term": "fidelity",
+    "category": "POS_R",
+    "weight": 0
+  },
+  {
+    "term": "supportive",
+    "category": "POS_R",
+    "weight": 0
+  },
+  {
+    "term": "bonded",
+    "category": "POS_R",
+    "weight": 0
+  },
+  {
+    "term": "helpful",
+    "category": "POS_R",
+    "weight": 0
+  },
+  {
+    "term": "considerate",
+    "category": "POS_R",
+    "weight": 0
+  },
+  {
+    "term": "communicative",
+    "category": "POS_R",
+    "weight": 0
+  },
+  {
+    "term": "rapport",
+    "category": "POS_R",
+    "weight": 0
+  },
+  {
+    "term": "appreciative",
+    "category": "POS_R",
+    "weight": 0
+  },
+  {
+    "term": "charisma",
+    "category": "POS_R",
+    "weight": 0
+  },
+  {
+    "term": "endeared",
+    "category": "POS_R",
+    "weight": 0
+  },
+  {
+    "term": "cooperation",
+    "category": "POS_R",
+    "weight": 0
+  },
+  {
+    "term": "forgiven",
+    "category": "POS_R",
+    "weight": 0
+  },
+  {
+    "term": "darling",
+    "category": "POS_R",
+    "weight": 0
+  },
+  {
+    "term": "friend",
+    "category": "POS_R",
+    "weight": 0
+  },
+  {
+    "term": "loving",
+    "category": "POS_R",
+    "weight": 0
+  },
+  {
+    "term": "affectionate",
+    "category": "POS_R",
+    "weight": 0
+  },
+  {
+    "term": "collaborate",
+    "category": "POS_R",
+    "weight": 0
+  },
+  {
+    "term": "beloved",
+    "category": "POS_R",
+    "weight": 0
+  },
+  {
+    "term": "courteous",
+    "category": "POS_R",
+    "weight": 0
+  },
+  {
+    "term": "amity",
+    "category": "POS_R",
+    "weight": 0
+  },
+  {
+    "term": "forgive",
+    "category": "POS_R",
+    "weight": 0
+  },
+  {
+    "term": "interdependent",
+    "category": "POS_R",
+    "weight": 0
+  },
+  {
+    "term": "approachable",
+    "category": "POS_R",
+    "weight": 0
+  },
+  {
+    "term": "hospitable",
+    "category": "POS_R",
+    "weight": 0
+  },
+  {
+    "term": "nurturing",
+    "category": "POS_R",
+    "weight": 0
+  },
+  {
+    "term": "entrust",
+    "category": "POS_R",
+    "weight": 0
+  },
+  {
+    "term": "altruism",
+    "category": "POS_R",
+    "weight": 0
+  },
+  {
+    "term": "friends",
+    "category": "POS_R",
+    "weight": 0
+  },
+  {
+    "term": "intimacy",
+    "category": "POS_R",
+    "weight": 0
+  },
+  {
+    "term": "endearing",
+    "category": "POS_R",
+    "weight": 0
+  },
+  {
+    "term": "kindly",
+    "category": "POS_R",
+    "weight": 0
+  },
+  {
+    "term": "kind",
+    "category": "POS_R",
+    "weight": 0
+  },
+  {
+    "term": "respectful",
+    "category": "POS_R",
+    "weight": 0
+  },
+  {
+    "term": "friendliness",
+    "category": "POS_R",
+    "weight": 0
+  },
+  {
+    "term": "befriended",
+    "category": "POS_R",
+    "weight": 0
+  },
+  {
+    "term": "tenderness",
+    "category": "POS_R",
+    "weight": 0
+  },
+  {
+    "term": "loyal",
+    "category": "POS_R",
+    "weight": 0
+  },
+  {
+    "term": "social",
+    "category": "POS_R",
+    "weight": 0
+  },
+  {
+    "term": "hospitality",
+    "category": "POS_R",
+    "weight": 0
+  },
+  {
+    "term": "nurture",
+    "category": "POS_R",
+    "weight": 0
+  },
+  {
+    "term": "entrusted",
+    "category": "POS_R",
+    "weight": 0
+  },
+  {
+    "term": "friendship",
+    "category": "POS_R",
+    "weight": 0
+  },
+  {
+    "term": "affection",
+    "category": "POS_R",
+    "weight": 0
+  },
+  {
+    "term": "accusing",
+    "category": "NEG_R",
+    "weight": 0
+  },
+  {
+    "term": "envious",
+    "category": "NEG_R",
+    "weight": 0
+  },
+  {
+    "term": "wronged",
+    "category": "NEG_R",
+    "weight": 0
+  },
+  {
+    "term": "argumentative",
+    "category": "NEG_R",
+    "weight": 0
+  },
+  {
+    "term": "dishonest",
+    "category": "NEG_R",
+    "weight": 0
+  },
+  {
+    "term": "forsaken",
+    "category": "NEG_R",
+    "weight": 0
+  },
+  {
+    "term": "distrusted",
+    "category": "NEG_R",
+    "weight": 0
+  },
+  {
+    "term": "accused",
+    "category": "NEG_R",
+    "weight": 0
+  },
+  {
+    "term": "inhospitable",
+    "category": "NEG_R",
+    "weight": 0
+  },
+  {
+    "term": "uncooperative",
+    "category": "NEG_R",
+    "weight": 0
+  },
+  {
+    "term": "obnoxious",
+    "category": "NEG_R",
+    "weight": 0
+  },
+  {
+    "term": "hate",
+    "category": "NEG_R",
+    "weight": 0
+  },
+  {
+    "term": "selfish",
+    "category": "NEG_R",
+    "weight": 0
+  },
+  {
+    "term": "unwelcome",
+    "category": "NEG_R",
+    "weight": 0
+  },
+  {
+    "term": "resentful",
+    "category": "NEG_R",
+    "weight": 0
+  },
+  {
+    "term": "deceptive",
+    "category": "NEG_R",
+    "weight": 0
+  },
+  {
+    "term": "hated",
+    "category": "NEG_R",
+    "weight": 0
+  },
+  {
+    "term": "jealousy",
+    "category": "NEG_R",
+    "weight": 0
+  },
+  {
+    "term": "criticised",
+    "category": "NEG_R",
+    "weight": 0
+  },
+  {
+    "term": "defiant",
+    "category": "NEG_R",
+    "weight": 0
+  },
+  {
+    "term": "antagonized",
+    "category": "NEG_R",
+    "weight": 0
+  },
+  {
+    "term": "evasive",
+    "category": "NEG_R",
+    "weight": 0
+  },
+  {
+    "term": "excommunicated",
+    "category": "NEG_R",
+    "weight": 0
+  },
+  {
+    "term": "misunderstood",
+    "category": "NEG_R",
+    "weight": 0
+  },
+  {
+    "term": "mocked",
+    "category": "NEG_R",
+    "weight": 0
+  },
+  {
+    "term": "insensitive",
+    "category": "NEG_R",
+    "weight": 0
+  },
+  {
+    "term": "snobbish",
+    "category": "NEG_R",
+    "weight": 0
+  },
+  {
+    "term": "hostility",
+    "category": "NEG_R",
+    "weight": 0
+  },
+  {
+    "term": "revenge",
+    "category": "NEG_R",
+    "weight": 0
+  },
+  {
+    "term": "greedy",
+    "category": "NEG_R",
+    "weight": 0
+  },
+  {
+    "term": "mocking",
+    "category": "NEG_R",
+    "weight": 0
+  },
+  {
+    "term": "disobedient",
+    "category": "NEG_R",
+    "weight": 0
+  },
+  {
+    "term": "contradictory",
+    "category": "NEG_R",
+    "weight": 0
+  },
+  {
+    "term": "rudeness",
+    "category": "NEG_R",
+    "weight": 0
+  },
+  {
+    "term": "disloyalty",
+    "category": "NEG_R",
+    "weight": 0
+  },
+  {
+    "term": "animosity",
+    "category": "NEG_R",
+    "weight": 0
+  },
+  {
+    "term": "destructive",
+    "category": "NEG_R",
+    "weight": 0
+  },
+  {
+    "term": "antagonist",
+    "category": "NEG_R",
+    "weight": 0
+  },
+  {
+    "term": "humiliate",
+    "category": "NEG_R",
+    "weight": 0
+  },
+  {
+    "term": "alienated",
+    "category": "NEG_R",
+    "weight": 0
+  },
+  {
+    "term": "tantrum",
+    "category": "NEG_R",
+    "weight": 0
+  },
+  {
+    "term": "affront",
+    "category": "NEG_R",
+    "weight": 0
+  },
+  {
+    "term": "misjudged",
+    "category": "NEG_R",
+    "weight": 0
+  },
+  {
+    "term": "disdain",
+    "category": "NEG_R",
+    "weight": 0
+  },
+  {
+    "term": "inhumane",
+    "category": "NEG_R",
+    "weight": 0
+  },
+  {
+    "term": "disobeyed",
+    "category": "NEG_R",
+    "weight": 0
+  },
+  {
+    "term": "spiteful",
+    "category": "NEG_R",
+    "weight": 0
+  },
+  {
+    "term": "crotchety",
+    "category": "NEG_R",
+    "weight": 0
+  },
+  {
+    "term": "offended",
+    "category": "NEG_R",
+    "weight": 0
+  },
+  {
+    "term": "cruel",
+    "category": "NEG_R",
+    "weight": 0
+  },
+  {
+    "term": "rancor",
+    "category": "NEG_R",
+    "weight": 0
+  },
+  {
+    "term": "exiled",
+    "category": "NEG_R",
+    "weight": 0
+  },
+  {
+    "term": "scornful",
+    "category": "NEG_R",
+    "weight": 0
+  },
+  {
+    "term": "virulence",
+    "category": "NEG_R",
+    "weight": 0
+  },
+  {
+    "term": "hatred",
+    "category": "NEG_R",
+    "weight": 0
+  },
+  {
+    "term": "oppress",
+    "category": "NEG_R",
+    "weight": 0
+  },
+  {
+    "term": "excommunicate",
+    "category": "NEG_R",
+    "weight": 0
+  },
+  {
+    "term": "motivation",
+    "category": "POS_M",
+    "weight": 0
+  },
+  {
+    "term": "worthwhile",
+    "category": "POS_M",
+    "weight": 0
+  },
+  {
+    "term": "moralistic",
+    "category": "POS_M",
+    "weight": 0
+  },
+  {
+    "term": "spiritual",
+    "category": "POS_M",
+    "weight": 0
+  },
+  {
+    "term": "motive",
+    "category": "POS_M",
+    "weight": 0
+  },
+  {
+    "term": "ardent",
+    "category": "POS_M",
+    "weight": 0
+  },
+  {
+    "term": "meditation",
+    "category": "POS_M",
+    "weight": 0
+  },
+  {
+    "term": "worship",
+    "category": "POS_M",
+    "weight": 0
+  },
+  {
+    "term": "doubtless",
+    "category": "POS_M",
+    "weight": 0
+  },
+  {
+    "term": "embodiment",
+    "category": "POS_M",
+    "weight": 0
+  },
+  {
+    "term": "goal",
+    "category": "POS_M",
+    "weight": 0
+  },
+  {
+    "term": "resolute",
+    "category": "POS_M",
+    "weight": 0
+  },
+  {
+    "term": "meaningful",
+    "category": "POS_M",
+    "weight": 0
+  },
+  {
+    "term": "empowered",
+    "category": "POS_M",
+    "weight": 0
+  },
+  {
+    "term": "meditating",
+    "category": "POS_M",
+    "weight": 0
+  },
+  {
+    "term": "religiousness",
+    "category": "POS_M",
+    "weight": 0
+  },
+  {
+    "term": "symbolizes",
+    "category": "POS_M",
+    "weight": 0
+  },
+  {
+    "term": "intention",
+    "category": "POS_M",
+    "weight": 0
+  },
+  {
+    "term": "vital",
+    "category": "POS_M",
+    "weight": 0
+  },
+  {
+    "term": "meditative",
+    "category": "POS_M",
+    "weight": 0
+  },
+  {
+    "term": "essence",
+    "category": "POS_M",
+    "weight": 0
+  },
+  {
+    "term": "eclectic",
+    "category": "POS_M",
+    "weight": 0
+  },
+  {
+    "term": "scope",
+    "category": "POS_M",
+    "weight": 0
+  },
+  {
+    "term": "beauty",
+    "category": "POS_M",
+    "weight": 0
+  },
+  {
+    "term": "importance",
+    "category": "POS_M",
+    "weight": 0
+  },
+  {
+    "term": "ardor",
+    "category": "POS_M",
+    "weight": 0
+  },
+  {
+    "term": "allegiance",
+    "category": "POS_M",
+    "weight": 0
+  },
+  {
+    "term": "aspire",
+    "category": "POS_M",
+    "weight": 0
+  },
+  {
+    "term": "meditate",
+    "category": "POS_M",
+    "weight": 0
+  },
+  {
+    "term": "passionately",
+    "category": "POS_M",
+    "weight": 0
+  },
+  {
+    "term": "devout",
+    "category": "POS_M",
+    "weight": 0
+  },
+  {
+    "term": "rationale",
+    "category": "POS_M",
+    "weight": 0
+  },
+  {
+    "term": "wiser",
+    "category": "POS_M",
+    "weight": 0
+  },
+  {
+    "term": "proverb",
+    "category": "POS_M",
+    "weight": 0
+  },
+  {
+    "term": "motto",
+    "category": "POS_M",
+    "weight": 0
+  },
+  {
+    "term": "convinced",
+    "category": "POS_M",
+    "weight": 0
+  },
+  {
+    "term": "marrow",
+    "category": "POS_M",
+    "weight": 0
+  },
+  {
+    "term": "pithy",
+    "category": "POS_M",
+    "weight": 0
+  },
+  {
+    "term": "wise",
+    "category": "POS_M",
+    "weight": 0
+  },
+  {
+    "term": "piety",
+    "category": "POS_M",
+    "weight": 0
+  },
+  {
+    "term": "freedom",
+    "category": "POS_M",
+    "weight": 0
+  },
+  {
+    "term": "aspiration",
+    "category": "POS_M",
+    "weight": 0
+  },
+  {
+    "term": "patriotic",
+    "category": "POS_M",
+    "weight": 0
+  },
+  {
+    "term": "passionate",
+    "category": "POS_M",
+    "weight": 0
+  },
+  {
+    "term": "superficial",
+    "category": "NEG_M",
+    "weight": 0
+  },
+  {
+    "term": "aimless",
+    "category": "NEG_M",
+    "weight": 0
+  },
+  {
+    "term": "haphazardly",
+    "category": "NEG_M",
+    "weight": 0
+  },
+  {
+    "term": "hollowness",
+    "category": "NEG_M",
+    "weight": 0
+  },
+  {
+    "term": "meaningless",
+    "category": "NEG_M",
+    "weight": 0
+  },
+  {
+    "term": "futility",
+    "category": "NEG_M",
+    "weight": 0
+  },
+  {
+    "term": "worthless",
+    "category": "NEG_M",
+    "weight": 0
+  },
+  {
+    "term": "invalidated",
+    "category": "NEG_M",
+    "weight": 0
+  },
+  {
+    "term": "inconsequential",
+    "category": "NEG_M",
+    "weight": 0
+  },
+  {
+    "term": "dispassionate",
+    "category": "NEG_M",
+    "weight": 0
+  },
+  {
+    "term": "languishing",
+    "category": "NEG_M",
+    "weight": 0
+  },
+  {
+    "term": "hopeless",
+    "category": "NEG_M",
+    "weight": 0
+  },
+  {
+    "term": "disembodied",
+    "category": "NEG_M",
+    "weight": 0
+  },
+  {
+    "term": "insubstantial",
+    "category": "NEG_M",
+    "weight": 0
+  },
+  {
+    "term": "useless",
+    "category": "NEG_M",
+    "weight": 0
+  },
+  {
+    "term": "irresponsible",
+    "category": "NEG_M",
+    "weight": 0
+  },
+  {
+    "term": "emptiness",
+    "category": "NEG_M",
+    "weight": 0
+  },
+  {
+    "term": "unnecessary",
+    "category": "NEG_M",
+    "weight": 0
+  },
+  {
+    "term": "powerless",
+    "category": "NEG_M",
+    "weight": 0
+  },
+  {
+    "term": "worthlessness",
+    "category": "NEG_M",
+    "weight": 0
+  },
+  {
+    "term": "adorned",
+    "category": "POS_A",
+    "weight": 0
+  },
+  {
+    "term": "accomplishment",
+    "category": "POS_A",
+    "weight": 0
+  },
+  {
+    "term": "honored",
+    "category": "POS_A",
+    "weight": 0
+  },
+  {
+    "term": "achieved",
+    "category": "POS_A",
+    "weight": 0
+  },
+  {
+    "term": "knowledgeable",
+    "category": "POS_A",
+    "weight": 0
+  },
+  {
+    "term": "skilled",
+    "category": "POS_A",
+    "weight": 0
+  },
+  {
+    "term": "reputable",
+    "category": "POS_A",
+    "weight": 0
+  },
+  {
+    "term": "eminence",
+    "category": "POS_A",
+    "weight": 0
+  },
+  {
+    "term": "comprehend",
+    "category": "POS_A",
+    "weight": 0
+  },
+  {
+    "term": "perfect",
+    "category": "POS_A",
+    "weight": 0
+  },
+  {
+    "term": "expert",
+    "category": "POS_A",
+    "weight": 0
+  },
+  {
+    "term": "authoritative",
+    "category": "POS_A",
+    "weight": 0
+  },
+  {
+    "term": "literate",
+    "category": "POS_A",
+    "weight": 0
+  },
+  {
+    "term": "proficient",
+    "category": "POS_A",
+    "weight": 0
+  },
+  {
+    "term": "excel",
+    "category": "POS_A",
+    "weight": 0
+  },
+  {
+    "term": "fruitful",
+    "category": "POS_A",
+    "weight": 0
+  },
+  {
+    "term": "honoured",
+    "category": "POS_A",
+    "weight": 0
+  },
+  {
+    "term": "achievement",
+    "category": "POS_A",
+    "weight": 0
+  },
+  {
+    "term": "honorable",
+    "category": "POS_A",
+    "weight": 0
+  },
+  {
+    "term": "achieving",
+    "category": "POS_A",
+    "weight": 0
+  },
+  {
+    "term": "achieve",
+    "category": "POS_A",
+    "weight": 0
+  },
+  {
+    "term": "deserving",
+    "category": "POS_A",
+    "weight": 0
+  },
+  {
+    "term": "successful",
+    "category": "POS_A",
+    "weight": 0
+  },
+  {
+    "term": "famous",
+    "category": "POS_A",
+    "weight": 0
+  },
+  {
+    "term": "worthy",
+    "category": "POS_A",
+    "weight": 0
+  },
+  {
+    "term": "momentous",
+    "category": "POS_A",
+    "weight": 0
+  },
+  {
+    "term": "deserved",
+    "category": "POS_A",
+    "weight": 0
+  },
+  {
+    "term": "adept",
+    "category": "POS_A",
+    "weight": 0
+  },
+  {
+    "term": "influential",
+    "category": "POS_A",
+    "weight": 0
+  },
+  {
+    "term": "proud",
+    "category": "POS_A",
+    "weight": 0
+  },
+  {
+    "term": "privileged",
+    "category": "POS_A",
+    "weight": 0
+  },
+  {
+    "term": "skillful",
+    "category": "POS_A",
+    "weight": 0
+  },
+  {
+    "term": "fruitfulness",
+    "category": "POS_A",
+    "weight": 0
+  },
+  {
+    "term": "excellence",
+    "category": "POS_A",
+    "weight": 0
+  },
+  {
+    "term": "victory",
+    "category": "POS_A",
+    "weight": 0
+  },
+  {
+    "term": "inspirational",
+    "category": "POS_A",
+    "weight": 0
+  },
+  {
+    "term": "epitomize",
+    "category": "POS_A",
+    "weight": 0
+  },
+  {
+    "term": "vanquish",
+    "category": "POS_A",
+    "weight": 0
+  },
+  {
+    "term": "fruitless",
+    "category": "NEG_A",
+    "weight": 0
+  },
+  {
+    "term": "mundane",
+    "category": "NEG_A",
+    "weight": 0
+  },
+  {
+    "term": "stagnation",
+    "category": "NEG_A",
+    "weight": 0
+  },
+  {
+    "term": "dislodged",
+    "category": "NEG_A",
+    "weight": 0
+  },
+  {
+    "term": "unremarkable",
+    "category": "NEG_A",
+    "weight": 0
+  },
+  {
+    "term": "deficient",
+    "category": "NEG_A",
+    "weight": 0
+  },
+  {
+    "term": "inadequate",
+    "category": "NEG_A",
+    "weight": 0
+  },
+  {
+    "term": "incompetence",
+    "category": "NEG_A",
+    "weight": 0
+  },
+  {
+    "term": "inadequacy",
+    "category": "NEG_A",
+    "weight": 0
+  },
+  {
+    "term": "unacceptable",
+    "category": "NEG_A",
+    "weight": 0
+  },
+  {
+    "term": "unsatisfactory",
+    "category": "NEG_A",
+    "weight": 0
+  },
+  {
+    "term": "stagnant",
+    "category": "NEG_A",
+    "weight": 0
+  },
+  {
+    "term": "anonymous",
+    "category": "NEG_A",
+    "weight": 0
+  },
+  {
+    "term": "demoted",
+    "category": "NEG_A",
+    "weight": 0
+  },
+  {
+    "term": "mediocrity",
+    "category": "NEG_A",
+    "weight": 0
+  },
+  {
+    "term": "ordinary",
+    "category": "NEG_A",
+    "weight": 0
+  },
+  {
+    "term": "incomplete",
+    "category": "NEG_A",
+    "weight": 0
+  }
+]

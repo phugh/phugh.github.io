@@ -1,0 +1,11262 @@
+[
+  {
+    "term": "jaja",
+    "category": "NEG_P",
+    "weight": -0.129967925
+  },
+  {
+    "term": ":(",
+    "category": "NEG_P",
+    "weight": 1.405726253
+  },
+  {
+    "term": ":)",
+    "category": "NEG_P",
+    "weight": -0.109880517
+  },
+  {
+    "term": "<newline>",
+    "category": "NEG_P",
+    "weight": -0.036960496
+  },
+  {
+    "term": "vuestro",
+    "category": "NEG_P",
+    "weight": -0.088807564
+  },
+  {
+    "term": "que la",
+    "category": "NEG_P",
+    "weight": -0.048370779
+  },
+  {
+    "term": "por supuesto",
+    "category": "NEG_P",
+    "weight": -0.045009734
+  },
+  {
+    "term": "ver",
+    "category": "NEG_P",
+    "weight": -0.000639905
+  },
+  {
+    "term": "que poner",
+    "category": "NEG_P",
+    "weight": -0.234727077
+  },
+  {
+    "term": "otra",
+    "category": "NEG_P",
+    "weight": 0.374423855
+  },
+  {
+    "term": 0,
+    "category": "NEG_P",
+    "weight": 0.065248441
+  },
+  {
+    "term": "veo",
+    "category": "NEG_P",
+    "weight": 0.201591146
+  },
+  {
+    "term": "te",
+    "category": "NEG_P",
+    "weight": 0.092193516
+  },
+  {
+    "term": "risa",
+    "category": "NEG_P",
+    "weight": -0.010295612
+  },
+  {
+    "term": "#vamosunicaja",
+    "category": "NEG_P",
+    "weight": -0.121903866
+  },
+  {
+    "term": "jajajaj",
+    "category": "NEG_P",
+    "weight": -0.407548916
+  },
+  {
+    "term": "que ?",
+    "category": "NEG_P",
+    "weight": 0.011696747
+  },
+  {
+    "term": "edad",
+    "category": "NEG_P",
+    "weight": -0.075402505
+  },
+  {
+    "term": "peor",
+    "category": "NEG_P",
+    "weight": 0.731656415
+  },
+  {
+    "term": "http://t.co",
+    "category": "NEG_P",
+    "weight": -0.037459892
+  },
+  {
+    "term": "q",
+    "category": "NEG_P",
+    "weight": 0.197095711
+  },
+  {
+    "term": "mundo y",
+    "category": "NEG_P",
+    "weight": 1.064352315
+  },
+  {
+    "term": "habr��",
+    "category": "NEG_P",
+    "weight": 0.113234089
+  },
+  {
+    "term": "ten�_a",
+    "category": "NEG_P",
+    "weight": -0.436085106
+  },
+  {
+    "term": "pasa",
+    "category": "NEG_P",
+    "weight": 0.24271724
+  },
+  {
+    "term": "me ha",
+    "category": "NEG_P",
+    "weight": 0.084975352
+  },
+  {
+    "term": "y lo",
+    "category": "NEG_P",
+    "weight": -0.002393472
+  },
+  {
+    "term": "boca",
+    "category": "NEG_P",
+    "weight": 0.129384649
+  },
+  {
+    "term": "me he",
+    "category": "NEG_P",
+    "weight": -0.16130993
+  },
+  {
+    "term": "que estoy",
+    "category": "NEG_P",
+    "weight": -0.087590323
+  },
+  {
+    "term": "video",
+    "category": "NEG_P",
+    "weight": -0.175864936
+  },
+  {
+    "term": "como me",
+    "category": "NEG_P",
+    "weight": 0.362312146
+  },
+  {
+    "term": "gilipollas",
+    "category": "NEG_P",
+    "weight": 1.585458257
+  },
+  {
+    "term": "no le",
+    "category": "NEG_P",
+    "weight": 0.117859364
+  },
+  {
+    "term": "c�_mic",
+    "category": "NEG_P",
+    "weight": -0.04430851
+  },
+  {
+    "term": "con los",
+    "category": "NEG_P",
+    "weight": -0.253166473
+  },
+  {
+    "term": "y luego",
+    "category": "NEG_P",
+    "weight": 0.498374109
+  },
+  {
+    "term": "sobre",
+    "category": "NEG_P",
+    "weight": -0.032808034
+  },
+  {
+    "term": "para m�_",
+    "category": "NEG_P",
+    "weight": -0.088278709
+  },
+  {
+    "term": "aburrimiento",
+    "category": "NEG_P",
+    "weight": 0.828671591
+  },
+  {
+    "term": "vamos",
+    "category": "NEG_P",
+    "weight": -0.086931954
+  },
+  {
+    "term": "les",
+    "category": "NEG_P",
+    "weight": 0.419647945
+  },
+  {
+    "term": "aunque",
+    "category": "NEG_P",
+    "weight": -0.153803325
+  },
+  {
+    "term": "d�_a",
+    "category": "NEG_P",
+    "weight": 0.120298939
+  },
+  {
+    "term": "instituto",
+    "category": "NEG_P",
+    "weight": 0.691215834
+  },
+  {
+    "term": "rajoy",
+    "category": "NEG_P",
+    "weight": 0.276409009
+  },
+  {
+    "term": "sabe",
+    "category": "NEG_P",
+    "weight": -0.279508401
+  },
+  {
+    "term": "gracias por",
+    "category": "NEG_P",
+    "weight": -0.170464447
+  },
+  {
+    "term": "a ser",
+    "category": "NEG_P",
+    "weight": -0.120219248
+  },
+  {
+    "term": "semana",
+    "category": "NEG_P",
+    "weight": -0.053805544
+  },
+  {
+    "term": "buenas",
+    "category": "NEG_P",
+    "weight": -0.300633916
+  },
+  {
+    "term": "��",
+    "category": "NEG_P",
+    "weight": -0.228866423
+  },
+  {
+    "term": "siempre",
+    "category": "NEG_P",
+    "weight": 0.183924557
+  },
+  {
+    "term": "o a",
+    "category": "NEG_P",
+    "weight": 0.202215905
+  },
+  {
+    "term": "ver a",
+    "category": "NEG_P",
+    "weight": -0.161142451
+  },
+  {
+    "term": "vivir",
+    "category": "NEG_P",
+    "weight": 0.142552012
+  },
+  {
+    "term": "todas",
+    "category": "NEG_P",
+    "weight": 0.092600555
+  },
+  {
+    "term": "tienes que",
+    "category": "NEG_P",
+    "weight": -0.021382721
+  },
+  {
+    "term": "precioso",
+    "category": "NEG_P",
+    "weight": -0.296907189
+  },
+  {
+    "term": "te quiero",
+    "category": "NEG_P",
+    "weight": -0.78412622
+  },
+  {
+    "term": "con las",
+    "category": "NEG_P",
+    "weight": 0.442780622
+  },
+  {
+    "term": "cojones",
+    "category": "NEG_P",
+    "weight": 0.632374365
+  },
+  {
+    "term": "mira",
+    "category": "NEG_P",
+    "weight": 0.131853328
+  },
+  {
+    "term": "preciosa",
+    "category": "NEG_P",
+    "weight": -0.075440765
+  },
+  {
+    "term": "orgullosa",
+    "category": "NEG_P",
+    "weight": -0.099406581
+  },
+  {
+    "term": "vuelta",
+    "category": "NEG_P",
+    "weight": 0.073932701
+  },
+  {
+    "term": "creo que",
+    "category": "NEG_P",
+    "weight": 0.306728061
+  },
+  {
+    "term": "verano",
+    "category": "NEG_P",
+    "weight": 0.099111948
+  },
+  {
+    "term": "me",
+    "category": "NEG_P",
+    "weight": 0.211137363
+  },
+  {
+    "term": "yo soy",
+    "category": "NEG_P",
+    "weight": 0.033307528
+  },
+  {
+    "term": "lo que",
+    "category": "NEG_P",
+    "weight": -0.002588212
+  },
+  {
+    "term": "mi",
+    "category": "NEG_P",
+    "weight": -0.035935729
+  },
+  {
+    "term": "malo",
+    "category": "NEG_P",
+    "weight": 0.318833208
+  },
+  {
+    "term": "s̩",
+    "category": "NEG_P",
+    "weight": -0.100735563
+  },
+  {
+    "term": "del",
+    "category": "NEG_P",
+    "weight": 0.010257843
+  },
+  {
+    "term": "era",
+    "category": "NEG_P",
+    "weight": -0.058849144
+  },
+  {
+    "term": "cabeza",
+    "category": "NEG_P",
+    "weight": 0.397591323
+  },
+  {
+    "term": "pol�_tica",
+    "category": "NEG_P",
+    "weight": 0.128564467
+  },
+  {
+    "term": "mala",
+    "category": "NEG_P",
+    "weight": 0.196742377
+  },
+  {
+    "term": "? ?",
+    "category": "NEG_P",
+    "weight": 0.001511601
+  },
+  {
+    "term": "empieza",
+    "category": "NEG_P",
+    "weight": -0.085449681
+  },
+  {
+    "term": "��_ https://t.co",
+    "category": "NEG_P",
+    "weight": -0.088657577
+  },
+  {
+    "term": "me lo",
+    "category": "NEG_P",
+    "weight": -0.370832018
+  },
+  {
+    "term": "tal",
+    "category": "NEG_P",
+    "weight": 0.209206592
+  },
+  {
+    "term": "!",
+    "category": "NEG_P",
+    "weight": -0.140018194
+  },
+  {
+    "term": "falta de",
+    "category": "NEG_P",
+    "weight": 0.502876759
+  },
+  {
+    "term": "que yo",
+    "category": "NEG_P",
+    "weight": 0.435295526
+  },
+  {
+    "term": 1,
+    "category": "NEG_P",
+    "weight": -0.023890212
+  },
+  {
+    "term": "as�_ que",
+    "category": "NEG_P",
+    "weight": -0.088914474
+  },
+  {
+    "term": "sin",
+    "category": "NEG_P",
+    "weight": 0.113510118
+  },
+  {
+    "term": "algo",
+    "category": "NEG_P",
+    "weight": 0.035092619
+  },
+  {
+    "term": "especial",
+    "category": "NEG_P",
+    "weight": -0.511407357
+  },
+  {
+    "term": "alegro",
+    "category": "NEG_P",
+    "weight": -0.111643473
+  },
+  {
+    "term": "jajaja",
+    "category": "NEG_P",
+    "weight": -0.5333848
+  },
+  {
+    "term": "de verdad",
+    "category": "NEG_P",
+    "weight": 0.04884058
+  },
+  {
+    "term": "a las",
+    "category": "NEG_P",
+    "weight": -0.059364359
+  },
+  {
+    "term": "mal",
+    "category": "NEG_P",
+    "weight": 0.905131713
+  },
+  {
+    "term": "a",
+    "category": "NEG_P",
+    "weight": -0.003125746
+  },
+  {
+    "term": "su",
+    "category": "NEG_P",
+    "weight": 0.23829651
+  },
+  {
+    "term": "que nos",
+    "category": "NEG_P",
+    "weight": -0.286309992
+  },
+  {
+    "term": "primera",
+    "category": "NEG_P",
+    "weight": -0.058422268
+  },
+  {
+    "term": "si",
+    "category": "NEG_P",
+    "weight": 0.069899173
+  },
+  {
+    "term": "grande",
+    "category": "NEG_P",
+    "weight": -0.291900974
+  },
+  {
+    "term": "de lo",
+    "category": "NEG_P",
+    "weight": 0.159736116
+  },
+  {
+    "term": "se",
+    "category": "NEG_P",
+    "weight": 0.132722225
+  },
+  {
+    "term": "directo",
+    "category": "NEG_P",
+    "weight": -0.191347142
+  },
+  {
+    "term": "recuerdos",
+    "category": "NEG_P",
+    "weight": 0.297011228
+  },
+  {
+    "term": "cole",
+    "category": "NEG_P",
+    "weight": 0.033318983
+  },
+  {
+    "term": "va a",
+    "category": "NEG_P",
+    "weight": 0.078396175
+  },
+  {
+    "term": "mejores",
+    "category": "NEG_P",
+    "weight": -0.314061866
+  },
+  {
+    "term": "tambi̩n",
+    "category": "NEG_P",
+    "weight": -0.046455957
+  },
+  {
+    "term": "la",
+    "category": "NEG_P",
+    "weight": 0.044239132
+  },
+  {
+    "term": "pronto",
+    "category": "NEG_P",
+    "weight": -0.001961905
+  },
+  {
+    "term": "lo",
+    "category": "NEG_P",
+    "weight": -0.011806136
+  },
+  {
+    "term": "gente",
+    "category": "NEG_P",
+    "weight": 0.193949858
+  },
+  {
+    "term": ",",
+    "category": "NEG_P",
+    "weight": -0.052024187
+  },
+  {
+    "term": "#l̩ricasegundoaniversario",
+    "category": "NEG_P",
+    "weight": -0.814837509
+  },
+  {
+    "term": "de menos",
+    "category": "NEG_P",
+    "weight": 0.18920374
+  },
+  {
+    "term": ". https://t.co",
+    "category": "NEG_P",
+    "weight": -0.198107003
+  },
+  {
+    "term": "pena",
+    "category": "NEG_P",
+    "weight": 0.126684081
+  },
+  {
+    "term": "yo creo",
+    "category": "NEG_P",
+    "weight": -0.452857345
+  },
+  {
+    "term": "no se",
+    "category": "NEG_P",
+    "weight": -0.206736741
+  },
+  {
+    "term": "cree",
+    "category": "NEG_P",
+    "weight": 0.127914695
+  },
+  {
+    "term": "ganas de",
+    "category": "NEG_P",
+    "weight": 0.014252169
+  },
+  {
+    "term": "ya",
+    "category": "NEG_P",
+    "weight": 0.051284851
+  },
+  {
+    "term": "dan",
+    "category": "NEG_P",
+    "weight": 0.366659916
+  },
+  {
+    "term": "jajajajaja",
+    "category": "NEG_P",
+    "weight": -0.550034914
+  },
+  {
+    "term": "nervios",
+    "category": "NEG_P",
+    "weight": 0.097603723
+  },
+  {
+    "term": "dar",
+    "category": "NEG_P",
+    "weight": 0.118241246
+  },
+  {
+    "term": "odio",
+    "category": "NEG_P",
+    "weight": 1.790107253
+  },
+  {
+    "term": "as�_",
+    "category": "NEG_P",
+    "weight": -0.007062857
+  },
+  {
+    "term": "ma̱ana",
+    "category": "NEG_P",
+    "weight": -0.095285747
+  },
+  {
+    "term": "donde",
+    "category": "NEG_P",
+    "weight": 0.047864481
+  },
+  {
+    "term": "desde",
+    "category": "NEG_P",
+    "weight": -0.249927723
+  },
+  {
+    "term": "muchas",
+    "category": "NEG_P",
+    "weight": -0.116618749
+  },
+  {
+    "term": "el",
+    "category": "NEG_P",
+    "weight": 0.018343575
+  },
+  {
+    "term": "en",
+    "category": "NEG_P",
+    "weight": -0.076581858
+  },
+  {
+    "term": "bueno",
+    "category": "NEG_P",
+    "weight": -0.216117702
+  },
+  {
+    "term": "eh",
+    "category": "NEG_P",
+    "weight": 0.126171158
+  },
+  {
+    "term": "buena",
+    "category": "NEG_P",
+    "weight": -0.053121157
+  },
+  {
+    "term": "y una",
+    "category": "NEG_P",
+    "weight": -0.0528075
+  },
+  {
+    "term": "mucho .",
+    "category": "NEG_P",
+    "weight": 0.116148005
+  },
+  {
+    "term": "es",
+    "category": "NEG_P",
+    "weight": 0.053953802
+  },
+  {
+    "term": "refugiados",
+    "category": "NEG_P",
+    "weight": 0.21011587
+  },
+  {
+    "term": "@whoisinbunker",
+    "category": "NEG_P",
+    "weight": -0.228633507
+  },
+  {
+    "term": "poco",
+    "category": "NEG_P",
+    "weight": 0.220571837
+  },
+  {
+    "term": "contigo",
+    "category": "NEG_P",
+    "weight": -0.054832556
+  },
+  {
+    "term": "vete",
+    "category": "NEG_P",
+    "weight": 1.5363036
+  },
+  {
+    "term": "jajajajajaja",
+    "category": "NEG_P",
+    "weight": -0.241472346
+  },
+  {
+    "term": "orgullosa de",
+    "category": "NEG_P",
+    "weight": -0.009259726
+  },
+  {
+    "term": "que",
+    "category": "NEG_P",
+    "weight": 0.112636789
+  },
+  {
+    "term": "asi",
+    "category": "NEG_P",
+    "weight": 0.318422901
+  },
+  {
+    "term": "verg�_enza",
+    "category": "NEG_P",
+    "weight": 1.504159349
+  },
+  {
+    "term": "llorando",
+    "category": "NEG_P",
+    "weight": 0.809686556
+  },
+  {
+    "term": "gusta",
+    "category": "NEG_P",
+    "weight": -0.033385964
+  },
+  {
+    "term": "luego",
+    "category": "NEG_P",
+    "weight": 0.319304737
+  },
+  {
+    "term": "gusto",
+    "category": "NEG_P",
+    "weight": -0.016653113
+  },
+  {
+    "term": "y que",
+    "category": "NEG_P",
+    "weight": -0.09048026
+  },
+  {
+    "term": ", de",
+    "category": "NEG_P",
+    "weight": -0.14017517
+  },
+  {
+    "term": "horas",
+    "category": "NEG_P",
+    "weight": 0.001171643
+  },
+  {
+    "term": "est��",
+    "category": "NEG_P",
+    "weight": 0.096287505
+  },
+  {
+    "term": "yo en",
+    "category": "NEG_P",
+    "weight": 0.015732265
+  },
+  {
+    "term": "que de",
+    "category": "NEG_P",
+    "weight": -0.308391612
+  },
+  {
+    "term": "xd",
+    "category": "NEG_P",
+    "weight": -0.301809038
+  },
+  {
+    "term": "cada",
+    "category": "NEG_P",
+    "weight": 0.102314825
+  },
+  {
+    "term": "para que",
+    "category": "NEG_P",
+    "weight": -0.06008878
+  },
+  {
+    "term": "instagram",
+    "category": "NEG_P",
+    "weight": 0.124696675
+  },
+  {
+    "term": "bonita",
+    "category": "NEG_P",
+    "weight": -0.155445125
+  },
+  {
+    "term": "los",
+    "category": "NEG_P",
+    "weight": 0.167591488
+  },
+  {
+    "term": "bonito",
+    "category": "NEG_P",
+    "weight": -0.263007812
+  },
+  {
+    "term": "felicidades",
+    "category": "NEG_P",
+    "weight": -0.402493357
+  },
+  {
+    "term": "contra",
+    "category": "NEG_P",
+    "weight": 0.126229339
+  },
+  {
+    "term": 2,
+    "category": "NEG_P",
+    "weight": -0.076248927
+  },
+  {
+    "term": "final",
+    "category": "NEG_P",
+    "weight": -0.267572342
+  },
+  {
+    "term": "para",
+    "category": "NEG_P",
+    "weight": -0.037575826
+  },
+  {
+    "term": "momento",
+    "category": "NEG_P",
+    "weight": -0.046095527
+  },
+  {
+    "term": "asco",
+    "category": "NEG_P",
+    "weight": 1.589914296
+  },
+  {
+    "term": "a ir",
+    "category": "NEG_P",
+    "weight": 0.037163008
+  },
+  {
+    "term": "es una",
+    "category": "NEG_P",
+    "weight": -0.113704458
+  },
+  {
+    "term": ". lo",
+    "category": "NEG_P",
+    "weight": 0.121247834
+  },
+  {
+    "term": "_intercept",
+    "category": "NEG_P",
+    "weight": 2.50468297
+  },
+  {
+    "term": "mierda",
+    "category": "NEG_P",
+    "weight": 1.631736131
+  },
+  {
+    "term": "basura",
+    "category": "NEG_P",
+    "weight": 0.04752176
+  },
+  {
+    "term": "pues eso",
+    "category": "NEG_P",
+    "weight": 0.122943986
+  },
+  {
+    "term": "este",
+    "category": "NEG_P",
+    "weight": 0.001689136
+  },
+  {
+    "term": "co̱o",
+    "category": "NEG_P",
+    "weight": 0.156779139
+  },
+  {
+    "term": "esta",
+    "category": "NEG_P",
+    "weight": -0.122972481
+  },
+  {
+    "term": "esto",
+    "category": "NEG_P",
+    "weight": 0.082956487
+  },
+  {
+    "term": "siendo",
+    "category": "NEG_P",
+    "weight": 0.330446078
+  },
+  {
+    "term": "hasta",
+    "category": "NEG_P",
+    "weight": -0.003928176
+  },
+  {
+    "term": "que por",
+    "category": "NEG_P",
+    "weight": -0.279558988
+  },
+  {
+    "term": "parece",
+    "category": "NEG_P",
+    "weight": 0.10096971
+  },
+  {
+    "term": "ni̱os",
+    "category": "NEG_P",
+    "weight": 0.08574745
+  },
+  {
+    "term": "una vez",
+    "category": "NEG_P",
+    "weight": 0.236128734
+  },
+  {
+    "term": "vaya",
+    "category": "NEG_P",
+    "weight": 0.41883482
+  },
+  {
+    "term": "clase",
+    "category": "NEG_P",
+    "weight": 0.401111277
+  },
+  {
+    "term": "jajajaja",
+    "category": "NEG_P",
+    "weight": -0.365377086
+  },
+  {
+    "term": "duele",
+    "category": "NEG_P",
+    "weight": 0.041126095
+  },
+  {
+    "term": "ir a",
+    "category": "NEG_P",
+    "weight": 0.095603738
+  },
+  {
+    "term": "cualquier",
+    "category": "NEG_P",
+    "weight": 0.394381076
+  },
+  {
+    "term": "putas",
+    "category": "NEG_P",
+    "weight": 0.423941431
+  },
+  {
+    "term": "! !",
+    "category": "NEG_P",
+    "weight": -0.256990643
+  },
+  {
+    "term": "m",
+    "category": "NEG_P",
+    "weight": -0.303758814
+  },
+  {
+    "term": "borde",
+    "category": "NEG_P",
+    "weight": 0.226725485
+  },
+  {
+    "term": "no lo",
+    "category": "NEG_P",
+    "weight": -0.226797714
+  },
+  {
+    "term": "tendencia",
+    "category": "NEG_P",
+    "weight": -0.013221585
+  },
+  {
+    "term": "tener",
+    "category": "NEG_P",
+    "weight": -0.232427334
+  },
+  {
+    "term": "estoy",
+    "category": "NEG_P",
+    "weight": 0.428673103
+  },
+  {
+    "term": "hace",
+    "category": "NEG_P",
+    "weight": -0.089643239
+  },
+  {
+    "term": "estos",
+    "category": "NEG_P",
+    "weight": -0.009977643
+  },
+  {
+    "term": "quieren",
+    "category": "NEG_P",
+    "weight": 0.065945859
+  },
+  {
+    "term": "dice",
+    "category": "NEG_P",
+    "weight": -0.375944822
+  },
+  {
+    "term": "nadie",
+    "category": "NEG_P",
+    "weight": 0.408533286
+  },
+  {
+    "term": "@petralaszlo",
+    "category": "NEG_P",
+    "weight": 0.086213544
+  },
+  {
+    "term": "libro",
+    "category": "NEG_P",
+    "weight": -0.272574157
+  },
+  {
+    "term": "xdd",
+    "category": "NEG_P",
+    "weight": -0.077739179
+  },
+  {
+    "term": "de",
+    "category": "NEG_P",
+    "weight": -0.031239179
+  },
+  {
+    "term": "da",
+    "category": "NEG_P",
+    "weight": -0.040044759
+  },
+  {
+    "term": "@alex_paev @m83aribel",
+    "category": "NEG_P",
+    "weight": 0.092531026
+  },
+  {
+    "term": "yo me",
+    "category": "NEG_P",
+    "weight": -0.257374795
+  },
+  {
+    "term": "que hay",
+    "category": "NEG_P",
+    "weight": 0.205732223
+  },
+  {
+    "term": "placer",
+    "category": "NEG_P",
+    "weight": -0.027250119
+  },
+  {
+    "term": "una de",
+    "category": "NEG_P",
+    "weight": -0.103771182
+  },
+  {
+    "term": "ganar",
+    "category": "NEG_P",
+    "weight": -0.036402051
+  },
+  {
+    "term": "gran",
+    "category": "NEG_P",
+    "weight": -0.214784006
+  },
+  {
+    "term": "verdad",
+    "category": "NEG_P",
+    "weight": 0.206380381
+  },
+  {
+    "term": "sue̱os",
+    "category": "NEG_P",
+    "weight": -0.014808438
+  },
+  {
+    "term": ". http://t.co",
+    "category": "NEG_P",
+    "weight": 0.019525233
+  },
+  {
+    "term": "? si",
+    "category": "NEG_P",
+    "weight": 0.032724565
+  },
+  {
+    "term": "paro sube",
+    "category": "NEG_P",
+    "weight": 0.502316846
+  },
+  {
+    "term": "perdido",
+    "category": "NEG_P",
+    "weight": 0.139621757
+  },
+  {
+    "term": "temporada",
+    "category": "NEG_P",
+    "weight": -0.096437739
+  },
+  {
+    "term": "miserable",
+    "category": "NEG_P",
+    "weight": 0.884094368
+  },
+  {
+    "term": "juego",
+    "category": "NEG_P",
+    "weight": -0.085825225
+  },
+  {
+    "term": "bien",
+    "category": "NEG_P",
+    "weight": -0.199576083
+  },
+  {
+    "term": "estoy en",
+    "category": "NEG_P",
+    "weight": -0.138318746
+  },
+  {
+    "term": "@lericamusic",
+    "category": "NEG_P",
+    "weight": -0.008194376
+  },
+  {
+    "term": "llorar",
+    "category": "NEG_P",
+    "weight": 0.856396198
+  },
+  {
+    "term": "a dejar",
+    "category": "NEG_P",
+    "weight": 0.030743819
+  },
+  {
+    "term": "alguien",
+    "category": "NEG_P",
+    "weight": 0.247743303
+  },
+  {
+    "term": "viernes",
+    "category": "NEG_P",
+    "weight": -0.389884833
+  },
+  {
+    "term": "corrupci�_n",
+    "category": "NEG_P",
+    "weight": 0.620288984
+  },
+  {
+    "term": "dinero",
+    "category": "NEG_P",
+    "weight": 0.358917876
+  },
+  {
+    "term": "tus",
+    "category": "NEG_P",
+    "weight": 0.111700292
+  },
+  {
+    "term": "sola",
+    "category": "NEG_P",
+    "weight": 0.512154293
+  },
+  {
+    "term": "el drama",
+    "category": "NEG_P",
+    "weight": 0.555842842
+  },
+  {
+    "term": "le",
+    "category": "NEG_P",
+    "weight": 0.198150962
+  },
+  {
+    "term": "como",
+    "category": "NEG_P",
+    "weight": -0.008263573
+  },
+  {
+    "term": "@pan_paniscuss",
+    "category": "NEG_P",
+    "weight": -0.021340093
+  },
+  {
+    "term": "y el",
+    "category": "NEG_P",
+    "weight": 0.16476785
+  },
+  {
+    "term": "ahora",
+    "category": "NEG_P",
+    "weight": -0.01813987
+  },
+  {
+    "term": "una",
+    "category": "NEG_P",
+    "weight": 0.115861313
+  },
+  {
+    "term": "concierto",
+    "category": "NEG_P",
+    "weight": -0.177200906
+  },
+  {
+    "term": "no hay",
+    "category": "NEG_P",
+    "weight": -0.027120563
+  },
+  {
+    "term": "quien",
+    "category": "NEG_P",
+    "weight": -0.054189281
+  },
+  {
+    "term": "tonter�_as",
+    "category": "NEG_P",
+    "weight": 0.656515015
+  },
+  {
+    "term": "con",
+    "category": "NEG_P",
+    "weight": -0.087899278
+  },
+  {
+    "term": "y no",
+    "category": "NEG_P",
+    "weight": 0.562816887
+  },
+  {
+    "term": "juntas",
+    "category": "NEG_P",
+    "weight": -0.100503029
+  },
+  {
+    "term": "cuando",
+    "category": "NEG_P",
+    "weight": -0.093170725
+  },
+  {
+    "term": "y con",
+    "category": "NEG_P",
+    "weight": 0.171084084
+  },
+  {
+    "term": ". me",
+    "category": "NEG_P",
+    "weight": -0.07339185
+  },
+  {
+    "term": "tonto",
+    "category": "NEG_P",
+    "weight": 1.489772999
+  },
+  {
+    "term": "caballo",
+    "category": "NEG_P",
+    "weight": 0.124520059
+  },
+  {
+    "term": "amiga",
+    "category": "NEG_P",
+    "weight": -0.166130425
+  },
+  {
+    "term": ".",
+    "category": "NEG_P",
+    "weight": 0.103553363
+  },
+  {
+    "term": "puta",
+    "category": "NEG_P",
+    "weight": 1.621588577
+  },
+  {
+    "term": "tenemos",
+    "category": "NEG_P",
+    "weight": -0.030350575
+  },
+  {
+    "term": "feliz",
+    "category": "NEG_P",
+    "weight": -0.503546084
+  },
+  {
+    "term": "puto",
+    "category": "NEG_P",
+    "weight": 0.444593419
+  },
+  {
+    "term": "equipo",
+    "category": "NEG_P",
+    "weight": -0.056762619
+  },
+  {
+    "term": "sevilla",
+    "category": "NEG_P",
+    "weight": -0.009379438
+  },
+  {
+    "term": "vamos a",
+    "category": "NEG_P",
+    "weight": -0.207826261
+  },
+  {
+    "term": "cinco",
+    "category": "NEG_P",
+    "weight": 0.02622937
+  },
+  {
+    "term": "jueves",
+    "category": "NEG_P",
+    "weight": -0.24821456
+  },
+  {
+    "term": "^",
+    "category": "NEG_P",
+    "weight": -0.011291893
+  },
+  {
+    "term": "gracias",
+    "category": "NEG_P",
+    "weight": -0.662816639
+  },
+  {
+    "term": "̩",
+    "category": "NEG_P",
+    "weight": 0.209931912
+  },
+  {
+    "term": "paro baja",
+    "category": "NEG_P",
+    "weight": -0.311953762
+  },
+  {
+    "term": "n",
+    "category": "NEG_P",
+    "weight": 0.27771637
+  },
+  {
+    "term": "buen",
+    "category": "NEG_P",
+    "weight": -0.209577764
+  },
+  {
+    "term": "puto amo",
+    "category": "NEG_P",
+    "weight": -0.069369085
+  },
+  {
+    "term": "ir",
+    "category": "NEG_P",
+    "weight": 0.022331642
+  },
+  {
+    "term": "si te",
+    "category": "NEG_P",
+    "weight": 0.149154765
+  },
+  {
+    "term": ". <newline>",
+    "category": "NEG_P",
+    "weight": -0.001954194
+  },
+  {
+    "term": "sois",
+    "category": "NEG_P",
+    "weight": 1.11028964
+  },
+  {
+    "term": "a su",
+    "category": "NEG_P",
+    "weight": 0.596668664
+  },
+  {
+    "term": "parte",
+    "category": "NEG_P",
+    "weight": -0.261082367
+  },
+  {
+    "term": ")",
+    "category": "NEG_P",
+    "weight": -0.172355847
+  },
+  {
+    "term": "no quiero",
+    "category": "NEG_P",
+    "weight": 0.087854821
+  },
+  {
+    "term": "por mi",
+    "category": "NEG_P",
+    "weight": 0.170356463
+  },
+  {
+    "term": "a todos",
+    "category": "NEG_P",
+    "weight": 0.018956904
+  },
+  {
+    "term": "hecho",
+    "category": "NEG_P",
+    "weight": -0.160336615
+  },
+  {
+    "term": 9,
+    "category": "NEG_P",
+    "weight": -0.187107656
+  },
+  {
+    "term": ", ahora",
+    "category": "NEG_P",
+    "weight": -0.183562211
+  },
+  {
+    "term": "todos",
+    "category": "NEG_P",
+    "weight": 0.075736123
+  },
+  {
+    "term": "la que",
+    "category": "NEG_P",
+    "weight": -0.015630226
+  },
+  {
+    "term": "ni",
+    "category": "NEG_P",
+    "weight": 0.372073461
+  },
+  {
+    "term": ", ",
+    "category": "NEG_P",
+    "weight": 0.231168458
+  },
+  {
+    "term": "tambien",
+    "category": "NEG_P",
+    "weight": -0.119386635
+  },
+  {
+    "term": "me gusta",
+    "category": "NEG_P",
+    "weight": -0.16211376
+  },
+  {
+    "term": "vuelve",
+    "category": "NEG_P",
+    "weight": -0.438818403
+  },
+  {
+    "term": "a̱o",
+    "category": "NEG_P",
+    "weight": -0.11656374
+  },
+  {
+    "term": "estado",
+    "category": "NEG_P",
+    "weight": 0.093575638
+  },
+  {
+    "term": "la cara",
+    "category": "NEG_P",
+    "weight": -0.240025379
+  },
+  {
+    "term": "por favor",
+    "category": "NEG_P",
+    "weight": 0.278842575
+  },
+  {
+    "term": "miedo",
+    "category": "NEG_P",
+    "weight": 0.814414927
+  },
+  {
+    "term": "hago",
+    "category": "NEG_P",
+    "weight": -0.255262583
+  },
+  {
+    "term": "con la",
+    "category": "NEG_P",
+    "weight": 0.057179081
+  },
+  {
+    "term": "lo mejor",
+    "category": "NEG_P",
+    "weight": -0.167683086
+  },
+  {
+    "term": "joder",
+    "category": "NEG_P",
+    "weight": 0.266016439
+  },
+  {
+    "term": "dais",
+    "category": "NEG_P",
+    "weight": 0.347790513
+  },
+  {
+    "term": "antes",
+    "category": "NEG_P",
+    "weight": 0.240097665
+  },
+  {
+    "term": "respeto",
+    "category": "NEG_P",
+    "weight": 0.128986331
+  },
+  {
+    "term": "han",
+    "category": "NEG_P",
+    "weight": 0.00124424
+  },
+  {
+    "term": "vida",
+    "category": "NEG_P",
+    "weight": -0.083711381
+  },
+  {
+    "term": "para el",
+    "category": "NEG_P",
+    "weight": -0.104440002
+  },
+  {
+    "term": "hay",
+    "category": "NEG_P",
+    "weight": 0.166727459
+  },
+  {
+    "term": "con un",
+    "category": "NEG_P",
+    "weight": 0.116953966
+  },
+  {
+    "term": "@rubiu5",
+    "category": "NEG_P",
+    "weight": -0.079611227
+  },
+  {
+    "term": "...",
+    "category": "NEG_P",
+    "weight": 0.094504525
+  },
+  {
+    "term": "amo",
+    "category": "NEG_P",
+    "weight": -0.454683973
+  },
+  {
+    "term": "por",
+    "category": "NEG_P",
+    "weight": 0.065407175
+  },
+  {
+    "term": "triste",
+    "category": "NEG_P",
+    "weight": 1.561877355
+  },
+  {
+    "term": "la del",
+    "category": "NEG_P",
+    "weight": -0.320214703
+  },
+  {
+    "term": "! https://t.co",
+    "category": "NEG_P",
+    "weight": 0.148276308
+  },
+  {
+    "term": "ha dicho",
+    "category": "NEG_P",
+    "weight": 0.089984838
+  },
+  {
+    "term": "tanto",
+    "category": "NEG_P",
+    "weight": 0.002020225
+  },
+  {
+    "term": "d",
+    "category": "NEG_P",
+    "weight": 0.089915729
+  },
+  {
+    "term": "gente que",
+    "category": "NEG_P",
+    "weight": 0.10491862
+  },
+  {
+    "term": "m�_vil",
+    "category": "NEG_P",
+    "weight": 0.019829475
+  },
+  {
+    "term": "ni̱a",
+    "category": "NEG_P",
+    "weight": -0.508542058
+  },
+  {
+    "term": "cosas",
+    "category": "NEG_P",
+    "weight": 0.198076723
+  },
+  {
+    "term": "en serio",
+    "category": "NEG_P",
+    "weight": 0.184147036
+  },
+  {
+    "term": "amor",
+    "category": "NEG_P",
+    "weight": -0.101222382
+  },
+  {
+    "term": "chico",
+    "category": "NEG_P",
+    "weight": 0.110266516
+  },
+  {
+    "term": "baja un",
+    "category": "NEG_P",
+    "weight": -6.39e-15
+  },
+  {
+    "term": "el martes",
+    "category": "NEG_P",
+    "weight": -0.001499702
+  },
+  {
+    "term": "/",
+    "category": "NEG_P",
+    "weight": -0.231902034
+  },
+  {
+    "term": "esa",
+    "category": "NEG_P",
+    "weight": 0.113672512
+  },
+  {
+    "term": "eso",
+    "category": "NEG_P",
+    "weight": 0.069228281
+  },
+  {
+    "term": "?",
+    "category": "NEG_P",
+    "weight": -0.019656995
+  },
+  {
+    "term": "y me",
+    "category": "NEG_P",
+    "weight": 0.218271387
+  },
+  {
+    "term": " para",
+    "category": "NEG_P",
+    "weight": -0.324886272
+  },
+  {
+    "term": ";)",
+    "category": "NEG_P",
+    "weight": -0.39578324
+  },
+  {
+    "term": "me alegro",
+    "category": "NEG_P",
+    "weight": -0.00000476
+  },
+  {
+    "term": "nueva",
+    "category": "NEG_P",
+    "weight": -0.262703982
+  },
+  {
+    "term": "no puedo",
+    "category": "NEG_P",
+    "weight": 0.251687118
+  },
+  {
+    "term": "@davidauryn",
+    "category": "NEG_P",
+    "weight": -0.113449193
+  },
+  {
+    "term": "plaza",
+    "category": "NEG_P",
+    "weight": -0.114321848
+  },
+  {
+    "term": "o",
+    "category": "NEG_P",
+    "weight": 0.012917668
+  },
+  {
+    "term": "ido",
+    "category": "NEG_P",
+    "weight": 0.107913626
+  },
+  {
+    "term": "que el",
+    "category": "NEG_P",
+    "weight": -0.081167771
+  },
+  {
+    "term": "? !",
+    "category": "NEG_P",
+    "weight": 0.058340835
+  },
+  {
+    "term": "? .",
+    "category": "NEG_P",
+    "weight": 0.577275605
+  },
+  {
+    "term": "esperar",
+    "category": "NEG_P",
+    "weight": 0.068833421
+  },
+  {
+    "term": " ,",
+    "category": "NEG_P",
+    "weight": 0.010245359
+  },
+  {
+    "term": " .",
+    "category": "NEG_P",
+    "weight": 0.030210712
+  },
+  {
+    "term": "ya no",
+    "category": "NEG_P",
+    "weight": 0.106828501
+  },
+  {
+    "term": "baj�_n",
+    "category": "NEG_P",
+    "weight": 0.074943223
+  },
+  {
+    "term": "morir",
+    "category": "NEG_P",
+    "weight": 0.280042252
+  },
+  {
+    "term": "enhorabuena",
+    "category": "NEG_P",
+    "weight": -0.212156468
+  },
+  {
+    "term": "soy",
+    "category": "NEG_P",
+    "weight": 0.016959098
+  },
+  {
+    "term": "r��pido",
+    "category": "NEG_P",
+    "weight": 0.104004646
+  },
+  {
+    "term": "guarra",
+    "category": "NEG_P",
+    "weight": 0.189760489
+  },
+  {
+    "term": "..",
+    "category": "NEG_P",
+    "weight": 0.151073804
+  },
+  {
+    "term": "pocos",
+    "category": "NEG_P",
+    "weight": 0.001062123
+  },
+  {
+    "term": "en la",
+    "category": "NEG_P",
+    "weight": 0.060302514
+  },
+  {
+    "term": "opus",
+    "category": "NEG_P",
+    "weight": 0.389823239
+  },
+  {
+    "term": "de mi",
+    "category": "NEG_P",
+    "weight": 0.022304657
+  },
+  {
+    "term": ":",
+    "category": "NEG_P",
+    "weight": -0.116788424
+  },
+  {
+    "term": "poder",
+    "category": "NEG_P",
+    "weight": 0.139911808
+  },
+  {
+    "term": "encanta",
+    "category": "NEG_P",
+    "weight": -0.650740282
+  },
+  {
+    "term": "dormir",
+    "category": "NEG_P",
+    "weight": 0.104880058
+  },
+  {
+    "term": "en el",
+    "category": "NEG_P",
+    "weight": 0.046646299
+  },
+  {
+    "term": "d�_as",
+    "category": "NEG_P",
+    "weight": 0.083912172
+  },
+  {
+    "term": "seguir",
+    "category": "NEG_P",
+    "weight": -0.071841796
+  },
+  {
+    "term": "domingo",
+    "category": "NEG_P",
+    "weight": -0.065607086
+  },
+  {
+    "term": "ha",
+    "category": "NEG_P",
+    "weight": 0.040366154
+  },
+  {
+    "term": "martes",
+    "category": "NEG_P",
+    "weight": -0.176399573
+  },
+  {
+    "term": "sube un",
+    "category": "NEG_P",
+    "weight": 1.07e-14
+  },
+  {
+    "term": "....",
+    "category": "NEG_P",
+    "weight": 0.108981437
+  },
+  {
+    "term": "un",
+    "category": "NEG_P",
+    "weight": 0.084807772
+  },
+  {
+    "term": "genial",
+    "category": "NEG_P",
+    "weight": -0.360810076
+  },
+  {
+    "term": "seguro",
+    "category": "NEG_P",
+    "weight": -0.115824146
+  },
+  {
+    "term": "una persona",
+    "category": "NEG_P",
+    "weight": 0.366801294
+  },
+  {
+    "term": "llevo",
+    "category": "NEG_P",
+    "weight": 0.151544527
+  },
+  {
+    "term": ". si",
+    "category": "NEG_P",
+    "weight": -0.239874423
+  },
+  {
+    "term": "al",
+    "category": "NEG_P",
+    "weight": 0.015782515
+  },
+  {
+    "term": "mundo",
+    "category": "NEG_P",
+    "weight": 0.048662707
+  },
+  {
+    "term": "mejor",
+    "category": "NEG_P",
+    "weight": -0.334536053
+  },
+  {
+    "term": "un abrazo",
+    "category": "NEG_P",
+    "weight": -0.168530906
+  },
+  {
+    "term": "tarde",
+    "category": "NEG_P",
+    "weight": -0.242380713
+  },
+  {
+    "term": "%",
+    "category": "NEG_P",
+    "weight": 0.102528276
+  },
+  {
+    "term": "no",
+    "category": "NEG_P",
+    "weight": 0.365721014
+  },
+  {
+    "term": "visto",
+    "category": "NEG_P",
+    "weight": -0.160931271
+  },
+  {
+    "term": "besos",
+    "category": "NEG_P",
+    "weight": -0.463610517
+  },
+  {
+    "term": "que aburrimiento",
+    "category": "NEG_P",
+    "weight": 0.122501566
+  },
+  {
+    "term": "le�_do",
+    "category": "NEG_P",
+    "weight": -0.173732914
+  },
+  {
+    "term": "no ,",
+    "category": "NEG_P",
+    "weight": 0.286013391
+  },
+  {
+    "term": ": c",
+    "category": "NEG_P",
+    "weight": 0.039369285
+  },
+  {
+    "term": "o no",
+    "category": "NEG_P",
+    "weight": -0.264683169
+  },
+  {
+    "term": "no ?",
+    "category": "NEG_P",
+    "weight": -0.282990261
+  },
+  {
+    "term": "mente",
+    "category": "NEG_P",
+    "weight": 0.166732489
+  },
+  {
+    "term": ". es",
+    "category": "NEG_P",
+    "weight": 0.120944156
+  },
+  {
+    "term": "puedes",
+    "category": "NEG_P",
+    "weight": -0.021679221
+  },
+  {
+    "term": "jaja",
+    "category": "POS_P",
+    "weight": 0.837435815
+  },
+  {
+    "term": "d�_a de",
+    "category": "POS_P",
+    "weight": 0.063252414
+  },
+  {
+    "term": "verg�_enza",
+    "category": "POS_P",
+    "weight": -0.319804062
+  },
+  {
+    "term": "que yo",
+    "category": "POS_P",
+    "weight": -0.169544617
+  },
+  {
+    "term": ":(",
+    "category": "POS_P",
+    "weight": -0.102072184
+  },
+  {
+    "term": ":)",
+    "category": "POS_P",
+    "weight": 0.627302888
+  },
+  {
+    "term": "<newline>",
+    "category": "POS_P",
+    "weight": 0.072494764
+  },
+  {
+    "term": "tener",
+    "category": "POS_P",
+    "weight": 0.018642382
+  },
+  {
+    "term": "el d�_a",
+    "category": "POS_P",
+    "weight": 0.1046323
+  },
+  {
+    "term": "magistrado",
+    "category": "POS_P",
+    "weight": -1.32e-16
+  },
+  {
+    "term": "jeje",
+    "category": "POS_P",
+    "weight": 0.678251935
+  },
+  {
+    "term": "menos",
+    "category": "POS_P",
+    "weight": 0.210681725
+  },
+  {
+    "term": "verdad",
+    "category": "POS_P",
+    "weight": -0.007412662
+  },
+  {
+    "term": "no ?",
+    "category": "POS_P",
+    "weight": 0.285661566
+  },
+  {
+    "term": "para el",
+    "category": "POS_P",
+    "weight": 0.078559631
+  },
+  {
+    "term": "mejores",
+    "category": "POS_P",
+    "weight": 0.951888398
+  },
+  {
+    "term": "quiero",
+    "category": "POS_P",
+    "weight": 0.464653388
+  },
+  {
+    "term": "hay que",
+    "category": "POS_P",
+    "weight": -0.035896251
+  },
+  {
+    "term": "han",
+    "category": "POS_P",
+    "weight": -0.180063442
+  },
+  {
+    "term": "la",
+    "category": "POS_P",
+    "weight": -0.003920146
+  },
+  {
+    "term": "(",
+    "category": "POS_P",
+    "weight": -0.019277825
+  },
+  {
+    "term": "vida",
+    "category": "POS_P",
+    "weight": 0.351894696
+  },
+  {
+    "term": "tu",
+    "category": "POS_P",
+    "weight": 0.074448898
+  },
+  {
+    "term": "vez",
+    "category": "POS_P",
+    "weight": -0.054484207
+  },
+  {
+    "term": ",",
+    "category": "POS_P",
+    "weight": 0.022891274
+  },
+  {
+    "term": "#l̩ricasegundoaniversario",
+    "category": "POS_P",
+    "weight": 1.625104986
+  },
+  {
+    "term": "the",
+    "category": "POS_P",
+    "weight": 0.2576477
+  },
+  {
+    "term": "sonrisa",
+    "category": "POS_P",
+    "weight": 0.23462858
+  },
+  {
+    "term": "hay",
+    "category": "POS_P",
+    "weight": -0.281587172
+  },
+  {
+    "term": "de menos",
+    "category": "POS_P",
+    "weight": 0.076450375
+  },
+  {
+    "term": "@rubiu5",
+    "category": "POS_P",
+    "weight": 0.103593727
+  },
+  {
+    "term": "ti",
+    "category": "POS_P",
+    "weight": 0.313167518
+  },
+  {
+    "term": "veo",
+    "category": "POS_P",
+    "weight": 0.074523234
+  },
+  {
+    "term": "te",
+    "category": "POS_P",
+    "weight": 0.050534622
+  },
+  {
+    "term": "personas que",
+    "category": "POS_P",
+    "weight": 0.094539621
+  },
+  {
+    "term": "��",
+    "category": "POS_P",
+    "weight": -0.012117967
+  },
+  {
+    "term": "cef",
+    "category": "POS_P",
+    "weight": -1.32e-16
+  },
+  {
+    "term": "a dar",
+    "category": "POS_P",
+    "weight": -0.049562828
+  },
+  {
+    "term": "yo",
+    "category": "POS_P",
+    "weight": -0.145932026
+  },
+  {
+    "term": ":d",
+    "category": "POS_P",
+    "weight": 0.431925165
+  },
+  {
+    "term": "cuando",
+    "category": "POS_P",
+    "weight": -0.001240628
+  },
+  {
+    "term": "dan",
+    "category": "POS_P",
+    "weight": -0.102573565
+  },
+  {
+    "term": "de",
+    "category": "POS_P",
+    "weight": 0.01850234
+  },
+  {
+    "term": "gracias a",
+    "category": "POS_P",
+    "weight": 0.419260909
+  },
+  {
+    "term": "jajajajaja",
+    "category": "POS_P",
+    "weight": 0.868384209
+  },
+  {
+    "term": "@sonieeta03",
+    "category": "POS_P",
+    "weight": 0.155633064
+  },
+  {
+    "term": "risa",
+    "category": "POS_P",
+    "weight": 0.162858439
+  },
+  {
+    "term": "miedo",
+    "category": "POS_P",
+    "weight": -0.325148947
+  },
+  {
+    "term": "... ?",
+    "category": "POS_P",
+    "weight": -0.082146767
+  },
+  {
+    "term": "verte",
+    "category": "POS_P",
+    "weight": 0.125274484
+  },
+  {
+    "term": "durante",
+    "category": "POS_P",
+    "weight": -0.194216443
+  },
+  {
+    "term": "por fin",
+    "category": "POS_P",
+    "weight": 0.426460052
+  },
+  {
+    "term": "se ha",
+    "category": "POS_P",
+    "weight": 0.061506035
+  },
+  {
+    "term": "mucho",
+    "category": "POS_P",
+    "weight": 0.018711481
+  },
+  {
+    "term": "odio",
+    "category": "POS_P",
+    "weight": -0.678682162
+  },
+  {
+    "term": "as�_",
+    "category": "POS_P",
+    "weight": 0.125350543
+  },
+  {
+    "term": "nos",
+    "category": "POS_P",
+    "weight": 0.224922632
+  },
+  {
+    "term": "aqu�_",
+    "category": "POS_P",
+    "weight": -0.029866452
+  },
+  {
+    "term": "ha sido",
+    "category": "POS_P",
+    "weight": 0.048147234
+  },
+  {
+    "term": "a mi",
+    "category": "POS_P",
+    "weight": -0.142512165
+  },
+  {
+    "term": "ma̱ana",
+    "category": "POS_P",
+    "weight": 0.009189988
+  },
+  {
+    "term": "peor",
+    "category": "POS_P",
+    "weight": -0.414261971
+  },
+  {
+    "term": "? <newline>",
+    "category": "POS_P",
+    "weight": 0.287073452
+  },
+  {
+    "term": "contencioso",
+    "category": "POS_P",
+    "weight": -6.61e-17
+  },
+  {
+    "term": "el mejor",
+    "category": "POS_P",
+    "weight": 0.233272581
+  },
+  {
+    "term": "ni̱a",
+    "category": "POS_P",
+    "weight": 0.312001874
+  },
+  {
+    "term": "http://t.co",
+    "category": "POS_P",
+    "weight": 0.11978933
+  },
+  {
+    "term": "somos",
+    "category": "POS_P",
+    "weight": 0.11272988
+  },
+  {
+    "term": "ganas",
+    "category": "POS_P",
+    "weight": 0.510305968
+  },
+  {
+    "term": "gran",
+    "category": "POS_P",
+    "weight": 0.395461616
+  },
+  {
+    "term": "amor",
+    "category": "POS_P",
+    "weight": 0.334270313
+  },
+  {
+    "term": "viernes",
+    "category": "POS_P",
+    "weight": 0.015161623
+  },
+  {
+    "term": "hora",
+    "category": "POS_P",
+    "weight": 0.263534149
+  },
+  {
+    "term": "el",
+    "category": "POS_P",
+    "weight": -0.001521612
+  },
+  {
+    "term": "paro sube",
+    "category": "POS_P",
+    "weight": -0.445915647
+  },
+  {
+    "term": "en",
+    "category": "POS_P",
+    "weight": -0.095746056
+  },
+  {
+    "term": "bueno",
+    "category": "POS_P",
+    "weight": 0.398792288
+  },
+  {
+    "term": "ser",
+    "category": "POS_P",
+    "weight": 0.040457338
+  },
+  {
+    "term": "cerca",
+    "category": "POS_P",
+    "weight": 0.139706612
+  },
+  {
+    "term": "mierda",
+    "category": "POS_P",
+    "weight": -0.845197452
+  },
+  {
+    "term": "buena",
+    "category": "POS_P",
+    "weight": 0.359699064
+  },
+  {
+    "term": "y lo",
+    "category": "POS_P",
+    "weight": 0.297678214
+  },
+  {
+    "term": "mas",
+    "category": "POS_P",
+    "weight": 0.03030754
+  },
+  {
+    "term": "canci�_n",
+    "category": "POS_P",
+    "weight": 0.211126893
+  },
+  {
+    "term": "d",
+    "category": "POS_P",
+    "weight": -0.015129107
+  },
+  {
+    "term": "baja un",
+    "category": "POS_P",
+    "weight": 3.78e-14
+  },
+  {
+    "term": "sea",
+    "category": "POS_P",
+    "weight": 0.011042852
+  },
+  {
+    "term": "todo",
+    "category": "POS_P",
+    "weight": 0.196276749
+  },
+  {
+    "term": "es",
+    "category": "POS_P",
+    "weight": -0.040177169
+  },
+  {
+    "term": "en contencioso",
+    "category": "POS_P",
+    "weight": -1.32e-16
+  },
+  {
+    "term": "rt",
+    "category": "POS_P",
+    "weight": -0.597770323
+  },
+  {
+    "term": "eres",
+    "category": "POS_P",
+    "weight": 0.08487632
+  },
+  {
+    "term": "s��bado",
+    "category": "POS_P",
+    "weight": 0.212170145
+  },
+  {
+    "term": "las cosas",
+    "category": "POS_P",
+    "weight": 0.273715192
+  },
+  {
+    "term": "humor",
+    "category": "POS_P",
+    "weight": 0.052249781
+  },
+  {
+    "term": "'",
+    "category": "POS_P",
+    "weight": -0.049162753
+  },
+  {
+    "term": "+",
+    "category": "POS_P",
+    "weight": 0.01320435
+  },
+  {
+    "term": "y para",
+    "category": "POS_P",
+    "weight": 0.223847199
+  },
+  {
+    "term": "muy",
+    "category": "POS_P",
+    "weight": 0.080254149
+  },
+  {
+    "term": "una nueva",
+    "category": "POS_P",
+    "weight": 0.014080897
+  },
+  {
+    "term": "bien",
+    "category": "POS_P",
+    "weight": 0.783100445
+  },
+  {
+    "term": "fuerza",
+    "category": "POS_P",
+    "weight": 0.015101275
+  },
+  {
+    "term": 7,
+    "category": "POS_P",
+    "weight": -0.031651025
+  },
+  {
+    "term": "@lericamusic",
+    "category": "POS_P",
+    "weight": 7.18e-14
+  },
+  {
+    "term": "eso",
+    "category": "POS_P",
+    "weight": -0.210757515
+  },
+  {
+    "term": "contigo",
+    "category": "POS_P",
+    "weight": 0.339167061
+  },
+  {
+    "term": "?",
+    "category": "POS_P",
+    "weight": -0.15666989
+  },
+  {
+    "term": "vamos",
+    "category": "POS_P",
+    "weight": 0.07139631
+  },
+  {
+    "term": "solo",
+    "category": "POS_P",
+    "weight": -0.042749263
+  },
+  {
+    "term": "foto",
+    "category": "POS_P",
+    "weight": -0.203347818
+  },
+  {
+    "term": "me encanta",
+    "category": "POS_P",
+    "weight": 0.778545893
+  },
+  {
+    "term": "nada .",
+    "category": "POS_P",
+    "weight": -0.095405949
+  },
+  {
+    "term": "con ella",
+    "category": "POS_P",
+    "weight": 0.096552736
+  },
+  {
+    "term": "supremo en",
+    "category": "POS_P",
+    "weight": -4.17e-15
+  },
+  {
+    "term": "mi vida",
+    "category": "POS_P",
+    "weight": 0.587094046
+  },
+  {
+    "term": "jajajajajaja",
+    "category": "POS_P",
+    "weight": 0.931913218
+  },
+  {
+    "term": "quiere",
+    "category": "POS_P",
+    "weight": 0.073993196
+  },
+  {
+    "term": "le",
+    "category": "POS_P",
+    "weight": -0.076652081
+  },
+  {
+    "term": "que",
+    "category": "POS_P",
+    "weight": -0.029241322
+  },
+  {
+    "term": "como",
+    "category": "POS_P",
+    "weight": 0.129794117
+  },
+  {
+    "term": "muchas",
+    "category": "POS_P",
+    "weight": 0.147138491
+  },
+  {
+    "term": ";)",
+    "category": "POS_P",
+    "weight": 0.640621257
+  },
+  {
+    "term": "aunque",
+    "category": "POS_P",
+    "weight": 0.308044766
+  },
+  {
+    "term": "nueva",
+    "category": "POS_P",
+    "weight": 0.208327843
+  },
+  {
+    "term": "no me",
+    "category": "POS_P",
+    "weight": -0.226356626
+  },
+  {
+    "term": "d�_a",
+    "category": "POS_P",
+    "weight": 0.04533398
+  },
+  {
+    "term": "instituto",
+    "category": "POS_P",
+    "weight": -0.155347321
+  },
+  {
+    "term": "gusta",
+    "category": "POS_P",
+    "weight": 0.595829476
+  },
+  {
+    "term": "que me",
+    "category": "POS_P",
+    "weight": -0.071664529
+  },
+  {
+    "term": "? ?",
+    "category": "POS_P",
+    "weight": 0.332870106
+  },
+  {
+    "term": "ahora",
+    "category": "POS_P",
+    "weight": -0.050365408
+  },
+  {
+    "term": "gusto",
+    "category": "POS_P",
+    "weight": 0.399701798
+  },
+  {
+    "term": "o",
+    "category": "POS_P",
+    "weight": -0.1873973
+  },
+  {
+    "term": "y que",
+    "category": "POS_P",
+    "weight": 0.207952846
+  },
+  {
+    "term": "empezar",
+    "category": "POS_P",
+    "weight": 0.161724085
+  },
+  {
+    "term": "les",
+    "category": "POS_P",
+    "weight": -0.051562008
+  },
+  {
+    "term": "? !",
+    "category": "POS_P",
+    "weight": -0.427734301
+  },
+  {
+    "term": "quien",
+    "category": "POS_P",
+    "weight": 0.033398061
+  },
+  {
+    "term": ", de",
+    "category": "POS_P",
+    "weight": 0.161742658
+  },
+  {
+    "term": "que no",
+    "category": "POS_P",
+    "weight": -0.088728963
+  },
+  {
+    "term": "con",
+    "category": "POS_P",
+    "weight": 0.066113711
+  },
+  {
+    "term": "gracias por",
+    "category": "POS_P",
+    "weight": 0.283771668
+  },
+  {
+    "term": "pluriempleado en",
+    "category": "POS_P",
+    "weight": -6.61e-17
+  },
+  {
+    "term": "sois",
+    "category": "POS_P",
+    "weight": -0.333424373
+  },
+  {
+    "term": "acabo de",
+    "category": "POS_P",
+    "weight": -0.309238113
+  },
+  {
+    "term": "bien ,",
+    "category": "POS_P",
+    "weight": -0.223878052
+  },
+  {
+    "term": "por",
+    "category": "POS_P",
+    "weight": -0.060465159
+  },
+  {
+    "term": "@lericamusic ?",
+    "category": "POS_P",
+    "weight": 0.038762653
+  },
+  {
+    "term": "xd",
+    "category": "POS_P",
+    "weight": 0.477874774
+  },
+  {
+    "term": "son",
+    "category": "POS_P",
+    "weight": 0.029389707
+  },
+  {
+    "term": "enhorabuena",
+    "category": "POS_P",
+    "weight": 0.453914256
+  },
+  {
+    "term": "felicidad",
+    "category": "POS_P",
+    "weight": 0.226456441
+  },
+  {
+    "term": "jajajajajajaja",
+    "category": "POS_P",
+    "weight": 0.107626521
+  },
+  {
+    "term": "a ser",
+    "category": "POS_P",
+    "weight": 0.298945477
+  },
+  {
+    "term": "ruego rt",
+    "category": "POS_P",
+    "weight": -6.61e-17
+  },
+  {
+    "term": ". me",
+    "category": "POS_P",
+    "weight": 0.037116606
+  },
+  {
+    "term": "tonto",
+    "category": "POS_P",
+    "weight": -0.494967344
+  },
+  {
+    "term": "asi",
+    "category": "POS_P",
+    "weight": -0.172993826
+  },
+  {
+    "term": "udima y",
+    "category": "POS_P",
+    "weight": -0.008258723
+  },
+  {
+    "term": "pasa",
+    "category": "POS_P",
+    "weight": -0.075307278
+  },
+  {
+    "term": "tiene",
+    "category": "POS_P",
+    "weight": 0.000833059
+  },
+  {
+    "term": "y no",
+    "category": "POS_P",
+    "weight": -0.238970642
+  },
+  {
+    "term": "? http://t.co",
+    "category": "POS_P",
+    "weight": 0.149295909
+  },
+  {
+    "term": "bonita",
+    "category": "POS_P",
+    "weight": 0.822698035
+  },
+  {
+    "term": "est��n",
+    "category": "POS_P",
+    "weight": -0.032000044
+  },
+  {
+    "term": "fiestas",
+    "category": "POS_P",
+    "weight": 0.712489292
+  },
+  {
+    "term": "bonito",
+    "category": "POS_P",
+    "weight": 0.92189851
+  },
+  {
+    "term": "pero",
+    "category": "POS_P",
+    "weight": 0.0000876
+  },
+  {
+    "term": "abrazo",
+    "category": "POS_P",
+    "weight": 0.777861523
+  },
+  {
+    "term": "felicidades",
+    "category": "POS_P",
+    "weight": 0.547936691
+  },
+  {
+    "term": ".",
+    "category": "POS_P",
+    "weight": 0.004839048
+  },
+  {
+    "term": "los",
+    "category": "POS_P",
+    "weight": -0.096159569
+  },
+  {
+    "term": "escuchar",
+    "category": "POS_P",
+    "weight": 0.239421725
+  },
+  {
+    "term": "todas",
+    "category": "POS_P",
+    "weight": -0.071834183
+  },
+  {
+    "term": "cgpj magistrado",
+    "category": "POS_P",
+    "weight": -6.61e-17
+  },
+  {
+    "term": "que se",
+    "category": "POS_P",
+    "weight": -0.008415952
+  },
+  {
+    "term": "puta",
+    "category": "POS_P",
+    "weight": -0.650671292
+  },
+  {
+    "term": ":",
+    "category": "POS_P",
+    "weight": -0.073427047
+  },
+  {
+    "term": "la vida",
+    "category": "POS_P",
+    "weight": 0.160150229
+  },
+  {
+    "term": "final",
+    "category": "POS_P",
+    "weight": 0.057321194
+  },
+  {
+    "term": "gilipollas",
+    "category": "POS_P",
+    "weight": -0.338176829
+  },
+  {
+    "term": "a",
+    "category": "POS_P",
+    "weight": -0.121980712
+  },
+  {
+    "term": "m��s",
+    "category": "POS_P",
+    "weight": 0.452974177
+  },
+  {
+    "term": "te quiero",
+    "category": "POS_P",
+    "weight": 1.181467755
+  },
+  {
+    "term": "sabes",
+    "category": "POS_P",
+    "weight": 0.254502903
+  },
+  {
+    "term": "en el",
+    "category": "POS_P",
+    "weight": 0.013453021
+  },
+  {
+    "term": "es muy",
+    "category": "POS_P",
+    "weight": -0.000670868
+  },
+  {
+    "term": "yo no",
+    "category": "POS_P",
+    "weight": -0.022076655
+  },
+  {
+    "term": "jajajaja",
+    "category": "POS_P",
+    "weight": 0.634320612
+  },
+  {
+    "term": ":-)",
+    "category": "POS_P",
+    "weight": 0.321784427
+  },
+  {
+    "term": "es una",
+    "category": "POS_P",
+    "weight": 0.192743025
+  },
+  {
+    "term": "v�_a",
+    "category": "POS_P",
+    "weight": -0.372340871
+  },
+  {
+    "term": "me",
+    "category": "POS_P",
+    "weight": 0.120525112
+  },
+  {
+    "term": "tribunal",
+    "category": "POS_P",
+    "weight": -5.09e-15
+  },
+  {
+    "term": "con las",
+    "category": "POS_P",
+    "weight": -0.003434511
+  },
+  {
+    "term": "gracias",
+    "category": "POS_P",
+    "weight": 1.037565597
+  },
+  {
+    "term": "de ver",
+    "category": "POS_P",
+    "weight": 0.186188737
+  },
+  {
+    "term": "por favor",
+    "category": "POS_P",
+    "weight": -0.044809423
+  },
+  {
+    "term": "_intercept",
+    "category": "POS_P",
+    "weight": 2.675173871
+  },
+  {
+    "term": "sube un",
+    "category": "POS_P",
+    "weight": -6.67e-14
+  },
+  {
+    "term": "paro baja",
+    "category": "POS_P",
+    "weight": 0.12085924
+  },
+  {
+    "term": "lo que",
+    "category": "POS_P",
+    "weight": -0.006754271
+  },
+  {
+    "term": "mi",
+    "category": "POS_P",
+    "weight": 0.210897561
+  },
+  {
+    "term": "que estoy",
+    "category": "POS_P",
+    "weight": 0.723128682
+  },
+  {
+    "term": "vocal",
+    "category": "POS_P",
+    "weight": -6.61e-17
+  },
+  {
+    "term": "vocal cgpj",
+    "category": "POS_P",
+    "weight": -6.61e-17
+  },
+  {
+    "term": "un",
+    "category": "POS_P",
+    "weight": -0.140914607
+  },
+  {
+    "term": "del",
+    "category": "POS_P",
+    "weight": -0.178589157
+  },
+  {
+    "term": "cari̱o",
+    "category": "POS_P",
+    "weight": 0.082553147
+  },
+  {
+    "term": "cabeza",
+    "category": "POS_P",
+    "weight": -0.25411188
+  },
+  {
+    "term": "tema",
+    "category": "POS_P",
+    "weight": -0.212327224
+  },
+  {
+    "term": "y me",
+    "category": "POS_P",
+    "weight": -0.009158251
+  },
+  {
+    "term": "buen",
+    "category": "POS_P",
+    "weight": 0.530297613
+  },
+  {
+    "term": "viva",
+    "category": "POS_P",
+    "weight": 0.012632996
+  },
+  {
+    "term": "^ ^",
+    "category": "POS_P",
+    "weight": 0.239786783
+  },
+  {
+    "term": "genial",
+    "category": "POS_P",
+    "weight": 0.484634573
+  },
+  {
+    "term": "que es",
+    "category": "POS_P",
+    "weight": -0.08869949
+  },
+  {
+    "term": "grande",
+    "category": "POS_P",
+    "weight": 0.298241236
+  },
+  {
+    "term": "esta",
+    "category": "POS_P",
+    "weight": 0.063005638
+  },
+  {
+    "term": "me da",
+    "category": "POS_P",
+    "weight": -0.247301011
+  },
+  {
+    "term": "...",
+    "category": "POS_P",
+    "weight": -0.006963358
+  },
+  {
+    "term": "supremo",
+    "category": "POS_P",
+    "weight": -9.92e-16
+  },
+  {
+    "term": "feliz",
+    "category": "POS_P",
+    "weight": 0.856941395
+  },
+  {
+    "term": "y cef",
+    "category": "POS_P",
+    "weight": -6.61e-17
+  },
+  {
+    "term": "esto",
+    "category": "POS_P",
+    "weight": -0.063785801
+  },
+  {
+    "term": "al",
+    "category": "POS_P",
+    "weight": -0.159331649
+  },
+  {
+    "term": "mundo",
+    "category": "POS_P",
+    "weight": 0.094299473
+  },
+  {
+    "term": ". <newline>",
+    "category": "POS_P",
+    "weight": 0.022546793
+  },
+  {
+    "term": "no tiene",
+    "category": "POS_P",
+    "weight": 0.382363642
+  },
+  {
+    "term": "de todos",
+    "category": "POS_P",
+    "weight": 0.128455684
+  },
+  {
+    "term": "echaba",
+    "category": "POS_P",
+    "weight": 0.255710284
+  },
+  {
+    "term": "https://t.co /",
+    "category": "POS_P",
+    "weight": 0.120822955
+  },
+  {
+    "term": "mejor",
+    "category": "POS_P",
+    "weight": 0.744687795
+  },
+  {
+    "term": "tal",
+    "category": "POS_P",
+    "weight": -0.372823181
+  },
+  {
+    "term": "tan",
+    "category": "POS_P",
+    "weight": 0.308788756
+  },
+  {
+    "term": ", ya",
+    "category": "POS_P",
+    "weight": 0.289439078
+  },
+  {
+    "term": "voz",
+    "category": "POS_P",
+    "weight": 0.10121193
+  },
+  {
+    "term": "!",
+    "category": "POS_P",
+    "weight": 0.722381007
+  },
+  {
+    "term": "tarde",
+    "category": "POS_P",
+    "weight": 0.42170057
+  },
+  {
+    "term": ". https://t.co",
+    "category": "POS_P",
+    "weight": 0.210011181
+  },
+  {
+    "term": "2 a̱os",
+    "category": "POS_P",
+    "weight": 0.039573377
+  },
+  {
+    "term": "fotos",
+    "category": "POS_P",
+    "weight": -0.025611026
+  },
+  {
+    "term": "parte",
+    "category": "POS_P",
+    "weight": 0.090852155
+  },
+  {
+    "term": "2zbkd9pkfm",
+    "category": "POS_P",
+    "weight": -1.12e-15
+  },
+  {
+    "term": "no",
+    "category": "POS_P",
+    "weight": -0.321836054
+  },
+  {
+    "term": "na",
+    "category": "POS_P",
+    "weight": 0.060679618
+  },
+  {
+    "term": "haciendo",
+    "category": "POS_P",
+    "weight": -0.127750737
+  },
+  {
+    "term": "amo",
+    "category": "POS_P",
+    "weight": 0.832498397
+  },
+  {
+    "term": "#barcelona",
+    "category": "POS_P",
+    "weight": -0.207460199
+  },
+  {
+    "term": 1,
+    "category": "POS_P",
+    "weight": 0.3866659
+  },
+  {
+    "term": "de la",
+    "category": "POS_P",
+    "weight": -0.081524413
+  },
+  {
+    "term": "besos",
+    "category": "POS_P",
+    "weight": 1.032440582
+  },
+  {
+    "term": "lindo",
+    "category": "POS_P",
+    "weight": 0.260173259
+  },
+  {
+    "term": "nombre",
+    "category": "POS_P",
+    "weight": -0.09842619
+  },
+  {
+    "term": "sin",
+    "category": "POS_P",
+    "weight": -0.01880599
+  },
+  {
+    "term": "con un",
+    "category": "POS_P",
+    "weight": -0.033220016
+  },
+  {
+    "term": "hoy",
+    "category": "POS_P",
+    "weight": 0.11427077
+  },
+  {
+    "term": "cgpj",
+    "category": "POS_P",
+    "weight": -0.030338858
+  },
+  {
+    "term": "especial",
+    "category": "POS_P",
+    "weight": 0.254767287
+  },
+  {
+    "term": "noche",
+    "category": "POS_P",
+    "weight": 0.111190396
+  },
+  {
+    "term": "suerte",
+    "category": "POS_P",
+    "weight": 0.289904751
+  },
+  {
+    "term": "ni",
+    "category": "POS_P",
+    "weight": -0.262512865
+  },
+  {
+    "term": "cef https://t.co",
+    "category": "POS_P",
+    "weight": -6.61e-17
+  },
+  {
+    "term": "<3",
+    "category": "POS_P",
+    "weight": 0.291765826
+  },
+  {
+    "term": "triste",
+    "category": "POS_P",
+    "weight": -0.057331285
+  },
+  {
+    "term": "@davidauryn",
+    "category": "POS_P",
+    "weight": 0.438173878
+  },
+  {
+    "term": "jajaja",
+    "category": "POS_P",
+    "weight": 1.060716112
+  },
+  {
+    "term": "ya no",
+    "category": "POS_P",
+    "weight": -0.06472832
+  },
+  {
+    "term": "de tribunal",
+    "category": "POS_P",
+    "weight": -6.61e-17
+  },
+  {
+    "term": "��_ https://t.co",
+    "category": "POS_P",
+    "weight": 0.37539235
+  },
+  {
+    "term": "a̱o",
+    "category": "POS_P",
+    "weight": 0.154041742
+  },
+  {
+    "term": "un placer",
+    "category": "POS_P",
+    "weight": 0.237678142
+  },
+  {
+    "term": "estado",
+    "category": "POS_P",
+    "weight": -0.193519153
+  },
+  {
+    "term": "mal",
+    "category": "POS_P",
+    "weight": -0.398521222
+  },
+  {
+    "term": "problema",
+    "category": "POS_P",
+    "weight": -0.018851511
+  },
+  {
+    "term": "las",
+    "category": "POS_P",
+    "weight": -0.06259536
+  },
+  {
+    "term": "hacer",
+    "category": "POS_P",
+    "weight": -0.053943023
+  },
+  {
+    "term": "coraz�_n",
+    "category": "POS_P",
+    "weight": 0.282820636
+  },
+  {
+    "term": "2zbkd9pkfm ruego",
+    "category": "POS_P",
+    "weight": -6.61e-17
+  },
+  {
+    "term": "no hay",
+    "category": "POS_P",
+    "weight": 0.187941755
+  },
+  {
+    "term": "mente",
+    "category": "POS_P",
+    "weight": -0.251759333
+  },
+  {
+    "term": "troya",
+    "category": "POS_P",
+    "weight": -0.024143755
+  },
+  {
+    "term": "contencioso pluriempleado",
+    "category": "POS_P",
+    "weight": -6.61e-17
+  },
+  {
+    "term": "el que",
+    "category": "POS_P",
+    "weight": 0.123326821
+  },
+  {
+    "term": "! !",
+    "category": "POS_P",
+    "weight": 0.290590224
+  },
+  {
+    "term": "m",
+    "category": "POS_P",
+    "weight": 0.141658004
+  },
+  {
+    "term": "primera",
+    "category": "POS_P",
+    "weight": 0.336747966
+  },
+  {
+    "term": "si",
+    "category": "POS_P",
+    "weight": -0.006200265
+  },
+  {
+    "term": "orgullosa",
+    "category": "POS_P",
+    "weight": 0.343945264
+  },
+  {
+    "term": "vaya",
+    "category": "POS_P",
+    "weight": -0.200188516
+  },
+  {
+    "term": "noches",
+    "category": "POS_P",
+    "weight": 0.419090752
+  },
+  {
+    "term": "acabo",
+    "category": "POS_P",
+    "weight": -0.257709215
+  },
+  {
+    "term": "#trndnl",
+    "category": "POS_P",
+    "weight": -0.26655918
+  },
+  {
+    "term": "llorar",
+    "category": "POS_P",
+    "weight": -0.171321197
+  },
+  {
+    "term": "se",
+    "category": "POS_P",
+    "weight": -0.003379477
+  },
+  {
+    "term": "el",
+    "category": "POS_A",
+    "weight": -0.048489858
+  },
+  {
+    "term": "en",
+    "category": "POS_A",
+    "weight": -0.007781677
+  },
+  {
+    "term": "http://t.co /",
+    "category": "POS_A",
+    "weight": 0.073046627
+  },
+  {
+    "term": "<newline>",
+    "category": "POS_A",
+    "weight": -0.057354928
+  },
+  {
+    "term": "feliz",
+    "category": "POS_A",
+    "weight": 0.396062373
+  },
+  {
+    "term": "��_ https://t.co",
+    "category": "POS_A",
+    "weight": 0.47817738
+  },
+  {
+    "term": "mucho",
+    "category": "POS_A",
+    "weight": 0.088618635
+  },
+  {
+    "term": "#l̩ricasegundoaniversario",
+    "category": "POS_A",
+    "weight": 0.851403766
+  },
+  {
+    "term": "mejor",
+    "category": "POS_A",
+    "weight": 0.132932781
+  },
+  {
+    "term": "todo",
+    "category": "POS_A",
+    "weight": 0.014636544
+  },
+  {
+    "term": "es",
+    "category": "POS_A",
+    "weight": -0.022918384
+  },
+  {
+    "term": "!",
+    "category": "POS_A",
+    "weight": 0.346571496
+  },
+  {
+    "term": "eres",
+    "category": "POS_A",
+    "weight": 0.025237859
+  },
+  {
+    "term": "quiero",
+    "category": "POS_A",
+    "weight": 0.134567536
+  },
+  {
+    "term": "la",
+    "category": "POS_A",
+    "weight": -0.066248763
+  },
+  {
+    "term": "vida",
+    "category": "POS_A",
+    "weight": 0.048392338
+  },
+  {
+    "term": ",",
+    "category": "POS_A",
+    "weight": 0.084999769
+  },
+  {
+    "term": "/",
+    "category": "POS_A",
+    "weight": 0.040817467
+  },
+  {
+    "term": ".",
+    "category": "POS_A",
+    "weight": 0.048688045
+  },
+  {
+    "term": "los",
+    "category": "POS_A",
+    "weight": -0.045785592
+  },
+  {
+    "term": "ganas",
+    "category": "POS_A",
+    "weight": 0.331988335
+  },
+  {
+    "term": "@lericamusic",
+    "category": "POS_A",
+    "weight": 5.22e-15
+  },
+  {
+    "term": "orgullosa de",
+    "category": "POS_A",
+    "weight": 0.00000599
+  },
+  {
+    "term": "te",
+    "category": "POS_A",
+    "weight": 0.057227019
+  },
+  {
+    "term": "a̱os",
+    "category": "POS_A",
+    "weight": 0.147457312
+  },
+  {
+    "term": "vamos",
+    "category": "POS_A",
+    "weight": 0.156342913
+  },
+  {
+    "term": "yo",
+    "category": "POS_A",
+    "weight": -0.077604711
+  },
+  {
+    "term": "mierda",
+    "category": "POS_A",
+    "weight": -0.381041467
+  },
+  {
+    "term": "lado",
+    "category": "POS_A",
+    "weight": 0.15285211
+  },
+  {
+    "term": "de la",
+    "category": "POS_A",
+    "weight": -0.0853194
+  },
+  {
+    "term": "orgullosa",
+    "category": "POS_A",
+    "weight": 0.08623027
+  },
+  {
+    "term": "que",
+    "category": "POS_A",
+    "weight": -0.091949562
+  },
+  {
+    "term": "son",
+    "category": "POS_A",
+    "weight": 0.266223858
+  },
+  {
+    "term": "a",
+    "category": "POS_A",
+    "weight": 0.015159396
+  },
+  {
+    "term": "gracias",
+    "category": "POS_A",
+    "weight": 0.422744721
+  },
+  {
+    "term": "_intercept",
+    "category": "POS_A",
+    "weight": 3.414517804
+  },
+  {
+    "term": "no",
+    "category": "POS_A",
+    "weight": -0.144829965
+  },
+  {
+    "term": "mi",
+    "category": "POS_A",
+    "weight": 0.135113597
+  },
+  {
+    "term": "o",
+    "category": "POS_A",
+    "weight": -0.173394178
+  },
+  {
+    "term": "un",
+    "category": "POS_A",
+    "weight": 0.074722111
+  },
+  {
+    "term": "! !",
+    "category": "POS_A",
+    "weight": 0.008923152
+  },
+  {
+    "term": "y",
+    "category": "POS_A",
+    "weight": 0.073746824
+  },
+  {
+    "term": "? ?",
+    "category": "POS_A",
+    "weight": 0.141990828
+  },
+  {
+    "term": "gana",
+    "category": "NEG_A",
+    "weight": -0.188143554
+  },
+  {
+    "term": ":(",
+    "category": "NEG_A",
+    "weight": 0.857811608
+  },
+  {
+    "term": "los que",
+    "category": "NEG_A",
+    "weight": -0.10600696
+  },
+  {
+    "term": "<newline>",
+    "category": "NEG_A",
+    "weight": -0.082419281
+  },
+  {
+    "term": "tener",
+    "category": "NEG_A",
+    "weight": -0.112193881
+  },
+  {
+    "term": "a la",
+    "category": "NEG_A",
+    "weight": -0.192981633
+  },
+  {
+    "term": "con la",
+    "category": "NEG_A",
+    "weight": 0.219077541
+  },
+  {
+    "term": "jeje",
+    "category": "NEG_A",
+    "weight": -0.0432031
+  },
+  {
+    "term": "estoy",
+    "category": "NEG_A",
+    "weight": 0.322600542
+  },
+  {
+    "term": "menos",
+    "category": "NEG_A",
+    "weight": 0.2279342
+  },
+  {
+    "term": "parados",
+    "category": "NEG_A",
+    "weight": 3.11e-14
+  },
+  {
+    "term": "va a",
+    "category": "NEG_A",
+    "weight": 0.0190123
+  },
+  {
+    "term": "quiero",
+    "category": "NEG_A",
+    "weight": -0.207738492
+  },
+  {
+    "term": "ver",
+    "category": "NEG_A",
+    "weight": -0.135582965
+  },
+  {
+    "term": "y no",
+    "category": "NEG_A",
+    "weight": 0.15523401
+  },
+  {
+    "term": "vida",
+    "category": "NEG_A",
+    "weight": -0.369820585
+  },
+  {
+    "term": "tu",
+    "category": "NEG_A",
+    "weight": -0.067023012
+  },
+  {
+    "term": ",",
+    "category": "NEG_A",
+    "weight": 0.044421385
+  },
+  {
+    "term": "para el",
+    "category": "NEG_A",
+    "weight": -0.013304357
+  },
+  {
+    "term": "igual",
+    "category": "NEG_A",
+    "weight": 0.038696857
+  },
+  {
+    "term": "madre",
+    "category": "NEG_A",
+    "weight": 0.200460394
+  },
+  {
+    "term": "hay",
+    "category": "NEG_A",
+    "weight": 0.153189531
+  },
+  {
+    "term": "nadie",
+    "category": "NEG_A",
+    "weight": 0.30111561
+  },
+  {
+    "term": "@rubiu5",
+    "category": "NEG_A",
+    "weight": -0.157186612
+  },
+  {
+    "term": "no se",
+    "category": "NEG_A",
+    "weight": -0.008927129
+  },
+  {
+    "term": "te",
+    "category": "NEG_A",
+    "weight": -0.067745379
+  },
+  {
+    "term": "...",
+    "category": "NEG_A",
+    "weight": 0.117358704
+  },
+  {
+    "term": "yo",
+    "category": "NEG_A",
+    "weight": 0.154353844
+  },
+  {
+    "term": "ya",
+    "category": "NEG_A",
+    "weight": -0.018508736
+  },
+  {
+    "term": "nada",
+    "category": "NEG_A",
+    "weight": 0.165228016
+  },
+  {
+    "term": "de",
+    "category": "NEG_A",
+    "weight": -0.102709161
+  },
+  {
+    "term": "triste",
+    "category": "NEG_A",
+    "weight": 1.454479561
+  },
+  {
+    "term": "miedo",
+    "category": "NEG_A",
+    "weight": 0.220948218
+  },
+  {
+    "term": "tanto",
+    "category": "NEG_A",
+    "weight": 0.086739395
+  },
+  {
+    "term": "odio",
+    "category": "NEG_A",
+    "weight": 1.369540012
+  },
+  {
+    "term": "nos",
+    "category": "NEG_A",
+    "weight": 0.002902705
+  },
+  {
+    "term": "https://t.co",
+    "category": "NEG_A",
+    "weight": -0.078314732
+  },
+  {
+    "term": "ma̱ana",
+    "category": "NEG_A",
+    "weight": -0.049985612
+  },
+  {
+    "term": "peor",
+    "category": "NEG_A",
+    "weight": 0.214691562
+  },
+  {
+    "term": "mantiene igual",
+    "category": "NEG_A",
+    "weight": 5.93e-16
+  },
+  {
+    "term": "todos los",
+    "category": "NEG_A",
+    "weight": -0.002397638
+  },
+  {
+    "term": "cosas",
+    "category": "NEG_A",
+    "weight": 0.164274029
+  },
+  {
+    "term": "una de",
+    "category": "NEG_A",
+    "weight": -0.546662248
+  },
+  {
+    "term": "ganas",
+    "category": "NEG_A",
+    "weight": -0.003243736
+  },
+  {
+    "term": "alguien",
+    "category": "NEG_A",
+    "weight": 0.155151876
+  },
+  {
+    "term": "gran",
+    "category": "NEG_A",
+    "weight": -0.155162367
+  },
+  {
+    "term": "el",
+    "category": "NEG_A",
+    "weight": 0.065262396
+  },
+  {
+    "term": "paro sube",
+    "category": "NEG_A",
+    "weight": 0.182808443
+  },
+  {
+    "term": "bueno",
+    "category": "NEG_A",
+    "weight": -0.348900746
+  },
+  {
+    "term": "pasa",
+    "category": "NEG_A",
+    "weight": 0.35207607
+  },
+  {
+    "term": "madrid",
+    "category": "NEG_A",
+    "weight": -0.067471882
+  },
+  {
+    "term": "paso",
+    "category": "NEG_A",
+    "weight": 0.087189234
+  },
+  {
+    "term": "septiembre",
+    "category": "NEG_A",
+    "weight": -0.015934295
+  },
+  {
+    "term": "toda",
+    "category": "NEG_A",
+    "weight": 0.052337036
+  },
+  {
+    "term": "eres",
+    "category": "NEG_A",
+    "weight": 0.256113591
+  },
+  {
+    "term": "igual durante",
+    "category": "NEG_A",
+    "weight": 0.000202708
+  },
+  {
+    "term": "pues",
+    "category": "NEG_A",
+    "weight": -0.002968045
+  },
+  {
+    "term": "nunca",
+    "category": "NEG_A",
+    "weight": 0.337720003
+  },
+  {
+    "term": "tienen",
+    "category": "NEG_A",
+    "weight": -0.026185538
+  },
+  {
+    "term": ", es",
+    "category": "NEG_A",
+    "weight": -0.18506854
+  },
+  {
+    "term": "/",
+    "category": "NEG_A",
+    "weight": -0.265517309
+  },
+  {
+    "term": "bien",
+    "category": "NEG_A",
+    "weight": -0.258451922
+  },
+  {
+    "term": "llorar",
+    "category": "NEG_A",
+    "weight": 1.229121133
+  },
+  {
+    "term": "el numero",
+    "category": "NEG_A",
+    "weight": 5.93e-16
+  },
+  {
+    "term": ", porque",
+    "category": "NEG_A",
+    "weight": 0.185176786
+  },
+  {
+    "term": "nos ha",
+    "category": "NEG_A",
+    "weight": 0.232377861
+  },
+  {
+    "term": "?",
+    "category": "NEG_A",
+    "weight": -0.157497982
+  },
+  {
+    "term": "t",
+    "category": "NEG_A",
+    "weight": 0.0387498
+  },
+  {
+    "term": "foto",
+    "category": "NEG_A",
+    "weight": 0.378844536
+  },
+  {
+    "term": "me encanta",
+    "category": "NEG_A",
+    "weight": -0.017400144
+  },
+  {
+    "term": "agosto",
+    "category": "NEG_A",
+    "weight": 0.229664157
+  },
+  {
+    "term": "p̼blico",
+    "category": "NEG_A",
+    "weight": 0.134805551
+  },
+  {
+    "term": "puede",
+    "category": "NEG_A",
+    "weight": -0.259276058
+  },
+  {
+    "term": "le",
+    "category": "NEG_A",
+    "weight": 0.284331967
+  },
+  {
+    "term": "que",
+    "category": "NEG_A",
+    "weight": 0.11874303
+  },
+  {
+    "term": "de parados",
+    "category": "NEG_A",
+    "weight": 5.93e-16
+  },
+  {
+    "term": "nueva",
+    "category": "NEG_A",
+    "weight": -0.299638263
+  },
+  {
+    "term": "no me",
+    "category": "NEG_A",
+    "weight": 0.080386929
+  },
+  {
+    "term": "d�_a",
+    "category": "NEG_A",
+    "weight": 0.137874961
+  },
+  {
+    "term": "gusta",
+    "category": "NEG_A",
+    "weight": -0.491887024
+  },
+  {
+    "term": "y el",
+    "category": "NEG_A",
+    "weight": 0.191115421
+  },
+  {
+    "term": "luego",
+    "category": "NEG_A",
+    "weight": 0.278908432
+  },
+  {
+    "term": "? ?",
+    "category": "NEG_A",
+    "weight": -0.0577292
+  },
+  {
+    "term": "ahora",
+    "category": "NEG_A",
+    "weight": 0.007341746
+  },
+  {
+    "term": "y que",
+    "category": "NEG_A",
+    "weight": -0.052251137
+  },
+  {
+    "term": "una",
+    "category": "NEG_A",
+    "weight": 0.087746558
+  },
+  {
+    "term": "algo",
+    "category": "NEG_A",
+    "weight": 0.215849766
+  },
+  {
+    "term": "misma",
+    "category": "NEG_A",
+    "weight": 0.022448241
+  },
+  {
+    "term": "os",
+    "category": "NEG_A",
+    "weight": -0.084115116
+  },
+  {
+    "term": "con",
+    "category": "NEG_A",
+    "weight": -0.030247109
+  },
+  {
+    "term": "es muy",
+    "category": "NEG_A",
+    "weight": 0.14498715
+  },
+  {
+    "term": "hay que",
+    "category": "NEG_A",
+    "weight": 0.243291096
+  },
+  {
+    "term": "este",
+    "category": "NEG_A",
+    "weight": -0.218406432
+  },
+  {
+    "term": "por",
+    "category": "NEG_A",
+    "weight": 0.072900412
+  },
+  {
+    "term": "y la",
+    "category": "NEG_A",
+    "weight": 0.155276097
+  },
+  {
+    "term": "mucho",
+    "category": "NEG_A",
+    "weight": 0.126843397
+  },
+  {
+    "term": "sube",
+    "category": "NEG_A",
+    "weight": 0.260372057
+  },
+  {
+    "term": "buenas",
+    "category": "NEG_A",
+    "weight": -0.265749273
+  },
+  {
+    "term": "tonto",
+    "category": "NEG_A",
+    "weight": 0.641520631
+  },
+  {
+    "term": "siempre",
+    "category": "NEG_A",
+    "weight": 0.056896045
+  },
+  {
+    "term": "..",
+    "category": "NEG_A",
+    "weight": 0.127674719
+  },
+  {
+    "term": ".",
+    "category": "NEG_A",
+    "weight": 0.082929656
+  },
+  {
+    "term": "los",
+    "category": "NEG_A",
+    "weight": 0.239711793
+  },
+  {
+    "term": "puta",
+    "category": "NEG_A",
+    "weight": 2.11089608
+  },
+  {
+    "term": "agosto (",
+    "category": "NEG_A",
+    "weight": 0.000846096
+  },
+  {
+    "term": "puto",
+    "category": "NEG_A",
+    "weight": 0.776150603
+  },
+  {
+    "term": "encanta",
+    "category": "NEG_A",
+    "weight": -0.357988781
+  },
+  {
+    "term": "para",
+    "category": "NEG_A",
+    "weight": -0.019724551
+  },
+  {
+    "term": "con las",
+    "category": "NEG_A",
+    "weight": 0.026142769
+  },
+  {
+    "term": "cojones",
+    "category": "NEG_A",
+    "weight": 0.146803533
+  },
+  {
+    "term": "pueden",
+    "category": "NEG_A",
+    "weight": 0.002975682
+  },
+  {
+    "term": "te lo",
+    "category": "NEG_A",
+    "weight": -0.011847813
+  },
+  {
+    "term": "��_ https://t.co",
+    "category": "NEG_A",
+    "weight": -0.278084717
+  },
+  {
+    "term": "mantiene",
+    "category": "NEG_A",
+    "weight": 1.78e-15
+  },
+  {
+    "term": "jueves",
+    "category": "NEG_A",
+    "weight": -0.134308528
+  },
+  {
+    "term": "es una",
+    "category": "NEG_A",
+    "weight": -0.002193947
+  },
+  {
+    "term": "me",
+    "category": "NEG_A",
+    "weight": 0.315219431
+  },
+  {
+    "term": "gracias",
+    "category": "NEG_A",
+    "weight": -0.768955462
+  },
+  {
+    "term": "casa",
+    "category": "NEG_A",
+    "weight": 0.1585743
+  },
+  {
+    "term": "_intercept",
+    "category": "NEG_A",
+    "weight": 2.482131179
+  },
+  {
+    "term": "sube un",
+    "category": "NEG_A",
+    "weight": 0.001819167
+  },
+  {
+    "term": "̩",
+    "category": "NEG_A",
+    "weight": 0.296375242
+  },
+  {
+    "term": "paro baja",
+    "category": "NEG_A",
+    "weight": -0.346378652
+  },
+  {
+    "term": "....",
+    "category": "NEG_A",
+    "weight": 0.067829965
+  },
+  {
+    "term": "baja un",
+    "category": "NEG_A",
+    "weight": -2.06e-14
+  },
+  {
+    "term": "malo",
+    "category": "NEG_A",
+    "weight": 0.111942759
+  },
+  {
+    "term": "un",
+    "category": "NEG_A",
+    "weight": 0.180825338
+  },
+  {
+    "term": "del",
+    "category": "NEG_A",
+    "weight": -0.037504556
+  },
+  {
+    "term": "es que",
+    "category": "NEG_A",
+    "weight": 0.127322308
+  },
+  {
+    "term": "necesito",
+    "category": "NEG_A",
+    "weight": 0.108364545
+  },
+  {
+    "term": "va",
+    "category": "NEG_A",
+    "weight": 0.23595929
+  },
+  {
+    "term": "dan",
+    "category": "NEG_A",
+    "weight": 0.636141411
+  },
+  {
+    "term": "... ?",
+    "category": "NEG_A",
+    "weight": 0.309943873
+  },
+  {
+    "term": "feliz",
+    "category": "NEG_A",
+    "weight": -0.146378338
+  },
+  {
+    "term": "esto",
+    "category": "NEG_A",
+    "weight": 0.110301367
+  },
+  {
+    "term": "si te",
+    "category": "NEG_A",
+    "weight": 0.072977972
+  },
+  {
+    "term": "al",
+    "category": "NEG_A",
+    "weight": 0.027943924
+  },
+  {
+    "term": "tengo",
+    "category": "NEG_A",
+    "weight": 0.103770613
+  },
+  {
+    "term": "mejor",
+    "category": "NEG_A",
+    "weight": -0.226059298
+  },
+  {
+    "term": "mola",
+    "category": "NEG_A",
+    "weight": -0.080690424
+  },
+  {
+    "term": "de los",
+    "category": "NEG_A",
+    "weight": -0.061522377
+  },
+  {
+    "term": "!",
+    "category": "NEG_A",
+    "weight": -0.541478159
+  },
+  {
+    "term": "se mantiene",
+    "category": "NEG_A",
+    "weight": 2.37e-14
+  },
+  {
+    "term": "no",
+    "category": "NEG_A",
+    "weight": 0.643962232
+  },
+  {
+    "term": "#tdr",
+    "category": "NEG_A",
+    "weight": 0.443963282
+  },
+  {
+    "term": "numero de",
+    "category": "NEG_A",
+    "weight": 5.93e-16
+  },
+  {
+    "term": "pasar",
+    "category": "NEG_A",
+    "weight": -0.176423507
+  },
+  {
+    "term": "mi",
+    "category": "NEG_A",
+    "weight": -0.047740675
+  },
+  {
+    "term": "mis",
+    "category": "NEG_A",
+    "weight": 0.045394469
+  },
+  {
+    "term": "a̱os",
+    "category": "NEG_A",
+    "weight": -0.456266954
+  },
+  {
+    "term": "sin",
+    "category": "NEG_A",
+    "weight": 0.235865633
+  },
+  {
+    "term": "tiempo",
+    "category": "NEG_A",
+    "weight": 0.037541683
+  },
+  {
+    "term": "noche",
+    "category": "NEG_A",
+    "weight": -0.015448754
+  },
+  {
+    "term": ", que",
+    "category": "NEG_A",
+    "weight": 0.144646324
+  },
+  {
+    "term": "mierda",
+    "category": "NEG_A",
+    "weight": 1.694780595
+  },
+  {
+    "term": "numero",
+    "category": "NEG_A",
+    "weight": 0.165204481
+  },
+  {
+    "term": "jajaja",
+    "category": "NEG_A",
+    "weight": -0.377596345
+  },
+  {
+    "term": "no ?",
+    "category": "NEG_A",
+    "weight": -0.156260802
+  },
+  {
+    "term": "de verdad",
+    "category": "NEG_A",
+    "weight": 0.251268655
+  },
+  {
+    "term": "con los",
+    "category": "NEG_A",
+    "weight": -0.177132234
+  },
+  {
+    "term": "mal",
+    "category": "NEG_A",
+    "weight": 0.93214658
+  },
+  {
+    "term": "parados se",
+    "category": "NEG_A",
+    "weight": 5.93e-16
+  },
+  {
+    "term": "las",
+    "category": "NEG_A",
+    "weight": 0.03541347
+  },
+  {
+    "term": ", se",
+    "category": "NEG_A",
+    "weight": 0.121846938
+  },
+  {
+    "term": "! !",
+    "category": "NEG_A",
+    "weight": -0.058410104
+  },
+  {
+    "term": "q",
+    "category": "NEG_A",
+    "weight": 0.093398237
+  },
+  {
+    "term": "primera",
+    "category": "NEG_A",
+    "weight": -0.005102838
+  },
+  {
+    "term": "si",
+    "category": "NEG_A",
+    "weight": 0.01733278
+  },
+  {
+    "term": "de la",
+    "category": "NEG_A",
+    "weight": -0.08317172
+  },
+  {
+    "term": "vaya",
+    "category": "NEG_A",
+    "weight": 0.254768047
+  },
+  {
+    "term": "( 2015",
+    "category": "NEG_A",
+    "weight": 0.000354383
+  },
+  {
+    "term": "y",
+    "category": "NEG_A",
+    "weight": 0.06539354
+  },
+  {
+    "term": "dos",
+    "category": "NEG_A",
+    "weight": -0.021587635
+  },
+  {
+    "term": "se",
+    "category": "NEG_A",
+    "weight": -0.000183177
+  },
+  {
+    "term": "jaja",
+    "category": "NEG_E",
+    "weight": -0.222803417
+  },
+  {
+    "term": ":(",
+    "category": "NEG_E",
+    "weight": 0.16106644
+  },
+  {
+    "term": ":)",
+    "category": "NEG_E",
+    "weight": -0.049231931
+  },
+  {
+    "term": "<newline>",
+    "category": "NEG_E",
+    "weight": -0.099093478
+  },
+  {
+    "term": "vuestro",
+    "category": "NEG_E",
+    "weight": -0.230382181
+  },
+  {
+    "term": "entrevista",
+    "category": "NEG_E",
+    "weight": -0.093299751
+  },
+  {
+    "term": "menos",
+    "category": "NEG_E",
+    "weight": 0.175713199
+  },
+  {
+    "term": "/",
+    "category": "NEG_E",
+    "weight": -0.203875759
+  },
+  {
+    "term": "liam",
+    "category": "NEG_E",
+    "weight": -0.026306585
+  },
+  {
+    "term": "me apetece",
+    "category": "NEG_E",
+    "weight": 0.0000146
+  },
+  {
+    "term": "mundo .",
+    "category": "NEG_E",
+    "weight": 0.175913519
+  },
+  {
+    "term": "igual",
+    "category": "NEG_E",
+    "weight": 0.03948558
+  },
+  {
+    "term": "para mi",
+    "category": "NEG_E",
+    "weight": -0.059209192
+  },
+  {
+    "term": "decir",
+    "category": "NEG_E",
+    "weight": -0.117841986
+  },
+  {
+    "term": "ti",
+    "category": "NEG_E",
+    "weight": -0.059761373
+  },
+  {
+    "term": "te",
+    "category": "NEG_E",
+    "weight": -0.024417331
+  },
+  {
+    "term": "c�_mo",
+    "category": "NEG_E",
+    "weight": 0.042987139
+  },
+  {
+    "term": "fan",
+    "category": "NEG_E",
+    "weight": -0.011319924
+  },
+  {
+    "term": "peor",
+    "category": "NEG_E",
+    "weight": 0.537874073
+  },
+  {
+    "term": "todos los",
+    "category": "NEG_E",
+    "weight": 0.093295251
+  },
+  {
+    "term": "http://t.co",
+    "category": "NEG_E",
+    "weight": -0.024944001
+  },
+  {
+    "term": "que hacer",
+    "category": "NEG_E",
+    "weight": 0.023975592
+  },
+  {
+    "term": "meses",
+    "category": "NEG_E",
+    "weight": 0.001086039
+  },
+  {
+    "term": "a mis",
+    "category": "NEG_E",
+    "weight": 0.003541169
+  },
+  {
+    "term": "mundo y",
+    "category": "NEG_E",
+    "weight": 0.178595655
+  },
+  {
+    "term": "y la",
+    "category": "NEG_E",
+    "weight": 0.098691538
+  },
+  {
+    "term": "paso",
+    "category": "NEG_E",
+    "weight": 0.183525806
+  },
+  {
+    "term": "diga que",
+    "category": "NEG_E",
+    "weight": -0.188176658
+  },
+  {
+    "term": "v�_a",
+    "category": "NEG_E",
+    "weight": -0.074925804
+  },
+  {
+    "term": "que estoy",
+    "category": "NEG_E",
+    "weight": -0.457546097
+  },
+  {
+    "term": "video",
+    "category": "NEG_E",
+    "weight": -0.163062659
+  },
+  {
+    "term": "s�_lo",
+    "category": "NEG_E",
+    "weight": 0.046238142
+  },
+  {
+    "term": "y me",
+    "category": "NEG_E",
+    "weight": 0.141887196
+  },
+  {
+    "term": "gilipollas",
+    "category": "NEG_E",
+    "weight": 0.107370635
+  },
+  {
+    "term": "con los",
+    "category": "NEG_E",
+    "weight": -0.1551092
+  },
+  {
+    "term": "dif�_cil",
+    "category": "NEG_E",
+    "weight": 0.068247239
+  },
+  {
+    "term": "aburrimiento",
+    "category": "NEG_E",
+    "weight": 3.319868563
+  },
+  {
+    "term": "culo",
+    "category": "NEG_E",
+    "weight": 0.165228812
+  },
+  {
+    "term": "cabeza",
+    "category": "NEG_E",
+    "weight": 0.119372371
+  },
+  {
+    "term": "agosto",
+    "category": "NEG_E",
+    "weight": 0.01088514
+  },
+  {
+    "term": "sigues",
+    "category": "NEG_E",
+    "weight": -0.029607729
+  },
+  {
+    "term": "por qu̩",
+    "category": "NEG_E",
+    "weight": -0.032931586
+  },
+  {
+    "term": "vale",
+    "category": "NEG_E",
+    "weight": -0.183933036
+  },
+  {
+    "term": "si no",
+    "category": "NEG_E",
+    "weight": 0.213935801
+  },
+  {
+    "term": "d�_a",
+    "category": "NEG_E",
+    "weight": 0.262483294
+  },
+  {
+    "term": "instituto",
+    "category": "NEG_E",
+    "weight": 0.388886972
+  },
+  {
+    "term": "pero es",
+    "category": "NEG_E",
+    "weight": 0.314378336
+  },
+  {
+    "term": "sabe",
+    "category": "NEG_E",
+    "weight": -0.210844506
+  },
+  {
+    "term": "gracias por",
+    "category": "NEG_E",
+    "weight": -0.005425721
+  },
+  {
+    "term": "yo como",
+    "category": "NEG_E",
+    "weight": 0.143253735
+  },
+  {
+    "term": "escuchar",
+    "category": "NEG_E",
+    "weight": -0.011553763
+  },
+  {
+    "term": "buenas",
+    "category": "NEG_E",
+    "weight": -0.182690911
+  },
+  {
+    "term": "siempre",
+    "category": "NEG_E",
+    "weight": 0.058990387
+  },
+  {
+    "term": "&",
+    "category": "NEG_E",
+    "weight": -0.00525733
+  },
+  {
+    "term": "vivir",
+    "category": "NEG_E",
+    "weight": 0.141362415
+  },
+  {
+    "term": "tienes que",
+    "category": "NEG_E",
+    "weight": -0.078549474
+  },
+  {
+    "term": "no me",
+    "category": "NEG_E",
+    "weight": 0.133659786
+  },
+  {
+    "term": "te quiero",
+    "category": "NEG_E",
+    "weight": -0.094409259
+  },
+  {
+    "term": "con las",
+    "category": "NEG_E",
+    "weight": 0.200001591
+  },
+  {
+    "term": "cojones",
+    "category": "NEG_E",
+    "weight": 0.025338438
+  },
+  {
+    "term": "mira",
+    "category": "NEG_E",
+    "weight": 0.001047495
+  },
+  {
+    "term": "vuelta",
+    "category": "NEG_E",
+    "weight": 0.020803684
+  },
+  {
+    "term": "creo que",
+    "category": "NEG_E",
+    "weight": 0.019916659
+  },
+  {
+    "term": "verano",
+    "category": "NEG_E",
+    "weight": 0.200352312
+  },
+  {
+    "term": "me",
+    "category": "NEG_E",
+    "weight": 0.262122747
+  },
+  {
+    "term": "mi",
+    "category": "NEG_E",
+    "weight": 0.089136986
+  },
+  {
+    "term": "malo",
+    "category": "NEG_E",
+    "weight": 0.539256059
+  },
+  {
+    "term": "del",
+    "category": "NEG_E",
+    "weight": 0.031471941
+  },
+  {
+    "term": "s�_",
+    "category": "NEG_E",
+    "weight": -0.141749037
+  },
+  {
+    "term": "el tema",
+    "category": "NEG_E",
+    "weight": 0.844842186
+  },
+  {
+    "term": "tampoco",
+    "category": "NEG_E",
+    "weight": 0.034210689
+  },
+  {
+    "term": "mala",
+    "category": "NEG_E",
+    "weight": 0.006021002
+  },
+  {
+    "term": "��_ https://t.co",
+    "category": "NEG_E",
+    "weight": -0.062214375
+  },
+  {
+    "term": "me lo",
+    "category": "NEG_E",
+    "weight": -0.313268744
+  },
+  {
+    "term": "tan",
+    "category": "NEG_E",
+    "weight": 0.045492279
+  },
+  {
+    "term": "yo la",
+    "category": "NEG_E",
+    "weight": 0.006297085
+  },
+  {
+    "term": "!",
+    "category": "NEG_E",
+    "weight": -0.245908699
+  },
+  {
+    "term": "no saber",
+    "category": "NEG_E",
+    "weight": 0.106765521
+  },
+  {
+    "term": 1,
+    "category": "NEG_E",
+    "weight": -0.132883529
+  },
+  {
+    "term": "nombre",
+    "category": "NEG_E",
+    "weight": -0.031096612
+  },
+  {
+    "term": "a̱os",
+    "category": "NEG_E",
+    "weight": 0.001733373
+  },
+  {
+    "term": "jajaja",
+    "category": "NEG_E",
+    "weight": -0.286435585
+  },
+  {
+    "term": "ṇo",
+    "category": "NEG_E",
+    "weight": 0.312790489
+  },
+  {
+    "term": "de verdad",
+    "category": "NEG_E",
+    "weight": 0.076151007
+  },
+  {
+    "term": "mal",
+    "category": "NEG_E",
+    "weight": 0.463126628
+  },
+  {
+    "term": "las",
+    "category": "NEG_E",
+    "weight": 0.004068102
+  },
+  {
+    "term": "a",
+    "category": "NEG_E",
+    "weight": -0.006556966
+  },
+  {
+    "term": "aburre",
+    "category": "NEG_E",
+    "weight": 0.107713583
+  },
+  {
+    "term": ", se",
+    "category": "NEG_E",
+    "weight": 0.087105487
+  },
+  {
+    "term": "la tarde",
+    "category": "NEG_E",
+    "weight": 0.05083724
+  },
+  {
+    "term": "su",
+    "category": "NEG_E",
+    "weight": -0.003898377
+  },
+  {
+    "term": "aburro",
+    "category": "NEG_E",
+    "weight": 0.094845215
+  },
+  {
+    "term": "q",
+    "category": "NEG_E",
+    "weight": 0.106393414
+  },
+  {
+    "term": "primera",
+    "category": "NEG_E",
+    "weight": -0.347448765
+  },
+  {
+    "term": "de la",
+    "category": "NEG_E",
+    "weight": -0.072042886
+  },
+  {
+    "term": "grande",
+    "category": "NEG_E",
+    "weight": -0.029045781
+  },
+  {
+    "term": "la misma",
+    "category": "NEG_E",
+    "weight": 0.279048203
+  },
+  {
+    "term": "jajajaj",
+    "category": "NEG_E",
+    "weight": -0.037133831
+  },
+  {
+    "term": "de lo",
+    "category": "NEG_E",
+    "weight": 0.094381849
+  },
+  {
+    "term": "se",
+    "category": "NEG_E",
+    "weight": 0.021925107
+  },
+  {
+    "term": "directo",
+    "category": "NEG_E",
+    "weight": -0.100528292
+  },
+  {
+    "term": "que soy",
+    "category": "NEG_E",
+    "weight": 0.064382726
+  },
+  {
+    "term": "recuerdos",
+    "category": "NEG_E",
+    "weight": 0.457018741
+  },
+  {
+    "term": "una mierda",
+    "category": "NEG_E",
+    "weight": 0.371210116
+  },
+  {
+    "term": "va a",
+    "category": "NEG_E",
+    "weight": 0.053219658
+  },
+  {
+    "term": "no voy",
+    "category": "NEG_E",
+    "weight": 0.031110989
+  },
+  {
+    "term": "mejores",
+    "category": "NEG_E",
+    "weight": -0.009741618
+  },
+  {
+    "term": "la",
+    "category": "NEG_E",
+    "weight": 0.048140082
+  },
+  {
+    "term": "lo",
+    "category": "NEG_E",
+    "weight": -0.062755394
+  },
+  {
+    "term": "gente",
+    "category": "NEG_E",
+    "weight": 0.242256029
+  },
+  {
+    "term": "saber que",
+    "category": "NEG_E",
+    "weight": 0.263198896
+  },
+  {
+    "term": "de menos",
+    "category": "NEG_E",
+    "weight": 0.006887999
+  },
+  {
+    "term": "puedo con",
+    "category": "NEG_E",
+    "weight": 0.342447697
+  },
+  {
+    "term": "pena",
+    "category": "NEG_E",
+    "weight": 0.287829833
+  },
+  {
+    "term": "creo",
+    "category": "NEG_E",
+    "weight": 0.054379496
+  },
+  {
+    "term": "no se",
+    "category": "NEG_E",
+    "weight": -0.08756603
+  },
+  {
+    "term": "menos a",
+    "category": "NEG_E",
+    "weight": 0.141947849
+  },
+  {
+    "term": "ya",
+    "category": "NEG_E",
+    "weight": 0.081728008
+  },
+  {
+    "term": "dan",
+    "category": "NEG_E",
+    "weight": 0.286292599
+  },
+  {
+    "term": "miedo",
+    "category": "NEG_E",
+    "weight": 0.37451184
+  },
+  {
+    "term": "dar",
+    "category": "NEG_E",
+    "weight": 0.003304669
+  },
+  {
+    "term": "qu̩",
+    "category": "NEG_E",
+    "weight": 0.315756991
+  },
+  {
+    "term": "odio",
+    "category": "NEG_E",
+    "weight": 1.05139025
+  },
+  {
+    "term": "ma̱ana",
+    "category": "NEG_E",
+    "weight": 0.044074212
+  },
+  {
+    "term": "se me",
+    "category": "NEG_E",
+    "weight": 0.312557825
+  },
+  {
+    "term": "desde",
+    "category": "NEG_E",
+    "weight": -0.018061872
+  },
+  {
+    "term": "a ver",
+    "category": "NEG_E",
+    "weight": 0.018730246
+  },
+  {
+    "term": "el",
+    "category": "NEG_E",
+    "weight": -0.052146547
+  },
+  {
+    "term": "en",
+    "category": "NEG_E",
+    "weight": -0.01062807
+  },
+  {
+    "term": "bueno",
+    "category": "NEG_E",
+    "weight": -0.292306329
+  },
+  {
+    "term": "eh",
+    "category": "NEG_E",
+    "weight": 0.128697672
+  },
+  {
+    "term": "tel̩fono",
+    "category": "NEG_E",
+    "weight": 0.445191596
+  },
+  {
+    "term": "buena",
+    "category": "NEG_E",
+    "weight": -0.218122325
+  },
+  {
+    "term": "todo",
+    "category": "NEG_E",
+    "weight": 0.038807424
+  },
+  {
+    "term": "clases",
+    "category": "NEG_E",
+    "weight": 0.130786565
+  },
+  {
+    "term": ", me",
+    "category": "NEG_E",
+    "weight": -0.068452289
+  },
+  {
+    "term": "el lunes",
+    "category": "NEG_E",
+    "weight": 0.140625736
+  },
+  {
+    "term": "tenido",
+    "category": "NEG_E",
+    "weight": 0.080918637
+  },
+  {
+    "term": "poco",
+    "category": "NEG_E",
+    "weight": 0.111178333
+  },
+  {
+    "term": "( 2015",
+    "category": "NEG_E",
+    "weight": 0.112651158
+  },
+  {
+    "term": "? que",
+    "category": "NEG_E",
+    "weight": -0.074225386
+  },
+  {
+    "term": "contigo",
+    "category": "NEG_E",
+    "weight": -0.13580487
+  },
+  {
+    "term": "la semana",
+    "category": "NEG_E",
+    "weight": 0.112486695
+  },
+  {
+    "term": "vete",
+    "category": "NEG_E",
+    "weight": 0.822657458
+  },
+  {
+    "term": "tienen",
+    "category": "NEG_E",
+    "weight": -0.070056648
+  },
+  {
+    "term": "que",
+    "category": "NEG_E",
+    "weight": 0.101656265
+  },
+  {
+    "term": "van",
+    "category": "NEG_E",
+    "weight": 0.01921814
+  },
+  {
+    "term": "verg�_enza",
+    "category": "NEG_E",
+    "weight": 0.372782156
+  },
+  {
+    "term": "llorando",
+    "category": "NEG_E",
+    "weight": 0.544312352
+  },
+  {
+    "term": "gusta",
+    "category": "NEG_E",
+    "weight": -0.005887573
+  },
+  {
+    "term": "luego",
+    "category": "NEG_E",
+    "weight": 0.272080646
+  },
+  {
+    "term": "apetece",
+    "category": "NEG_E",
+    "weight": 0.124871579
+  },
+  {
+    "term": "y que",
+    "category": "NEG_E",
+    "weight": -0.065548516
+  },
+  {
+    "term": "mucha",
+    "category": "NEG_E",
+    "weight": -0.001603937
+  },
+  {
+    "term": "est��",
+    "category": "NEG_E",
+    "weight": 0.123955254
+  },
+  {
+    "term": "xd",
+    "category": "NEG_E",
+    "weight": -0.107754156
+  },
+  {
+    "term": "cada",
+    "category": "NEG_E",
+    "weight": -0.034305196
+  },
+  {
+    "term": "rutina",
+    "category": "NEG_E",
+    "weight": 0.439550988
+  },
+  {
+    "term": "aire",
+    "category": "NEG_E",
+    "weight": 0.093325563
+  },
+  {
+    "term": "est��n",
+    "category": "NEG_E",
+    "weight": 0.173176456
+  },
+  {
+    "term": "realidad",
+    "category": "NEG_E",
+    "weight": 0.023795553
+  },
+  {
+    "term": "las 7",
+    "category": "NEG_E",
+    "weight": 0.029525664
+  },
+  {
+    "term": "contra",
+    "category": "NEG_E",
+    "weight": 0.269752798
+  },
+  {
+    "term": "final",
+    "category": "NEG_E",
+    "weight": -0.134665222
+  },
+  {
+    "term": "en un",
+    "category": "NEG_E",
+    "weight": 0.054306185
+  },
+  {
+    "term": "m��s",
+    "category": "NEG_E",
+    "weight": -0.078826539
+  },
+  {
+    "term": "para",
+    "category": "NEG_E",
+    "weight": -0.095738249
+  },
+  {
+    "term": "asco",
+    "category": "NEG_E",
+    "weight": 1.194233223
+  },
+  {
+    "term": "es una",
+    "category": "NEG_E",
+    "weight": -0.091836747
+  },
+  {
+    "term": "que si",
+    "category": "NEG_E",
+    "weight": -0.044850852
+  },
+  {
+    "term": "_intercept",
+    "category": "NEG_E",
+    "weight": 1.673629622
+  },
+  {
+    "term": "mierda",
+    "category": "NEG_E",
+    "weight": 1.654680329
+  },
+  {
+    "term": "este",
+    "category": "NEG_E",
+    "weight": 0.040943739
+  },
+  {
+    "term": "esta",
+    "category": "NEG_E",
+    "weight": -0.086029079
+  },
+  {
+    "term": "... ?",
+    "category": "NEG_E",
+    "weight": 0.449997976
+  },
+  {
+    "term": "esto",
+    "category": "NEG_E",
+    "weight": 0.202641703
+  },
+  {
+    "term": "falso",
+    "category": "NEG_E",
+    "weight": 0.148969606
+  },
+  {
+    "term": "de los",
+    "category": "NEG_E",
+    "weight": -0.054312507
+  },
+  {
+    "term": "enserio",
+    "category": "NEG_E",
+    "weight": 0.040067495
+  },
+  {
+    "term": "y por",
+    "category": "NEG_E",
+    "weight": -0.107728215
+  },
+  {
+    "term": "sitio",
+    "category": "NEG_E",
+    "weight": 0.23275888
+  },
+  {
+    "term": "mio",
+    "category": "NEG_E",
+    "weight": 0.502980647
+  },
+  {
+    "term": "vaya",
+    "category": "NEG_E",
+    "weight": 0.52559639
+  },
+  {
+    "term": ". ?",
+    "category": "NEG_E",
+    "weight": 0.018341634
+  },
+  {
+    "term": "clase",
+    "category": "NEG_E",
+    "weight": 0.157474249
+  },
+  {
+    "term": "... y",
+    "category": "NEG_E",
+    "weight": -0.267538223
+  },
+  {
+    "term": "jajajaja",
+    "category": "NEG_E",
+    "weight": -0.064362901
+  },
+  {
+    "term": "duele",
+    "category": "NEG_E",
+    "weight": 0.591088603
+  },
+  {
+    "term": "alguna",
+    "category": "NEG_E",
+    "weight": -0.152649511
+  },
+  {
+    "term": "! !",
+    "category": "NEG_E",
+    "weight": -0.023943098
+  },
+  {
+    "term": "! ?",
+    "category": "NEG_E",
+    "weight": 0.08035595
+  },
+  {
+    "term": "tener",
+    "category": "NEG_E",
+    "weight": -0.052691658
+  },
+  {
+    "term": "ma̱ana al",
+    "category": "NEG_E",
+    "weight": 1.212777929
+  },
+  {
+    "term": "estoy",
+    "category": "NEG_E",
+    "weight": 0.549855584
+  },
+  {
+    "term": "̩l",
+    "category": "NEG_E",
+    "weight": -0.121002881
+  },
+  {
+    "term": "hace",
+    "category": "NEG_E",
+    "weight": -0.130677507
+  },
+  {
+    "term": "serio",
+    "category": "NEG_E",
+    "weight": 0.289405385
+  },
+  {
+    "term": "dice",
+    "category": "NEG_E",
+    "weight": -0.037656276
+  },
+  {
+    "term": "tiro",
+    "category": "NEG_E",
+    "weight": 0.058377835
+  },
+  {
+    "term": "bien",
+    "category": "NEG_E",
+    "weight": -0.160210469
+  },
+  {
+    "term": "nadie",
+    "category": "NEG_E",
+    "weight": 0.585150187
+  },
+  {
+    "term": "pensar",
+    "category": "NEG_E",
+    "weight": 0.190264732
+  },
+  {
+    "term": "libro",
+    "category": "NEG_E",
+    "weight": -0.080647882
+  },
+  {
+    "term": "porque",
+    "category": "NEG_E",
+    "weight": 0.106697698
+  },
+  {
+    "term": "a mi",
+    "category": "NEG_E",
+    "weight": -0.080088296
+  },
+  {
+    "term": "de",
+    "category": "NEG_E",
+    "weight": -0.028896578
+  },
+  {
+    "term": "que hay",
+    "category": "NEG_E",
+    "weight": 0.30443527
+  },
+  {
+    "term": "vez que",
+    "category": "NEG_E",
+    "weight": -0.001147769
+  },
+  {
+    "term": "gran",
+    "category": "NEG_E",
+    "weight": -0.149367748
+  },
+  {
+    "term": "verdad",
+    "category": "NEG_E",
+    "weight": 0.309910985
+  },
+  {
+    "term": "dejado",
+    "category": "NEG_E",
+    "weight": 0.295544203
+  },
+  {
+    "term": "paro sube",
+    "category": "NEG_E",
+    "weight": 1.450132641
+  },
+  {
+    "term": "perdido",
+    "category": "NEG_E",
+    "weight": 0.396280342
+  },
+  {
+    "term": "si me",
+    "category": "NEG_E",
+    "weight": -0.161317127
+  },
+  {
+    "term": "sea",
+    "category": "NEG_E",
+    "weight": -0.079435208
+  },
+  {
+    "term": "mereces",
+    "category": "NEG_E",
+    "weight": 0.072234556
+  },
+  {
+    "term": "juego",
+    "category": "NEG_E",
+    "weight": -0.061364299
+  },
+  {
+    "term": 3,
+    "category": "NEG_E",
+    "weight": -0.0302972
+  },
+  {
+    "term": "estas",
+    "category": "NEG_E",
+    "weight": 0.317491056
+  },
+  {
+    "term": "llorar",
+    "category": "NEG_E",
+    "weight": 0.966291308
+  },
+  {
+    "term": "todo el",
+    "category": "NEG_E",
+    "weight": 0.11625043
+  },
+  {
+    "term": "alguien",
+    "category": "NEG_E",
+    "weight": 0.263715306
+  },
+  {
+    "term": "solo",
+    "category": "NEG_E",
+    "weight": 0.115352982
+  },
+  {
+    "term": "a tu",
+    "category": "NEG_E",
+    "weight": 0.228125273
+  },
+  {
+    "term": "dinero",
+    "category": "NEG_E",
+    "weight": 0.122077667
+  },
+  {
+    "term": "tema",
+    "category": "NEG_E",
+    "weight": 0.243251385
+  },
+  {
+    "term": "sola",
+    "category": "NEG_E",
+    "weight": 0.370485945
+  },
+  {
+    "term": "a ti",
+    "category": "NEG_E",
+    "weight": -0.194133363
+  },
+  {
+    "term": "el que",
+    "category": "NEG_E",
+    "weight": -0.022981414
+  },
+  {
+    "term": "y el",
+    "category": "NEG_E",
+    "weight": 0.112427098
+  },
+  {
+    "term": "conmigo",
+    "category": "NEG_E",
+    "weight": 0.089369442
+  },
+  {
+    "term": "ahora",
+    "category": "NEG_E",
+    "weight": -0.004117579
+  },
+  {
+    "term": "concierto",
+    "category": "NEG_E",
+    "weight": -0.143704437
+  },
+  {
+    "term": "el culo",
+    "category": "NEG_E",
+    "weight": 0.036876665
+  },
+  {
+    "term": "que no",
+    "category": "NEG_E",
+    "weight": 0.120172324
+  },
+  {
+    "term": "con",
+    "category": "NEG_E",
+    "weight": -0.020769755
+  },
+  {
+    "term": "y no",
+    "category": "NEG_E",
+    "weight": 0.44456124
+  },
+  {
+    "term": "cuando",
+    "category": "NEG_E",
+    "weight": -0.020450952
+  },
+  {
+    "term": ". me",
+    "category": "NEG_E",
+    "weight": -0.003710109
+  },
+  {
+    "term": "un d�_a",
+    "category": "NEG_E",
+    "weight": 0.000680298
+  },
+  {
+    "term": ".",
+    "category": "NEG_E",
+    "weight": 0.01442358
+  },
+  {
+    "term": "pa",
+    "category": "NEG_E",
+    "weight": 0.01442504
+  },
+  {
+    "term": "puta",
+    "category": "NEG_E",
+    "weight": 0.93732267
+  },
+  {
+    "term": "feliz",
+    "category": "NEG_E",
+    "weight": -0.295272493
+  },
+  {
+    "term": "puto",
+    "category": "NEG_E",
+    "weight": 0.112000605
+  },
+  {
+    "term": "partido",
+    "category": "NEG_E",
+    "weight": -0.13607607
+  },
+  {
+    "term": "de salir",
+    "category": "NEG_E",
+    "weight": 0.21697454
+  },
+  {
+    "term": "gracias",
+    "category": "NEG_E",
+    "weight": -0.229190232
+  },
+  {
+    "term": ", no",
+    "category": "NEG_E",
+    "weight": 0.010949683
+  },
+  {
+    "term": "como me",
+    "category": "NEG_E",
+    "weight": 0.043573593
+  },
+  {
+    "term": "soporto",
+    "category": "NEG_E",
+    "weight": 0.226750259
+  },
+  {
+    "term": "va",
+    "category": "NEG_E",
+    "weight": 0.090581506
+  },
+  {
+    "term": "ir",
+    "category": "NEG_E",
+    "weight": 0.007681522
+  },
+  {
+    "term": "si te",
+    "category": "NEG_E",
+    "weight": 0.042486303
+  },
+  {
+    "term": ", al",
+    "category": "NEG_E",
+    "weight": 0.002816769
+  },
+  {
+    "term": "... <newline>",
+    "category": "NEG_E",
+    "weight": 0.089015377
+  },
+  {
+    "term": "2015 )",
+    "category": "NEG_E",
+    "weight": 5.97e-16
+  },
+  {
+    "term": "sois",
+    "category": "NEG_E",
+    "weight": 0.405347428
+  },
+  {
+    "term": "f��cil",
+    "category": "NEG_E",
+    "weight": 0.029020534
+  },
+  {
+    "term": "a su",
+    "category": "NEG_E",
+    "weight": 0.35753208
+  },
+  {
+    "term": "no soy",
+    "category": "NEG_E",
+    "weight": -0.269243836
+  },
+  {
+    "term": ")",
+    "category": "NEG_E",
+    "weight": -0.141805635
+  },
+  {
+    "term": "no quiero",
+    "category": "NEG_E",
+    "weight": 0.478623704
+  },
+  {
+    "term": "es como",
+    "category": "NEG_E",
+    "weight": 0.060425997
+  },
+  {
+    "term": "nada",
+    "category": "NEG_E",
+    "weight": 0.127813925
+  },
+  {
+    "term": "todos",
+    "category": "NEG_E",
+    "weight": 0.097729512
+  },
+  {
+    "term": "tiempo",
+    "category": "NEG_E",
+    "weight": 0.205634464
+  },
+  {
+    "term": "ella",
+    "category": "NEG_E",
+    "weight": -0.178504986
+  },
+  {
+    "term": ", ",
+    "category": "NEG_E",
+    "weight": 0.063663675
+  },
+  {
+    "term": "la cabeza",
+    "category": "NEG_E",
+    "weight": 0.115234059
+  },
+  {
+    "term": "portal",
+    "category": "NEG_E",
+    "weight": 0.097340862
+  },
+  {
+    "term": "a̱o",
+    "category": "NEG_E",
+    "weight": -0.226811931
+  },
+  {
+    "term": "estado",
+    "category": "NEG_E",
+    "weight": 0.289290449
+  },
+  {
+    "term": "me siento",
+    "category": "NEG_E",
+    "weight": 0.110642958
+  },
+  {
+    "term": "haga",
+    "category": "NEG_E",
+    "weight": 0.034449857
+  },
+  {
+    "term": "por favor",
+    "category": "NEG_E",
+    "weight": 0.096703691
+  },
+  {
+    "term": "y",
+    "category": "NEG_E",
+    "weight": -0.000945845
+  },
+  {
+    "term": "alguien me",
+    "category": "NEG_E",
+    "weight": 0.598357212
+  },
+  {
+    "term": "mientras",
+    "category": "NEG_E",
+    "weight": -0.042048168
+  },
+  {
+    "term": "lo mejor",
+    "category": "NEG_E",
+    "weight": -0.026091338
+  },
+  {
+    "term": "joder",
+    "category": "NEG_E",
+    "weight": 0.298694931
+  },
+  {
+    "term": "dais",
+    "category": "NEG_E",
+    "weight": 0.067249287
+  },
+  {
+    "term": "quiero",
+    "category": "NEG_E",
+    "weight": -0.03279583
+  },
+  {
+    "term": "han",
+    "category": "NEG_E",
+    "weight": 0.144071922
+  },
+  {
+    "term": "quiere",
+    "category": "NEG_E",
+    "weight": -0.160840956
+  },
+  {
+    "term": "quiera",
+    "category": "NEG_E",
+    "weight": 0.023414947
+  },
+  {
+    "term": "para el",
+    "category": "NEG_E",
+    "weight": -0.043055488
+  },
+  {
+    "term": "hay",
+    "category": "NEG_E",
+    "weight": 0.198072229
+  },
+  {
+    "term": "con un",
+    "category": "NEG_E",
+    "weight": 0.118058612
+  },
+  {
+    "term": "@rubiu5",
+    "category": "NEG_E",
+    "weight": -0.207368334
+  },
+  {
+    "term": "real",
+    "category": "NEG_E",
+    "weight": -0.095286653
+  },
+  {
+    "term": "...",
+    "category": "NEG_E",
+    "weight": 0.044512828
+  },
+  {
+    "term": "quitado",
+    "category": "NEG_E",
+    "weight": 0.168370967
+  },
+  {
+    "term": "mujer",
+    "category": "NEG_E",
+    "weight": -0.035302029
+  },
+  {
+    "term": "amo",
+    "category": "NEG_E",
+    "weight": -0.177317174
+  },
+  {
+    "term": "por",
+    "category": "NEG_E",
+    "weight": 0.004635241
+  },
+  {
+    "term": "triste",
+    "category": "NEG_E",
+    "weight": 1.193245915
+  },
+  {
+    "term": "volver",
+    "category": "NEG_E",
+    "weight": 0.021306416
+  },
+  {
+    "term": "con la",
+    "category": "NEG_E",
+    "weight": 0.166918382
+  },
+  {
+    "term": "gente que",
+    "category": "NEG_E",
+    "weight": 0.0000133
+  },
+  {
+    "term": "a dormir",
+    "category": "NEG_E",
+    "weight": 0.307974779
+  },
+  {
+    "term": "m�_vil",
+    "category": "NEG_E",
+    "weight": 0.146843724
+  },
+  {
+    "term": "ni̱a",
+    "category": "NEG_E",
+    "weight": -0.069444455
+  },
+  {
+    "term": "cosas",
+    "category": "NEG_E",
+    "weight": 0.061030766
+  },
+  {
+    "term": "ninguna",
+    "category": "NEG_E",
+    "weight": 0.1063514
+  },
+  {
+    "term": "en serio",
+    "category": "NEG_E",
+    "weight": 0.052836883
+  },
+  {
+    "term": "amor",
+    "category": "NEG_E",
+    "weight": -0.010456717
+  },
+  {
+    "term": "madrid",
+    "category": "NEG_E",
+    "weight": -0.026524132
+  },
+  {
+    "term": "twitter",
+    "category": "NEG_E",
+    "weight": 0.026506931
+  },
+  {
+    "term": "conmigo .",
+    "category": "NEG_E",
+    "weight": 1.46713809
+  },
+  {
+    "term": "es muy",
+    "category": "NEG_E",
+    "weight": 0.354175481
+  },
+  {
+    "term": "que la",
+    "category": "NEG_E",
+    "weight": -0.041746336
+  },
+  {
+    "term": "ese",
+    "category": "NEG_E",
+    "weight": -0.043572272
+  },
+  {
+    "term": ", porque",
+    "category": "NEG_E",
+    "weight": 0.165192067
+  },
+  {
+    "term": "?",
+    "category": "NEG_E",
+    "weight": -0.192447079
+  },
+  {
+    "term": "encima",
+    "category": "NEG_E",
+    "weight": 0.15731766
+  },
+  {
+    "term": "puede",
+    "category": "NEG_E",
+    "weight": -0.045296988
+  },
+  {
+    "term": "nuevo",
+    "category": "NEG_E",
+    "weight": -0.192722352
+  },
+  {
+    "term": "otra vez",
+    "category": "NEG_E",
+    "weight": 0.300788134
+  },
+  {
+    "term": ";)",
+    "category": "NEG_E",
+    "weight": -0.259937188
+  },
+  {
+    "term": "no puedo",
+    "category": "NEG_E",
+    "weight": 0.265078281
+  },
+  {
+    "term": "verdad no",
+    "category": "NEG_E",
+    "weight": 0.011168902
+  },
+  {
+    "term": "justin",
+    "category": "NEG_E",
+    "weight": -0.148389747
+  },
+  {
+    "term": "que es",
+    "category": "NEG_E",
+    "weight": -0.077712627
+  },
+  {
+    "term": "o",
+    "category": "NEG_E",
+    "weight": 0.061466628
+  },
+  {
+    "term": "que en",
+    "category": "NEG_E",
+    "weight": 0.189716974
+  },
+  {
+    "term": "? .",
+    "category": "NEG_E",
+    "weight": 0.37266119
+  },
+  {
+    "term": "esperar",
+    "category": "NEG_E",
+    "weight": 0.01510996
+  },
+  {
+    "term": "os",
+    "category": "NEG_E",
+    "weight": -0.009698248
+  },
+  {
+    "term": "de estar",
+    "category": "NEG_E",
+    "weight": 0.026505145
+  },
+  {
+    "term": "ya no",
+    "category": "NEG_E",
+    "weight": 0.093229071
+  },
+  {
+    "term": "baj�_n",
+    "category": "NEG_E",
+    "weight": 1.218966513
+  },
+  {
+    "term": "pat̩tico",
+    "category": "NEG_E",
+    "weight": 0.301939901
+  },
+  {
+    "term": "morir",
+    "category": "NEG_E",
+    "weight": 0.349351177
+  },
+  {
+    "term": "donde",
+    "category": "NEG_E",
+    "weight": -0.043833523
+  },
+  {
+    "term": "soy",
+    "category": "NEG_E",
+    "weight": -0.005213757
+  },
+  {
+    "term": "guarra",
+    "category": "NEG_E",
+    "weight": 0.073948536
+  },
+  {
+    "term": "..",
+    "category": "NEG_E",
+    "weight": 0.130697386
+  },
+  {
+    "term": "en la",
+    "category": "NEG_E",
+    "weight": 0.012291911
+  },
+  {
+    "term": "lol",
+    "category": "NEG_E",
+    "weight": -0.11126341
+  },
+  {
+    "term": "los",
+    "category": "NEG_E",
+    "weight": 0.007689972
+  },
+  {
+    "term": "que se",
+    "category": "NEG_E",
+    "weight": 0.079728762
+  },
+  {
+    "term": "de mi",
+    "category": "NEG_E",
+    "weight": -0.008269466
+  },
+  {
+    "term": "que empiezo",
+    "category": "NEG_E",
+    "weight": 0.475466757
+  },
+  {
+    "term": ":",
+    "category": "NEG_E",
+    "weight": -0.036587556
+  },
+  {
+    "term": "encanta",
+    "category": "NEG_E",
+    "weight": -0.478170159
+  },
+  {
+    "term": "dormir",
+    "category": "NEG_E",
+    "weight": 0.134520236
+  },
+  {
+    "term": "me va",
+    "category": "NEG_E",
+    "weight": 0.158608857
+  },
+  {
+    "term": "hacer ....",
+    "category": "NEG_E",
+    "weight": 0.335100326
+  },
+  {
+    "term": "en el",
+    "category": "NEG_E",
+    "weight": 0.170247117
+  },
+  {
+    "term": "ha",
+    "category": "NEG_E",
+    "weight": -0.061975363
+  },
+  {
+    "term": "odio a",
+    "category": "NEG_E",
+    "weight": 0.122940826
+  },
+  {
+    "term": "sube un",
+    "category": "NEG_E",
+    "weight": 1.62e-14
+  },
+  {
+    "term": "no te",
+    "category": "NEG_E",
+    "weight": 0.010564682
+  },
+  {
+    "term": "....",
+    "category": "NEG_E",
+    "weight": 0.044631317
+  },
+  {
+    "term": "vivo",
+    "category": "NEG_E",
+    "weight": 0.393038822
+  },
+  {
+    "term": "un",
+    "category": "NEG_E",
+    "weight": 0.057016565
+  },
+  {
+    "term": "es que",
+    "category": "NEG_E",
+    "weight": 0.267790244
+  },
+  {
+    "term": "pero que",
+    "category": "NEG_E",
+    "weight": 0.003621925
+  },
+  {
+    "term": "genial",
+    "category": "NEG_E",
+    "weight": -0.190496389
+  },
+  {
+    "term": "seguro",
+    "category": "NEG_E",
+    "weight": -0.043458963
+  },
+  {
+    "term": "una persona",
+    "category": "NEG_E",
+    "weight": 0.226306915
+  },
+  {
+    "term": "me da",
+    "category": "NEG_E",
+    "weight": 0.103310543
+  },
+  {
+    "term": "llevo",
+    "category": "NEG_E",
+    "weight": 0.06994657
+  },
+  {
+    "term": "voy a",
+    "category": "NEG_E",
+    "weight": 0.269142635
+  },
+  {
+    "term": "tengo",
+    "category": "NEG_E",
+    "weight": 0.129767481
+  },
+  {
+    "term": "barcelona",
+    "category": "NEG_E",
+    "weight": -0.060302017
+  },
+  {
+    "term": "mejor",
+    "category": "NEG_E",
+    "weight": -0.242370397
+  },
+  {
+    "term": "un abrazo",
+    "category": "NEG_E",
+    "weight": -0.068346516
+  },
+  {
+    "term": "ni",
+    "category": "NEG_E",
+    "weight": 0.184025916
+  },
+  {
+    "term": "espa̱a",
+    "category": "NEG_E",
+    "weight": -0.064875918
+  },
+  {
+    "term": "no",
+    "category": "NEG_E",
+    "weight": 0.364701359
+  },
+  {
+    "term": "na",
+    "category": "NEG_E",
+    "weight": -0.069236178
+  },
+  {
+    "term": "visto",
+    "category": "NEG_E",
+    "weight": -0.028404202
+  },
+  {
+    "term": "besos",
+    "category": "NEG_E",
+    "weight": -0.106995157
+  },
+  {
+    "term": "no ,",
+    "category": "NEG_E",
+    "weight": -0.040056002
+  },
+  {
+    "term": ". tengo",
+    "category": "NEG_E",
+    "weight": 0.439554171
+  },
+  {
+    "term": "no ?",
+    "category": "NEG_E",
+    "weight": -0.378812345
+  },
+  {
+    "term": "siento",
+    "category": "NEG_E",
+    "weight": 0.247498088
+  },
+  {
+    "term": "e",
+    "category": "NEG_E",
+    "weight": -0.071644527
+  },
+  {
+    "term": "dicho",
+    "category": "NEG_E",
+    "weight": -0.056975575
+  },
+  {
+    "term": ". el",
+    "category": "NEG_E",
+    "weight": -0.07209336
+  },
+  {
+    "term": "mi vida",
+    "category": "POS_E",
+    "weight": 0.178902814
+  },
+  {
+    "term": ":(",
+    "category": "POS_E",
+    "weight": -0.057632147
+  },
+  {
+    "term": "<newline>",
+    "category": "POS_E",
+    "weight": 0.074050081
+  },
+  {
+    "term": "tener",
+    "category": "POS_E",
+    "weight": 0.008981686
+  },
+  {
+    "term": "que a",
+    "category": "POS_E",
+    "weight": -0.042474842
+  },
+  {
+    "term": ". https://t.co",
+    "category": "POS_E",
+    "weight": 0.013059034
+  },
+  {
+    "term": "lo mejor",
+    "category": "POS_E",
+    "weight": 0.169090405
+  },
+  {
+    "term": "estoy",
+    "category": "POS_E",
+    "weight": 0.068540802
+  },
+  {
+    "term": ", es",
+    "category": "POS_E",
+    "weight": 0.003953144
+  },
+  {
+    "term": "verdad",
+    "category": "POS_E",
+    "weight": -0.019095691
+  },
+  {
+    "term": "hacia",
+    "category": "POS_E",
+    "weight": 0.317534493
+  },
+  {
+    "term": "mejores",
+    "category": "POS_E",
+    "weight": 0.488675698
+  },
+  {
+    "term": "le",
+    "category": "POS_E",
+    "weight": -0.055291551
+  },
+  {
+    "term": 20,
+    "category": "POS_E",
+    "weight": -0.083601223
+  },
+  {
+    "term": "dice",
+    "category": "POS_E",
+    "weight": -0.162046367
+  },
+  {
+    "term": "la",
+    "category": "POS_E",
+    "weight": 0.017115799
+  },
+  {
+    "term": "lo",
+    "category": "POS_E",
+    "weight": 0.073655304
+  },
+  {
+    "term": "vida",
+    "category": "POS_E",
+    "weight": 0.437988459
+  },
+  {
+    "term": "tu",
+    "category": "POS_E",
+    "weight": 0.077228926
+  },
+  {
+    "term": ",",
+    "category": "POS_E",
+    "weight": 0.063196392
+  },
+  {
+    "term": "otra",
+    "category": "POS_E",
+    "weight": 0.025534486
+  },
+  {
+    "term": "igual",
+    "category": "POS_E",
+    "weight": -0.081582105
+  },
+  {
+    "term": "que ganas",
+    "category": "POS_E",
+    "weight": 0.073580514
+  },
+  {
+    "term": "hay",
+    "category": "POS_E",
+    "weight": -0.160840349
+  },
+  {
+    "term": "nadie",
+    "category": "POS_E",
+    "weight": -0.241578079
+  },
+  {
+    "term": "de menos",
+    "category": "POS_E",
+    "weight": 0.54669638
+  },
+  {
+    "term": "@rubiu5",
+    "category": "POS_E",
+    "weight": 0.113548008
+  },
+  {
+    "term": "ti",
+    "category": "POS_E",
+    "weight": 0.48123861
+  },
+  {
+    "term": "no se",
+    "category": "POS_E",
+    "weight": 0.055596027
+  },
+  {
+    "term": "te",
+    "category": "POS_E",
+    "weight": 0.164313388
+  },
+  {
+    "term": "fin",
+    "category": "POS_E",
+    "weight": 0.292047237
+  },
+  {
+    "term": "estoy en",
+    "category": "POS_E",
+    "weight": 0.009796678
+  },
+  {
+    "term": "...",
+    "category": "POS_E",
+    "weight": -0.10788928
+  },
+  {
+    "term": "bueno ,",
+    "category": "POS_E",
+    "weight": -0.032451372
+  },
+  {
+    "term": "ganas de",
+    "category": "POS_E",
+    "weight": 0.486405711
+  },
+  {
+    "term": "esa",
+    "category": "POS_E",
+    "weight": -0.193695172
+  },
+  {
+    "term": "yo",
+    "category": "POS_E",
+    "weight": 0.094362369
+  },
+  {
+    "term": "tantas",
+    "category": "POS_E",
+    "weight": -0.095351426
+  },
+  {
+    "term": "ya",
+    "category": "POS_E",
+    "weight": 0.048218343
+  },
+  {
+    "term": "escuchar",
+    "category": "POS_E",
+    "weight": 0.158372705
+  },
+  {
+    "term": "? <newline>",
+    "category": "POS_E",
+    "weight": 0.025482431
+  },
+  {
+    "term": "de",
+    "category": "POS_E",
+    "weight": 0.048099332
+  },
+  {
+    "term": "gracias a",
+    "category": "POS_E",
+    "weight": 0.766606931
+  },
+  {
+    "term": ", y",
+    "category": "POS_E",
+    "weight": 0.056280753
+  },
+  {
+    "term": "tierra",
+    "category": "POS_E",
+    "weight": 0.140745748
+  },
+  {
+    "term": "ha dicho",
+    "category": "POS_E",
+    "weight": -0.024454049
+  },
+  {
+    "term": "con la",
+    "category": "POS_E",
+    "weight": -0.101320735
+  },
+  {
+    "term": "qu̩",
+    "category": "POS_E",
+    "weight": -0.129864094
+  },
+  {
+    "term": "de ver",
+    "category": "POS_E",
+    "weight": 0.153178541
+  },
+  {
+    "term": "mucho",
+    "category": "POS_E",
+    "weight": 0.191451926
+  },
+  {
+    "term": "\\",
+    "category": "POS_E",
+    "weight": 0.00000221
+  },
+  {
+    "term": "mi ni̱a",
+    "category": "POS_E",
+    "weight": 0.238346337
+  },
+  {
+    "term": "nos",
+    "category": "POS_E",
+    "weight": 0.200170665
+  },
+  {
+    "term": "y si",
+    "category": "POS_E",
+    "weight": -0.117210885
+  },
+  {
+    "term": "https://t.co",
+    "category": "POS_E",
+    "weight": 0.019043484
+  },
+  {
+    "term": "ni̱o",
+    "category": "POS_E",
+    "weight": 0.032016183
+  },
+  {
+    "term": "ma̱ana",
+    "category": "POS_E",
+    "weight": 0.162929989
+  },
+  {
+    "term": "mientras",
+    "category": "POS_E",
+    "weight": 0.128057953
+  },
+  {
+    "term": "a hacer",
+    "category": "POS_E",
+    "weight": -0.073773928
+  },
+  {
+    "term": "ni̱a",
+    "category": "POS_E",
+    "weight": 0.530982924
+  },
+  {
+    "term": ", lo",
+    "category": "POS_E",
+    "weight": 0.030389843
+  },
+  {
+    "term": "http://t.co",
+    "category": "POS_E",
+    "weight": 0.186611173
+  },
+  {
+    "term": "ganas",
+    "category": "POS_E",
+    "weight": 0.201457444
+  },
+  {
+    "term": "elegir",
+    "category": "POS_E",
+    "weight": 0.072096542
+  },
+  {
+    "term": "gran",
+    "category": "POS_E",
+    "weight": 0.377975122
+  },
+  {
+    "term": "amor",
+    "category": "POS_E",
+    "weight": 0.427370292
+  },
+  {
+    "term": "pedir",
+    "category": "POS_E",
+    "weight": 0.097075816
+  },
+  {
+    "term": "a ver",
+    "category": "POS_E",
+    "weight": -0.108335413
+  },
+  {
+    "term": "hora",
+    "category": "POS_E",
+    "weight": 0.311213648
+  },
+  {
+    "term": "el",
+    "category": "POS_E",
+    "weight": -0.019991313
+  },
+  {
+    "term": "paro sube",
+    "category": "POS_E",
+    "weight": -0.041645503
+  },
+  {
+    "term": "en",
+    "category": "POS_E",
+    "weight": 0.051344263
+  },
+  {
+    "term": "bueno",
+    "category": "POS_E",
+    "weight": 0.075607294
+  },
+  {
+    "term": "ser",
+    "category": "POS_E",
+    "weight": 0.200638345
+  },
+  {
+    "term": "arte",
+    "category": "POS_E",
+    "weight": 0.114876956
+  },
+  {
+    "term": "....",
+    "category": "POS_E",
+    "weight": -0.102409231
+  },
+  {
+    "term": "buena",
+    "category": "POS_E",
+    "weight": 0.202930342
+  },
+  {
+    "term": "y lo",
+    "category": "POS_E",
+    "weight": 0.127348779
+  },
+  {
+    "term": "tiempo",
+    "category": "POS_E",
+    "weight": 0.15849586
+  },
+  {
+    "term": "canci�_n",
+    "category": "POS_E",
+    "weight": 0.028179008
+  },
+  {
+    "term": "haber",
+    "category": "POS_E",
+    "weight": 0.169794519
+  },
+  {
+    "term": "buenas",
+    "category": "POS_E",
+    "weight": 0.122776672
+  },
+  {
+    "term": "baja un",
+    "category": "POS_E",
+    "weight": 2.72e-15
+  },
+  {
+    "term": "persona",
+    "category": "POS_E",
+    "weight": 0.094307583
+  },
+  {
+    "term": "sea",
+    "category": "POS_E",
+    "weight": 0.174324155
+  },
+  {
+    "term": "es",
+    "category": "POS_E",
+    "weight": 0.008745727
+  },
+  {
+    "term": "es mejor",
+    "category": "POS_E",
+    "weight": -0.222585157
+  },
+  {
+    "term": "rt",
+    "category": "POS_E",
+    "weight": -0.115997193
+  },
+  {
+    "term": "venga",
+    "category": "POS_E",
+    "weight": 0.079306431
+  },
+  {
+    "term": "+",
+    "category": "POS_E",
+    "weight": 0.070501807
+  },
+  {
+    "term": "empezar",
+    "category": "POS_E",
+    "weight": 0.087918462
+  },
+  {
+    "term": "muy",
+    "category": "POS_E",
+    "weight": 0.395280986
+  },
+  {
+    "term": 4,
+    "category": "POS_E",
+    "weight": -0.263125665
+  },
+  {
+    "term": "de ser",
+    "category": "POS_E",
+    "weight": 0.292966587
+  },
+  {
+    "term": "poco",
+    "category": "POS_E",
+    "weight": -0.073140738
+  },
+  {
+    "term": "bien",
+    "category": "POS_E",
+    "weight": 0.256814785
+  },
+  {
+    "term": "estar",
+    "category": "POS_E",
+    "weight": 0.313198184
+  },
+  {
+    "term": "estas",
+    "category": "POS_E",
+    "weight": -0.232401142
+  },
+  {
+    "term": "sobre",
+    "category": "POS_E",
+    "weight": -0.063817513
+  },
+  {
+    "term": "@lericamusic",
+    "category": "POS_E",
+    "weight": 1.14e-14
+  },
+  {
+    "term": "eso",
+    "category": "POS_E",
+    "weight": -0.053318318
+  },
+  {
+    "term": "es la",
+    "category": "POS_E",
+    "weight": 0.366887864
+  },
+  {
+    "term": "contigo",
+    "category": "POS_E",
+    "weight": 0.414991505
+  },
+  {
+    "term": "dias",
+    "category": "POS_E",
+    "weight": 0.220245453
+  },
+  {
+    "term": "?",
+    "category": "POS_E",
+    "weight": -0.108034359
+  },
+  {
+    "term": "viernes",
+    "category": "POS_E",
+    "weight": 0.208109825
+  },
+  {
+    "term": "tiene",
+    "category": "POS_E",
+    "weight": -0.023358663
+  },
+  {
+    "term": "muy bien",
+    "category": "POS_E",
+    "weight": 0.04069442
+  },
+  {
+    "term": "me encanta",
+    "category": "POS_E",
+    "weight": 0.06580182
+  },
+  {
+    "term": "y me",
+    "category": "POS_E",
+    "weight": 0.098022262
+  },
+  {
+    "term": "es que",
+    "category": "POS_E",
+    "weight": -0.090572932
+  },
+  {
+    "term": "nuevo",
+    "category": "POS_E",
+    "weight": 0.263779095
+  },
+  {
+    "term": "quiero",
+    "category": "POS_E",
+    "weight": 0.529222887
+  },
+  {
+    "term": "m��s que",
+    "category": "POS_E",
+    "weight": -0.051430367
+  },
+  {
+    "term": "como",
+    "category": "POS_E",
+    "weight": 0.095799614
+  },
+  {
+    "term": "muchas",
+    "category": "POS_E",
+    "weight": 0.153028309
+  },
+  {
+    "term": "pasado",
+    "category": "POS_E",
+    "weight": 0.00902668
+  },
+  {
+    "term": ". ?",
+    "category": "POS_E",
+    "weight": 0.308841614
+  },
+  {
+    "term": "d�_a",
+    "category": "POS_E",
+    "weight": 0.253082178
+  },
+  {
+    "term": "instituto",
+    "category": "POS_E",
+    "weight": -0.143580445
+  },
+  {
+    "term": "gusta",
+    "category": "POS_E",
+    "weight": 0.01201929
+  },
+  {
+    "term": "luego",
+    "category": "POS_E",
+    "weight": -0.158638884
+  },
+  {
+    "term": "esperamos",
+    "category": "POS_E",
+    "weight": 0.189599566
+  },
+  {
+    "term": "conmigo",
+    "category": "POS_E",
+    "weight": 0.11884388
+  },
+  {
+    "term": "o",
+    "category": "POS_E",
+    "weight": -0.009878859
+  },
+  {
+    "term": "tambi̩n",
+    "category": "POS_E",
+    "weight": -0.061031658
+  },
+  {
+    "term": "hacerte",
+    "category": "POS_E",
+    "weight": 0.033698273
+  },
+  {
+    "term": "(",
+    "category": "POS_E",
+    "weight": -0.129118392
+  },
+  {
+    "term": "proyecto",
+    "category": "POS_E",
+    "weight": 0.075255074
+  },
+  {
+    "term": "? .",
+    "category": "POS_E",
+    "weight": -0.219022191
+  },
+  {
+    "term": ". http://t.co",
+    "category": "POS_E",
+    "weight": 0.138645367
+  },
+  {
+    "term": "de que",
+    "category": "POS_E",
+    "weight": 0.00637801
+  },
+  {
+    "term": "que no",
+    "category": "POS_E",
+    "weight": 0.005144997
+  },
+  {
+    "term": "con",
+    "category": "POS_E",
+    "weight": 0.032217039
+  },
+  {
+    "term": "gracias por",
+    "category": "POS_E",
+    "weight": 0.219787458
+  },
+  {
+    "term": "mucha",
+    "category": "POS_E",
+    "weight": 0.008452454
+  },
+  {
+    "term": "en la",
+    "category": "POS_E",
+    "weight": -0.106683497
+  },
+  {
+    "term": "otro",
+    "category": "POS_E",
+    "weight": -0.066870439
+  },
+  {
+    "term": "est��",
+    "category": "POS_E",
+    "weight": 0.092052546
+  },
+  {
+    "term": "no tengo",
+    "category": "POS_E",
+    "weight": -0.139024507
+  },
+  {
+    "term": "este",
+    "category": "POS_E",
+    "weight": 0.121557776
+  },
+  {
+    "term": "! <newline>",
+    "category": "POS_E",
+    "weight": -0.111290524
+  },
+  {
+    "term": "cuando",
+    "category": "POS_E",
+    "weight": -0.096507424
+  },
+  {
+    "term": "xd",
+    "category": "POS_E",
+    "weight": -0.174195163
+  },
+  {
+    "term": "son",
+    "category": "POS_E",
+    "weight": 0.299942698
+  },
+  {
+    "term": "a por",
+    "category": "POS_E",
+    "weight": 0.340332075
+  },
+  {
+    "term": "enhorabuena",
+    "category": "POS_E",
+    "weight": 0.078784402
+  },
+  {
+    "term": "wilde",
+    "category": "POS_E",
+    "weight": 0.001689035
+  },
+  {
+    "term": "#l̩ricasegundoaniversario",
+    "category": "POS_E",
+    "weight": 1.77064594
+  },
+  {
+    "term": "a ser",
+    "category": "POS_E",
+    "weight": 0.130841929
+  },
+  {
+    "term": "hablar",
+    "category": "POS_E",
+    "weight": -0.072545396
+  },
+  {
+    "term": "tonto",
+    "category": "POS_E",
+    "weight": -0.201997359
+  },
+  {
+    "term": "el domingo",
+    "category": "POS_E",
+    "weight": 0.289105272
+  },
+  {
+    "term": "ver a",
+    "category": "POS_E",
+    "weight": 0.268812079
+  },
+  {
+    "term": "tope",
+    "category": "POS_E",
+    "weight": 0.268995345
+  },
+  {
+    "term": "una persona",
+    "category": "POS_E",
+    "weight": 0.105753841
+  },
+  {
+    "term": "��",
+    "category": "POS_E",
+    "weight": 0.045465172
+  },
+  {
+    "term": "has",
+    "category": "POS_E",
+    "weight": -0.081098113
+  },
+  {
+    "term": "y no",
+    "category": "POS_E",
+    "weight": -0.255483033
+  },
+  {
+    "term": "que estoy",
+    "category": "POS_E",
+    "weight": 0.552509794
+  },
+  {
+    "term": "fiestas",
+    "category": "POS_E",
+    "weight": 0.053955674
+  },
+  {
+    "term": "bonito",
+    "category": "POS_E",
+    "weight": 0.525421119
+  },
+  {
+    "term": "pero",
+    "category": "POS_E",
+    "weight": -0.031023234
+  },
+  {
+    "term": "abrazo",
+    "category": "POS_E",
+    "weight": 0.292523636
+  },
+  {
+    "term": ".",
+    "category": "POS_E",
+    "weight": 0.029531446
+  },
+  {
+    "term": "pa",
+    "category": "POS_E",
+    "weight": -0.004872041
+  },
+  {
+    "term": "todas",
+    "category": "POS_E",
+    "weight": 0.08171575
+  },
+  {
+    "term": "hasta",
+    "category": "POS_E",
+    "weight": 0.076631895
+  },
+  {
+    "term": "tenemos",
+    "category": "POS_E",
+    "weight": 0.148163163
+  },
+  {
+    "term": "puta",
+    "category": "POS_E",
+    "weight": -0.41869256
+  },
+  {
+    "term": "la vida",
+    "category": "POS_E",
+    "weight": 0.260951828
+  },
+  {
+    "term": "poder",
+    "category": "POS_E",
+    "weight": 0.2141765
+  },
+  {
+    "term": "trabajo",
+    "category": "POS_E",
+    "weight": 0.015428728
+  },
+  {
+    "term": "encanta",
+    "category": "POS_E",
+    "weight": 0.541485363
+  },
+  {
+    "term": "para mi",
+    "category": "POS_E",
+    "weight": 0.459817088
+  },
+  {
+    "term": "m��s",
+    "category": "POS_E",
+    "weight": 0.097769234
+  },
+  {
+    "term": "te quiero",
+    "category": "POS_E",
+    "weight": 0.565209137
+  },
+  {
+    "term": "muchas gracias",
+    "category": "POS_E",
+    "weight": 0.168128893
+  },
+  {
+    "term": "una hora",
+    "category": "POS_E",
+    "weight": 0.174615612
+  },
+  {
+    "term": "para",
+    "category": "POS_E",
+    "weight": 0.144683922
+  },
+  {
+    "term": "es de",
+    "category": "POS_E",
+    "weight": -0.035581795
+  },
+  {
+    "term": "te lo",
+    "category": "POS_E",
+    "weight": -0.029830232
+  },
+  {
+    "term": "momento",
+    "category": "POS_E",
+    "weight": 0.201804171
+  },
+  {
+    "term": "��_ https://t.co",
+    "category": "POS_E",
+    "weight": 0.557192229
+  },
+  {
+    "term": "espero",
+    "category": "POS_E",
+    "weight": 0.09667984
+  },
+  {
+    "term": "digo",
+    "category": "POS_E",
+    "weight": -0.397211816
+  },
+  {
+    "term": "familia",
+    "category": "POS_E",
+    "weight": 0.079357073
+  },
+  {
+    "term": "cuanto",
+    "category": "POS_E",
+    "weight": 0.255426345
+  },
+  {
+    "term": "^",
+    "category": "POS_E",
+    "weight": 0.263938545
+  },
+  {
+    "term": "gracias",
+    "category": "POS_E",
+    "weight": 0.354385028
+  },
+  {
+    "term": "casa",
+    "category": "POS_E",
+    "weight": -0.116561322
+  },
+  {
+    "term": "_intercept",
+    "category": "POS_E",
+    "weight": 2.055179283
+  },
+  {
+    "term": "de un",
+    "category": "POS_E",
+    "weight": 0.025777447
+  },
+  {
+    "term": "paro baja",
+    "category": "POS_E",
+    "weight": 1.076490344
+  },
+  {
+    "term": "mi",
+    "category": "POS_E",
+    "weight": 0.206315392
+  },
+  {
+    "term": ", no",
+    "category": "POS_E",
+    "weight": -0.050081819
+  },
+  {
+    "term": "fue",
+    "category": "POS_E",
+    "weight": 0.061245051
+  },
+  {
+    "term": "del",
+    "category": "POS_E",
+    "weight": -0.034248427
+  },
+  {
+    "term": "que nos",
+    "category": "POS_E",
+    "weight": 0.001910118
+  },
+  {
+    "term": "pero que",
+    "category": "POS_E",
+    "weight": -0.007176841
+  },
+  {
+    "term": "es lo",
+    "category": "POS_E",
+    "weight": 0.042943237
+  },
+  {
+    "term": "necesito",
+    "category": "POS_E",
+    "weight": 0.253422703
+  },
+  {
+    "term": "va",
+    "category": "POS_E",
+    "weight": 0.042005536
+  },
+  {
+    "term": "? ?",
+    "category": "POS_E",
+    "weight": 0.145274813
+  },
+  {
+    "term": "esta",
+    "category": "POS_E",
+    "weight": 0.121713514
+  },
+  {
+    "term": "a mi",
+    "category": "POS_E",
+    "weight": -0.150662656
+  },
+  {
+    "term": "feliz",
+    "category": "POS_E",
+    "weight": 0.571708096
+  },
+  {
+    "term": "voy a",
+    "category": "POS_E",
+    "weight": 0.145860518
+  },
+  {
+    "term": "al",
+    "category": "POS_E",
+    "weight": -0.007659959
+  },
+  {
+    "term": ", a",
+    "category": "POS_E",
+    "weight": 0.074202408
+  },
+  {
+    "term": ". <newline>",
+    "category": "POS_E",
+    "weight": 0.114853083
+  },
+  {
+    "term": "tengo",
+    "category": "POS_E",
+    "weight": 0.23073992
+  },
+  {
+    "term": "mejor",
+    "category": "POS_E",
+    "weight": 0.528406991
+  },
+  {
+    "term": "pelo",
+    "category": "POS_E",
+    "weight": -0.190791679
+  },
+  {
+    "term": "tal",
+    "category": "POS_E",
+    "weight": -0.042714452
+  },
+  {
+    "term": "un abrazo",
+    "category": "POS_E",
+    "weight": 0.388697549
+  },
+  {
+    "term": "tan",
+    "category": "POS_E",
+    "weight": 0.192184403
+  },
+  {
+    "term": "importa",
+    "category": "POS_E",
+    "weight": 0.279114109
+  },
+  {
+    "term": "de los",
+    "category": "POS_E",
+    "weight": 0.041445488
+  },
+  {
+    "term": "!",
+    "category": "POS_E",
+    "weight": 0.541364075
+  },
+  {
+    "term": "tarde",
+    "category": "POS_E",
+    "weight": 0.569127441
+  },
+  {
+    "term": "enserio",
+    "category": "POS_E",
+    "weight": -0.0442809
+  },
+  {
+    "term": "amo",
+    "category": "POS_E",
+    "weight": 0.652497078
+  },
+  {
+    "term": "mio",
+    "category": "POS_E",
+    "weight": -0.256568771
+  },
+  {
+    "term": "no",
+    "category": "POS_E",
+    "weight": -0.277814022
+  },
+  {
+    "term": ")",
+    "category": "POS_E",
+    "weight": -0.035523894
+  },
+  {
+    "term": "que yo",
+    "category": "POS_E",
+    "weight": -0.133998326
+  },
+  {
+    "term": "-",
+    "category": "POS_E",
+    "weight": -0.041422479
+  },
+  {
+    "term": "los d�_as",
+    "category": "POS_E",
+    "weight": 0.128605904
+  },
+  {
+    "term": ". '",
+    "category": "POS_E",
+    "weight": 0.285878171
+  },
+  {
+    "term": ":d",
+    "category": "POS_E",
+    "weight": 0.006719631
+  },
+  {
+    "term": "hecho",
+    "category": "POS_E",
+    "weight": 0.022678289
+  },
+  {
+    "term": "cual",
+    "category": "POS_E",
+    "weight": -0.025856166
+  },
+  {
+    "term": "\\ '",
+    "category": "POS_E",
+    "weight": 0.011035831
+  },
+  {
+    "term": "mis",
+    "category": "POS_E",
+    "weight": 0.069655017
+  },
+  {
+    "term": "sin",
+    "category": "POS_E",
+    "weight": -0.043848372
+  },
+  {
+    "term": "todos",
+    "category": "POS_E",
+    "weight": 0.036511912
+  },
+  {
+    "term": "hoy",
+    "category": "POS_E",
+    "weight": 0.088471187
+  },
+  {
+    "term": "2 a̱os",
+    "category": "POS_E",
+    "weight": 0.020263411
+  },
+  {
+    "term": "mas",
+    "category": "POS_E",
+    "weight": 0.104827472
+  },
+  {
+    "term": "toca",
+    "category": "POS_E",
+    "weight": 0.033483246
+  },
+  {
+    "term": "noche",
+    "category": "POS_E",
+    "weight": 0.206747836
+  },
+  {
+    "term": ", que",
+    "category": "POS_E",
+    "weight": 0.090491556
+  },
+  {
+    "term": "ni",
+    "category": "POS_E",
+    "weight": -0.120503408
+  },
+  {
+    "term": "el pelo",
+    "category": "POS_E",
+    "weight": -0.080504336
+  },
+  {
+    "term": "mierda",
+    "category": "POS_E",
+    "weight": -0.389109938
+  },
+  {
+    "term": "@davidauryn",
+    "category": "POS_E",
+    "weight": 0.570284327
+  },
+  {
+    "term": "sube un",
+    "category": "POS_E",
+    "weight": -2.05e-14
+  },
+  {
+    "term": "vuelve",
+    "category": "POS_E",
+    "weight": 0.183837459
+  },
+  {
+    "term": "la gente",
+    "category": "POS_E",
+    "weight": -0.118853124
+  },
+  {
+    "term": "que he",
+    "category": "POS_E",
+    "weight": 0.018959434
+  },
+  {
+    "term": "de verdad",
+    "category": "POS_E",
+    "weight": 0.092957384
+  },
+  {
+    "term": "a̱o",
+    "category": "POS_E",
+    "weight": 0.585757405
+  },
+  {
+    "term": "a las",
+    "category": "POS_E",
+    "weight": 0.026470769
+  },
+  {
+    "term": "mal",
+    "category": "POS_E",
+    "weight": -0.028690196
+  },
+  {
+    "term": "las",
+    "category": "POS_E",
+    "weight": 0.003900507
+  },
+  {
+    "term": "a",
+    "category": "POS_E",
+    "weight": 0.037788935
+  },
+  {
+    "term": "domingo",
+    "category": "POS_E",
+    "weight": 0.395531518
+  },
+  {
+    "term": "padre",
+    "category": "POS_E",
+    "weight": -0.013496329
+  },
+  {
+    "term": ". es",
+    "category": "POS_E",
+    "weight": -0.231929364
+  },
+  {
+    "term": "en tu",
+    "category": "POS_E",
+    "weight": -0.140618495
+  },
+  {
+    "term": "! !",
+    "category": "POS_E",
+    "weight": 0.200548267
+  },
+  {
+    "term": "! ��_",
+    "category": "POS_E",
+    "weight": -0.022618865
+  },
+  {
+    "term": "dicho",
+    "category": "POS_E",
+    "weight": -0.259735472
+  },
+  {
+    "term": "q",
+    "category": "POS_E",
+    "weight": 0.008611766
+  },
+  {
+    "term": "primera",
+    "category": "POS_E",
+    "weight": 0.490342574
+  },
+  {
+    "term": "si",
+    "category": "POS_E",
+    "weight": 0.029748621
+  },
+  {
+    "term": "orgullosa",
+    "category": "POS_E",
+    "weight": 0.229109075
+  },
+  {
+    "term": "@el_intermedio",
+    "category": "POS_E",
+    "weight": -0.083821701
+  },
+  {
+    "term": "grande",
+    "category": "POS_E",
+    "weight": 0.019787875
+  },
+  {
+    "term": "noches",
+    "category": "POS_E",
+    "weight": 0.125192905
+  },
+  {
+    "term": "se",
+    "category": "POS_E",
+    "weight": -0.092777395
+  },
+  {
+    "term": "tarde de",
+    "category": "POS_E",
+    "weight": 0.483072914
+  },
+  {
+    "term": "verdad",
+    "category": "POS_M",
+    "weight": 0.044789809
+  },
+  {
+    "term": "̩l",
+    "category": "POS_M",
+    "weight": 0.10053439
+  },
+  {
+    "term": "quiero",
+    "category": "POS_M",
+    "weight": 0.594259784
+  },
+  {
+    "term": "la",
+    "category": "POS_M",
+    "weight": 0.009325992
+  },
+  {
+    "term": "el mundo",
+    "category": "POS_M",
+    "weight": 0.218977006
+  },
+  {
+    "term": "(",
+    "category": "POS_M",
+    "weight": -0.109003496
+  },
+  {
+    "term": "vida",
+    "category": "POS_M",
+    "weight": 0.687263731
+  },
+  {
+    "term": ",",
+    "category": "POS_M",
+    "weight": 0.06456643
+  },
+  {
+    "term": "#l̩ricasegundoaniversario",
+    "category": "POS_M",
+    "weight": 0.651282733
+  },
+  {
+    "term": "personas",
+    "category": "POS_M",
+    "weight": 0.005503111
+  },
+  {
+    "term": "te",
+    "category": "POS_M",
+    "weight": 0.199062928
+  },
+  {
+    "term": "de",
+    "category": "POS_M",
+    "weight": 0.001284685
+  },
+  {
+    "term": "tanto",
+    "category": "POS_M",
+    "weight": 0.221664831
+  },
+  {
+    "term": "ganas",
+    "category": "POS_M",
+    "weight": 0.130255289
+  },
+  {
+    "term": "desde",
+    "category": "POS_M",
+    "weight": 0.036467663
+  },
+  {
+    "term": "?",
+    "category": "POS_M",
+    "weight": -0.057636705
+  },
+  {
+    "term": "en",
+    "category": "POS_M",
+    "weight": -0.104328096
+  },
+  {
+    "term": "ser",
+    "category": "POS_M",
+    "weight": 0.184599116
+  },
+  {
+    "term": "mi",
+    "category": "POS_M",
+    "weight": 0.21299426
+  },
+  {
+    "term": "todo",
+    "category": "POS_M",
+    "weight": 0.1189993
+  },
+  {
+    "term": "es",
+    "category": "POS_M",
+    "weight": 0.048130106
+  },
+  {
+    "term": "nunca",
+    "category": "POS_M",
+    "weight": 0.461036167
+  },
+  {
+    "term": "/",
+    "category": "POS_M",
+    "weight": 0.073330369
+  },
+  {
+    "term": "bien",
+    "category": "POS_M",
+    "weight": 0.077496056
+  },
+  {
+    "term": "estar",
+    "category": "POS_M",
+    "weight": 0.272247431
+  },
+  {
+    "term": "@lericamusic",
+    "category": "POS_M",
+    "weight": 4.98e-15
+  },
+  {
+    "term": "eso",
+    "category": "POS_M",
+    "weight": -0.042405472
+  },
+  {
+    "term": "contigo",
+    "category": "POS_M",
+    "weight": 0.399685172
+  },
+  {
+    "term": "alguien",
+    "category": "POS_M",
+    "weight": 0.07608912
+  },
+  {
+    "term": "tus",
+    "category": "POS_M",
+    "weight": 0.218195373
+  },
+  {
+    "term": "le",
+    "category": "POS_M",
+    "weight": -0.15839535
+  },
+  {
+    "term": "que",
+    "category": "POS_M",
+    "weight": 0.05820137
+  },
+  {
+    "term": "no me",
+    "category": "POS_M",
+    "weight": -0.082690608
+  },
+  {
+    "term": "d�_a",
+    "category": "POS_M",
+    "weight": 0.027882016
+  },
+  {
+    "term": "veces",
+    "category": "POS_M",
+    "weight": 0.263540575
+  },
+  {
+    "term": "o",
+    "category": "POS_M",
+    "weight": -0.11830807
+  },
+  {
+    "term": "una",
+    "category": "POS_M",
+    "weight": 0.000375731
+  },
+  {
+    "term": "quien",
+    "category": "POS_M",
+    "weight": 0.006498023
+  },
+  {
+    "term": "que no",
+    "category": "POS_M",
+    "weight": 0.023125567
+  },
+  {
+    "term": "con",
+    "category": "POS_M",
+    "weight": -0.006689833
+  },
+  {
+    "term": "en la",
+    "category": "POS_M",
+    "weight": 0.003648032
+  },
+  {
+    "term": ", y",
+    "category": "POS_M",
+    "weight": 0.078091334
+  },
+  {
+    "term": "xd",
+    "category": "POS_M",
+    "weight": -0.154124724
+  },
+  {
+    "term": "son",
+    "category": "POS_M",
+    "weight": 0.069203661
+  },
+  {
+    "term": "cada",
+    "category": "POS_M",
+    "weight": 0.114395846
+  },
+  {
+    "term": "siempre",
+    "category": "POS_M",
+    "weight": 0.034731377
+  },
+  {
+    "term": "bonito",
+    "category": "POS_M",
+    "weight": 0.197132877
+  },
+  {
+    "term": ".",
+    "category": "POS_M",
+    "weight": 0.171345166
+  },
+  {
+    "term": ":",
+    "category": "POS_M",
+    "weight": -0.024590111
+  },
+  {
+    "term": "trabajo",
+    "category": "POS_M",
+    "weight": 0.14815093
+  },
+  {
+    "term": "m��s",
+    "category": "POS_M",
+    "weight": 0.15246085
+  },
+  {
+    "term": "te quiero",
+    "category": "POS_M",
+    "weight": 0.126272918
+  },
+  {
+    "term": "ti",
+    "category": "POS_M",
+    "weight": 0.23246587
+  },
+  {
+    "term": "orgullosa",
+    "category": "POS_M",
+    "weight": 0.434557364
+  },
+  {
+    "term": "vuestro",
+    "category": "POS_M",
+    "weight": 0.034242637
+  },
+  {
+    "term": "he",
+    "category": "POS_M",
+    "weight": 0.001144379
+  },
+  {
+    "term": "me",
+    "category": "POS_M",
+    "weight": 0.008964054
+  },
+  {
+    "term": "gracias",
+    "category": "POS_M",
+    "weight": 0.39338874
+  },
+  {
+    "term": "_intercept",
+    "category": "POS_M",
+    "weight": 1.738298902
+  },
+  {
+    "term": "lo que",
+    "category": "POS_M",
+    "weight": 0.193719279
+  },
+  {
+    "term": "....",
+    "category": "POS_M",
+    "weight": -0.033810372
+  },
+  {
+    "term": "un",
+    "category": "POS_M",
+    "weight": 0.009481919
+  },
+  {
+    "term": "necesito",
+    "category": "POS_M",
+    "weight": 0.155288921
+  },
+  {
+    "term": "va",
+    "category": "POS_M",
+    "weight": -0.034173351
+  },
+  {
+    "term": "genial",
+    "category": "POS_M",
+    "weight": 0.200792705
+  },
+  {
+    "term": "esta",
+    "category": "POS_M",
+    "weight": 0.172093188
+  },
+  {
+    "term": "feliz",
+    "category": "POS_M",
+    "weight": 0.143667448
+  },
+  {
+    "term": "��_ https://t.co",
+    "category": "POS_M",
+    "weight": 0.373684621
+  },
+  {
+    "term": "mundo",
+    "category": "POS_M",
+    "weight": 0.060622321
+  },
+  {
+    "term": ". <newline>",
+    "category": "POS_M",
+    "weight": 0.115019445
+  },
+  {
+    "term": "mejor",
+    "category": "POS_M",
+    "weight": 0.373895138
+  },
+  {
+    "term": "tan",
+    "category": "POS_M",
+    "weight": 0.049668407
+  },
+  {
+    "term": "!",
+    "category": "POS_M",
+    "weight": 0.263590498
+  },
+  {
+    "term": "ni",
+    "category": "POS_M",
+    "weight": -0.089509222
+  },
+  {
+    "term": "espa̱a",
+    "category": "POS_M",
+    "weight": -0.004074596
+  },
+  {
+    "term": "no",
+    "category": "POS_M",
+    "weight": -0.090348375
+  },
+  {
+    "term": "orgullosa de",
+    "category": "POS_M",
+    "weight": 0.006020886
+  },
+  {
+    "term": "todos",
+    "category": "POS_M",
+    "weight": 0.082567307
+  },
+  {
+    "term": "hoy",
+    "category": "POS_M",
+    "weight": 0.124623868
+  },
+  {
+    "term": "tiempo",
+    "category": "POS_M",
+    "weight": 0.268755789
+  },
+  {
+    "term": "persona",
+    "category": "POS_M",
+    "weight": 0.025643823
+  },
+  {
+    "term": "noche",
+    "category": "POS_M",
+    "weight": 0.014866387
+  },
+  {
+    "term": "tambien",
+    "category": "POS_M",
+    "weight": 0.033665303
+  },
+  {
+    "term": "a̱o",
+    "category": "POS_M",
+    "weight": 0.097900436
+  },
+  {
+    "term": "a",
+    "category": "POS_M",
+    "weight": 0.038512528
+  },
+  {
+    "term": "su",
+    "category": "POS_M",
+    "weight": 0.044491936
+  },
+  {
+    "term": "se",
+    "category": "POS_M",
+    "weight": -0.050816253
+  },
+  {
+    "term": ":(",
+    "category": "NEG_M",
+    "weight": 0.308581703
+  },
+  {
+    "term": ":)",
+    "category": "NEG_M",
+    "weight": -0.006535905
+  },
+  {
+    "term": "<newline>",
+    "category": "NEG_M",
+    "weight": -0.082534744
+  },
+  {
+    "term": "estoy",
+    "category": "NEG_M",
+    "weight": 0.403550958
+  },
+  {
+    "term": "verdad",
+    "category": "NEG_M",
+    "weight": 0.133188431
+  },
+  {
+    "term": "joder",
+    "category": "NEG_M",
+    "weight": 0.105487655
+  },
+  {
+    "term": "va a",
+    "category": "NEG_M",
+    "weight": 0.123421789
+  },
+  {
+    "term": "hoy no",
+    "category": "NEG_M",
+    "weight": 0.525444439
+  },
+  {
+    "term": "la",
+    "category": "NEG_M",
+    "weight": -0.013029396
+  },
+  {
+    "term": "lo",
+    "category": "NEG_M",
+    "weight": -0.06777608
+  },
+  {
+    "term": "gente",
+    "category": "NEG_M",
+    "weight": 0.164470105
+  },
+  {
+    "term": "tu",
+    "category": "NEG_M",
+    "weight": -0.105765496
+  },
+  {
+    "term": ",",
+    "category": "NEG_M",
+    "weight": -0.055018928
+  },
+  {
+    "term": "para el",
+    "category": "NEG_M",
+    "weight": -0.017797269
+  },
+  {
+    "term": "madre",
+    "category": "NEG_M",
+    "weight": 0.114912373
+  },
+  {
+    "term": "nadie",
+    "category": "NEG_M",
+    "weight": 0.20584629
+  },
+  {
+    "term": "@rubiu5",
+    "category": "NEG_M",
+    "weight": -0.015858696
+  },
+  {
+    "term": "pena",
+    "category": "NEG_M",
+    "weight": 0.023081871
+  },
+  {
+    "term": "personas",
+    "category": "NEG_M",
+    "weight": -0.02463909
+  },
+  {
+    "term": "porque",
+    "category": "NEG_M",
+    "weight": 0.019780105
+  },
+  {
+    "term": "...",
+    "category": "NEG_M",
+    "weight": 0.088756589
+  },
+  {
+    "term": "yo",
+    "category": "NEG_M",
+    "weight": -0.016736929
+  },
+  {
+    "term": "encuentro",
+    "category": "NEG_M",
+    "weight": 0.193655904
+  },
+  {
+    "term": "nada",
+    "category": "NEG_M",
+    "weight": 0.039661745
+  },
+  {
+    "term": "de",
+    "category": "NEG_M",
+    "weight": -0.031545762
+  },
+  {
+    "term": "triste",
+    "category": "NEG_M",
+    "weight": 1.074240421
+  },
+  {
+    "term": "miedo",
+    "category": "NEG_M",
+    "weight": 0.3778155
+  },
+  {
+    "term": "volver",
+    "category": "NEG_M",
+    "weight": 0.111430932
+  },
+  {
+    "term": "durante",
+    "category": "NEG_M",
+    "weight": 0.038014161
+  },
+  {
+    "term": "qu̩",
+    "category": "NEG_M",
+    "weight": 0.399463023
+  },
+  {
+    "term": "odio",
+    "category": "NEG_M",
+    "weight": 0.891744629
+  },
+  {
+    "term": "peor",
+    "category": "NEG_M",
+    "weight": 0.094433379
+  },
+  {
+    "term": "http://t.co",
+    "category": "NEG_M",
+    "weight": -0.015176119
+  },
+  {
+    "term": "cosas",
+    "category": "NEG_M",
+    "weight": 0.159109652
+  },
+  {
+    "term": "ganas",
+    "category": "NEG_M",
+    "weight": 0.073963894
+  },
+  {
+    "term": "desde",
+    "category": "NEG_M",
+    "weight": -0.074539887
+  },
+  {
+    "term": "alguien",
+    "category": "NEG_M",
+    "weight": 0.172897105
+  },
+  {
+    "term": "gran",
+    "category": "NEG_M",
+    "weight": -0.028766454
+  },
+  {
+    "term": "momento",
+    "category": "NEG_M",
+    "weight": 0.05575701
+  },
+  {
+    "term": "a ver",
+    "category": "NEG_M",
+    "weight": 0.016378005
+  },
+  {
+    "term": "el",
+    "category": "NEG_M",
+    "weight": -0.068285952
+  },
+  {
+    "term": "en",
+    "category": "NEG_M",
+    "weight": -0.047785865
+  },
+  {
+    "term": "bueno",
+    "category": "NEG_M",
+    "weight": -0.056166063
+  },
+  {
+    "term": "buena",
+    "category": "NEG_M",
+    "weight": -0.079921218
+  },
+  {
+    "term": "y lo",
+    "category": "NEG_M",
+    "weight": -0.013367004
+  },
+  {
+    "term": "toda",
+    "category": "NEG_M",
+    "weight": 0.166250001
+  },
+  {
+    "term": "todo",
+    "category": "NEG_M",
+    "weight": 0.114393147
+  },
+  {
+    "term": "es",
+    "category": "NEG_M",
+    "weight": 0.062521002
+  },
+  {
+    "term": "gilipollas",
+    "category": "NEG_M",
+    "weight": 0.361134751
+  },
+  {
+    "term": ", me",
+    "category": "NEG_M",
+    "weight": -0.092802149
+  },
+  {
+    "term": "'",
+    "category": "NEG_M",
+    "weight": 0.001097523
+  },
+  {
+    "term": "nunca",
+    "category": "NEG_M",
+    "weight": 0.221705892
+  },
+  {
+    "term": "/",
+    "category": "NEG_M",
+    "weight": -0.112439875
+  },
+  {
+    "term": "ese",
+    "category": "NEG_M",
+    "weight": -0.06518402
+  },
+  {
+    "term": "estas",
+    "category": "NEG_M",
+    "weight": 0.288866641
+  },
+  {
+    "term": "sobre",
+    "category": "NEG_M",
+    "weight": -0.012046915
+  },
+  {
+    "term": "llorar",
+    "category": "NEG_M",
+    "weight": 0.933386522
+  },
+  {
+    "term": "?",
+    "category": "NEG_M",
+    "weight": -0.130833594
+  },
+  {
+    "term": "puedo",
+    "category": "NEG_M",
+    "weight": 0.126900395
+  },
+  {
+    "term": "que",
+    "category": "NEG_M",
+    "weight": 0.064238894
+  },
+  {
+    "term": "como",
+    "category": "NEG_M",
+    "weight": -0.053343321
+  },
+  {
+    "term": ";)",
+    "category": "NEG_M",
+    "weight": -0.031588533
+  },
+  {
+    "term": "nueva",
+    "category": "NEG_M",
+    "weight": -0.02459498
+  },
+  {
+    "term": "d�_a",
+    "category": "NEG_M",
+    "weight": 0.291117258
+  },
+  {
+    "term": "veces",
+    "category": "NEG_M",
+    "weight": 0.011035392
+  },
+  {
+    "term": "luego",
+    "category": "NEG_M",
+    "weight": 0.053002914
+  },
+  {
+    "term": "no es",
+    "category": "NEG_M",
+    "weight": 0.037984166
+  },
+  {
+    "term": "quien",
+    "category": "NEG_M",
+    "weight": 0.099707814
+  },
+  {
+    "term": ", se",
+    "category": "NEG_M",
+    "weight": 0.019435882
+  },
+  {
+    "term": "con",
+    "category": "NEG_M",
+    "weight": -0.039452005
+  },
+  {
+    "term": "y no",
+    "category": "NEG_M",
+    "weight": 0.094787082
+  },
+  {
+    "term": "por",
+    "category": "NEG_M",
+    "weight": -0.012424211
+  },
+  {
+    "term": "xd",
+    "category": "NEG_M",
+    "weight": -0.062775146
+  },
+  {
+    "term": "mucho",
+    "category": "NEG_M",
+    "weight": -0.009526369
+  },
+  {
+    "term": "buenas",
+    "category": "NEG_M",
+    "weight": -0.036895948
+  },
+  {
+    "term": "de ti",
+    "category": "NEG_M",
+    "weight": 0.011362528
+  },
+  {
+    "term": "..",
+    "category": "NEG_M",
+    "weight": 0.320671415
+  },
+  {
+    "term": ".",
+    "category": "NEG_M",
+    "weight": -0.002674865
+  },
+  {
+    "term": "puta",
+    "category": "NEG_M",
+    "weight": 0.57085342
+  },
+  {
+    "term": ":",
+    "category": "NEG_M",
+    "weight": -0.089184695
+  },
+  {
+    "term": "me ha",
+    "category": "NEG_M",
+    "weight": 0.049867169
+  },
+  {
+    "term": "m��s",
+    "category": "NEG_M",
+    "weight": 0.037433422
+  },
+  {
+    "term": "te quiero",
+    "category": "NEG_M",
+    "weight": -0.089555706
+  },
+  {
+    "term": "en el",
+    "category": "NEG_M",
+    "weight": 0.097478786
+  },
+  {
+    "term": "��_ https://t.co",
+    "category": "NEG_M",
+    "weight": 0.018581687
+  },
+  {
+    "term": "asco",
+    "category": "NEG_M",
+    "weight": 0.331672264
+  },
+  {
+    "term": "gusta",
+    "category": "NEG_M",
+    "weight": -0.112763975
+  },
+  {
+    "term": "creo que",
+    "category": "NEG_M",
+    "weight": 0.020221513
+  },
+  {
+    "term": "verano",
+    "category": "NEG_M",
+    "weight": 0.116274844
+  },
+  {
+    "term": "me",
+    "category": "NEG_M",
+    "weight": 0.094205203
+  },
+  {
+    "term": "gracias",
+    "category": "NEG_M",
+    "weight": -0.122363583
+  },
+  {
+    "term": "casa",
+    "category": "NEG_M",
+    "weight": 0.006245261
+  },
+  {
+    "term": "_intercept",
+    "category": "NEG_M",
+    "weight": 1.52890284
+  },
+  {
+    "term": "mierda",
+    "category": "NEG_M",
+    "weight": 0.802214376
+  },
+  {
+    "term": "haya",
+    "category": "NEG_M",
+    "weight": 0.066572504
+  },
+  {
+    "term": "del",
+    "category": "NEG_M",
+    "weight": -0.016498358
+  },
+  {
+    "term": "cabeza",
+    "category": "NEG_M",
+    "weight": 0.231042028
+  },
+  {
+    "term": "pero que",
+    "category": "NEG_M",
+    "weight": 0.125763702
+  },
+  {
+    "term": "necesito",
+    "category": "NEG_M",
+    "weight": 0.061644097
+  },
+  {
+    "term": "este",
+    "category": "NEG_M",
+    "weight": -0.055790213
+  },
+  {
+    "term": "esta",
+    "category": "NEG_M",
+    "weight": -0.103928859
+  },
+  {
+    "term": "feliz",
+    "category": "NEG_M",
+    "weight": -0.122448655
+  },
+  {
+    "term": "al",
+    "category": "NEG_M",
+    "weight": -0.037785464
+  },
+  {
+    "term": "mundo",
+    "category": "NEG_M",
+    "weight": 0.039264062
+  },
+  {
+    "term": "me lo",
+    "category": "NEG_M",
+    "weight": -0.027783676
+  },
+  {
+    "term": "tengo",
+    "category": "NEG_M",
+    "weight": 0.135089827
+  },
+  {
+    "term": "mejor",
+    "category": "NEG_M",
+    "weight": -0.074000083
+  },
+  {
+    "term": "tan",
+    "category": "NEG_M",
+    "weight": 0.121084144
+  },
+  {
+    "term": "voy",
+    "category": "NEG_M",
+    "weight": 0.022584878
+  },
+  {
+    "term": "!",
+    "category": "NEG_M",
+    "weight": -0.185706072
+  },
+  {
+    "term": "ni",
+    "category": "NEG_M",
+    "weight": 0.087704711
+  },
+  {
+    "term": "enserio",
+    "category": "NEG_M",
+    "weight": 0.159936757
+  },
+  {
+    "term": "no",
+    "category": "NEG_M",
+    "weight": 0.124626668
+  },
+  {
+    "term": ")",
+    "category": "NEG_M",
+    "weight": -0.169157129
+  },
+  {
+    "term": "acabo",
+    "category": "NEG_M",
+    "weight": 0.105384323
+  },
+  {
+    "term": "-",
+    "category": "NEG_M",
+    "weight": -0.090353345
+  },
+  {
+    "term": "cuenta",
+    "category": "NEG_M",
+    "weight": 0.08022885
+  },
+  {
+    "term": "de la",
+    "category": "NEG_M",
+    "weight": -0.026779403
+  },
+  {
+    "term": "todos",
+    "category": "NEG_M",
+    "weight": -0.07316413
+  },
+  {
+    "term": "la que",
+    "category": "NEG_M",
+    "weight": 0.087144093
+  },
+  {
+    "term": "mas",
+    "category": "NEG_M",
+    "weight": -0.040319846
+  },
+  {
+    "term": ", que",
+    "category": "NEG_M",
+    "weight": 0.02060135
+  },
+  {
+    "term": "jajaja",
+    "category": "NEG_M",
+    "weight": -0.200857993
+  },
+  {
+    "term": "a las",
+    "category": "NEG_M",
+    "weight": -0.008731927
+  },
+  {
+    "term": "mal",
+    "category": "NEG_M",
+    "weight": 0.250425651
+  },
+  {
+    "term": "las",
+    "category": "NEG_M",
+    "weight": -0.028530162
+  },
+  {
+    "term": "a",
+    "category": "NEG_M",
+    "weight": -0.007188682
+  },
+  {
+    "term": "mente",
+    "category": "NEG_M",
+    "weight": 0.12525515
+  },
+  {
+    "term": "su",
+    "category": "NEG_M",
+    "weight": -0.095616426
+  },
+  {
+    "term": "si",
+    "category": "NEG_M",
+    "weight": -0.005306254
+  },
+  {
+    "term": "doy",
+    "category": "NEG_M",
+    "weight": 0.018628488
+  },
+  {
+    "term": "vaya",
+    "category": "NEG_M",
+    "weight": 0.357466562
+  },
+  {
+    "term": "y",
+    "category": "NEG_M",
+    "weight": -0.026057418
+  },
+  {
+    "term": "se",
+    "category": "NEG_M",
+    "weight": 0.005991882
+  },
+  {
+    "term": ", es",
+    "category": "NEG_R",
+    "weight": -0.214130204
+  },
+  {
+    "term": "que yo",
+    "category": "NEG_R",
+    "weight": 0.093250717
+  },
+  {
+    "term": ":(",
+    "category": "NEG_R",
+    "weight": 0.368588795
+  },
+  {
+    "term": "<newline>",
+    "category": "NEG_R",
+    "weight": -0.017533911
+  },
+  {
+    "term": "tener",
+    "category": "NEG_R",
+    "weight": -0.069911402
+  },
+  {
+    "term": "dios",
+    "category": "NEG_R",
+    "weight": 0.160805998
+  },
+  {
+    "term": "estoy",
+    "category": "NEG_R",
+    "weight": 0.318770244
+  },
+  {
+    "term": "gana",
+    "category": "NEG_R",
+    "weight": 0.057576909
+  },
+  {
+    "term": "verdad",
+    "category": "NEG_R",
+    "weight": 0.233726555
+  },
+  {
+    "term": "no ?",
+    "category": "NEG_R",
+    "weight": -0.061377762
+  },
+  {
+    "term": "hace",
+    "category": "NEG_R",
+    "weight": -0.149188298
+  },
+  {
+    "term": "para el",
+    "category": "NEG_R",
+    "weight": -0.148064903
+  },
+  {
+    "term": "va a",
+    "category": "NEG_R",
+    "weight": 0.0954302
+  },
+  {
+    "term": "le",
+    "category": "NEG_R",
+    "weight": 0.018382554
+  },
+  {
+    "term": "ver",
+    "category": "NEG_R",
+    "weight": -0.037277347
+  },
+  {
+    "term": "dice",
+    "category": "NEG_R",
+    "weight": -0.05096957
+  },
+  {
+    "term": "el mundo",
+    "category": "NEG_R",
+    "weight": 0.014636515
+  },
+  {
+    "term": "lo",
+    "category": "NEG_R",
+    "weight": -0.115257125
+  },
+  {
+    "term": "gente",
+    "category": "NEG_R",
+    "weight": 0.333608984
+  },
+  {
+    "term": "tu",
+    "category": "NEG_R",
+    "weight": 0.000829048
+  },
+  {
+    "term": ",",
+    "category": "NEG_R",
+    "weight": -0.029931411
+  },
+  {
+    "term": "otra",
+    "category": "NEG_R",
+    "weight": 0.006361217
+  },
+  {
+    "term": "hay",
+    "category": "NEG_R",
+    "weight": 0.081677106
+  },
+  {
+    "term": "nadie",
+    "category": "NEG_R",
+    "weight": 0.32187518
+  },
+  {
+    "term": "@rubiu5",
+    "category": "NEG_R",
+    "weight": -0.256624585
+  },
+  {
+    "term": "no se",
+    "category": "NEG_R",
+    "weight": -0.297117489
+  },
+  {
+    "term": "te",
+    "category": "NEG_R",
+    "weight": 0.020853359
+  },
+  {
+    "term": "libro",
+    "category": "NEG_R",
+    "weight": -0.037144532
+  },
+  {
+    "term": "porque",
+    "category": "NEG_R",
+    "weight": 0.024962601
+  },
+  {
+    "term": "...",
+    "category": "NEG_R",
+    "weight": 0.107631756
+  },
+  {
+    "term": "quitado",
+    "category": "NEG_R",
+    "weight": 0.019587319
+  },
+  {
+    "term": "estaba",
+    "category": "NEG_R",
+    "weight": -0.113562647
+  },
+  {
+    "term": "amo",
+    "category": "NEG_R",
+    "weight": -0.182390008
+  },
+  {
+    "term": "nada",
+    "category": "NEG_R",
+    "weight": 0.16327671
+  },
+  {
+    "term": "de",
+    "category": "NEG_R",
+    "weight": -0.033664427
+  },
+  {
+    "term": "triste",
+    "category": "NEG_R",
+    "weight": 1.957253639
+  },
+  {
+    "term": "miedo",
+    "category": "NEG_R",
+    "weight": 0.024210416
+  },
+  {
+    "term": "durante",
+    "category": "NEG_R",
+    "weight": 0.249269898
+  },
+  {
+    "term": "dar",
+    "category": "NEG_R",
+    "weight": 0.058833241
+  },
+  {
+    "term": "tanto",
+    "category": "NEG_R",
+    "weight": 0.08247249
+  },
+  {
+    "term": "qu̩",
+    "category": "NEG_R",
+    "weight": 0.004729826
+  },
+  {
+    "term": "odio",
+    "category": "NEG_R",
+    "weight": 1.26240954
+  },
+  {
+    "term": "que hay",
+    "category": "NEG_R",
+    "weight": 0.013068106
+  },
+  {
+    "term": "ma̱ana",
+    "category": "NEG_R",
+    "weight": -0.115898675
+  },
+  {
+    "term": "peor",
+    "category": "NEG_R",
+    "weight": 0.388953756
+  },
+  {
+    "term": "gente que",
+    "category": "NEG_R",
+    "weight": 0.06289237
+  },
+  {
+    "term": "cosas",
+    "category": "NEG_R",
+    "weight": 0.02568953
+  },
+  {
+    "term": "una de",
+    "category": "NEG_R",
+    "weight": -0.085673033
+  },
+  {
+    "term": "desde",
+    "category": "NEG_R",
+    "weight": -0.046707029
+  },
+  {
+    "term": "en serio",
+    "category": "NEG_R",
+    "weight": 0.001517518
+  },
+  {
+    "term": "yo no",
+    "category": "NEG_R",
+    "weight": 0.158240555
+  },
+  {
+    "term": ". http://t.co",
+    "category": "NEG_R",
+    "weight": -0.062297651
+  },
+  {
+    "term": "el",
+    "category": "NEG_R",
+    "weight": -0.040025426
+  },
+  {
+    "term": "y la",
+    "category": "NEG_R",
+    "weight": 0.042256637
+  },
+  {
+    "term": "en",
+    "category": "NEG_R",
+    "weight": -0.053662746
+  },
+  {
+    "term": "bueno",
+    "category": "NEG_R",
+    "weight": -0.280408057
+  },
+  {
+    "term": "ser",
+    "category": "NEG_R",
+    "weight": 0.039640187
+  },
+  {
+    "term": "esos",
+    "category": "NEG_R",
+    "weight": -0.141272676
+  },
+  {
+    "term": "mierda",
+    "category": "NEG_R",
+    "weight": 0.931633373
+  },
+  {
+    "term": "boca",
+    "category": "NEG_R",
+    "weight": 0.110497412
+  },
+  {
+    "term": "toda",
+    "category": "NEG_R",
+    "weight": 0.126729081
+  },
+  {
+    "term": "video",
+    "category": "NEG_R",
+    "weight": -0.002936592
+  },
+  {
+    "term": "sea",
+    "category": "NEG_R",
+    "weight": -0.109718692
+  },
+  {
+    "term": "relaci�_n",
+    "category": "NEG_R",
+    "weight": 0.010654582
+  },
+  {
+    "term": "creo que",
+    "category": "NEG_R",
+    "weight": 0.072466795
+  },
+  {
+    "term": "es",
+    "category": "NEG_R",
+    "weight": 0.031335871
+  },
+  {
+    "term": "gilipollas",
+    "category": "NEG_R",
+    "weight": 0.315205784
+  },
+  {
+    "term": "pues",
+    "category": "NEG_R",
+    "weight": -0.1410431
+  },
+  {
+    "term": "nunca",
+    "category": "NEG_R",
+    "weight": 0.169601013
+  },
+  {
+    "term": "agosto",
+    "category": "NEG_R",
+    "weight": 0.034186586
+  },
+  {
+    "term": "muy",
+    "category": "NEG_R",
+    "weight": 0.031583348
+  },
+  {
+    "term": "/",
+    "category": "NEG_R",
+    "weight": -0.200779269
+  },
+  {
+    "term": "bien",
+    "category": "NEG_R",
+    "weight": -0.193200488
+  },
+  {
+    "term": "un",
+    "category": "NEG_R",
+    "weight": 0.136375435
+  },
+  {
+    "term": "estas",
+    "category": "NEG_R",
+    "weight": 0.346026829
+  },
+  {
+    "term": "@lericamusic",
+    "category": "NEG_R",
+    "weight": -8.36e-15
+  },
+  {
+    "term": "llorar",
+    "category": "NEG_R",
+    "weight": 1.233001854
+  },
+  {
+    "term": ", porque",
+    "category": "NEG_R",
+    "weight": 0.168259076
+  },
+  {
+    "term": "todo el",
+    "category": "NEG_R",
+    "weight": 0.0071626
+  },
+  {
+    "term": "?",
+    "category": "NEG_R",
+    "weight": -0.128263568
+  },
+  {
+    "term": "es que",
+    "category": "NEG_R",
+    "weight": 0.135092485
+  },
+  {
+    "term": "solo",
+    "category": "NEG_R",
+    "weight": 0.016350096
+  },
+  {
+    "term": "vete",
+    "category": "NEG_R",
+    "weight": 0.602791862
+  },
+  {
+    "term": "y me",
+    "category": "NEG_R",
+    "weight": 0.280065031
+  },
+  {
+    "term": "a tu",
+    "category": "NEG_R",
+    "weight": 0.22032268
+  },
+  {
+    "term": "tienen",
+    "category": "NEG_R",
+    "weight": 0.143188806
+  },
+  {
+    "term": "les",
+    "category": "NEG_R",
+    "weight": 0.205109783
+  },
+  {
+    "term": "que",
+    "category": "NEG_R",
+    "weight": 0.111608846
+  },
+  {
+    "term": "como",
+    "category": "NEG_R",
+    "weight": 0.032913519
+  },
+  {
+    "term": ";)",
+    "category": "NEG_R",
+    "weight": -0.106196995
+  },
+  {
+    "term": "verg�_enza",
+    "category": "NEG_R",
+    "weight": 0.775447119
+  },
+  {
+    "term": "nueva",
+    "category": "NEG_R",
+    "weight": -0.002618361
+  },
+  {
+    "term": "no puedo",
+    "category": "NEG_R",
+    "weight": 0.089072253
+  },
+  {
+    "term": "d�_a",
+    "category": "NEG_R",
+    "weight": 0.030826829
+  },
+  {
+    "term": "gusta",
+    "category": "NEG_R",
+    "weight": -0.202077427
+  },
+  {
+    "term": "y el",
+    "category": "NEG_R",
+    "weight": 0.031439509
+  },
+  {
+    "term": "luego",
+    "category": "NEG_R",
+    "weight": 0.304289596
+  },
+  {
+    "term": "? ?",
+    "category": "NEG_R",
+    "weight": -0.007452973
+  },
+  {
+    "term": "ahora",
+    "category": "NEG_R",
+    "weight": -0.03658421
+  },
+  {
+    "term": "y que",
+    "category": "NEG_R",
+    "weight": -0.076016513
+  },
+  {
+    "term": "una",
+    "category": "NEG_R",
+    "weight": 0.035420733
+  },
+  {
+    "term": "no hay",
+    "category": "NEG_R",
+    "weight": -0.162616392
+  },
+  {
+    "term": "quien",
+    "category": "NEG_R",
+    "weight": 0.258311679
+  },
+  {
+    "term": "tonter�_as",
+    "category": "NEG_R",
+    "weight": 0.241924582
+  },
+  {
+    "term": "mala",
+    "category": "NEG_R",
+    "weight": 0.42008931
+  },
+  {
+    "term": "de que",
+    "category": "NEG_R",
+    "weight": 0.031737219
+  },
+  {
+    "term": "opus",
+    "category": "NEG_R",
+    "weight": 0.269981256
+  },
+  {
+    "term": "uno",
+    "category": "NEG_R",
+    "weight": -0.006634492
+  },
+  {
+    "term": "que los",
+    "category": "NEG_R",
+    "weight": 0.115230809
+  },
+  {
+    "term": "hubiera",
+    "category": "NEG_R",
+    "weight": 0.076289156
+  },
+  {
+    "term": "est��",
+    "category": "NEG_R",
+    "weight": 0.077289244
+  },
+  {
+    "term": "sois",
+    "category": "NEG_R",
+    "weight": 0.223541549
+  },
+  {
+    "term": "baj�_n",
+    "category": "NEG_R",
+    "weight": 0.192845807
+  },
+  {
+    "term": "por",
+    "category": "NEG_R",
+    "weight": 0.066217054
+  },
+  {
+    "term": "paro sube",
+    "category": "NEG_R",
+    "weight": 0.193912618
+  },
+  {
+    "term": "xd",
+    "category": "NEG_R",
+    "weight": -0.150058621
+  },
+  {
+    "term": "son",
+    "category": "NEG_R",
+    "weight": 0.014369601
+  },
+  {
+    "term": "me gusta",
+    "category": "NEG_R",
+    "weight": -0.015273782
+  },
+  {
+    "term": "#l̩ricasegundoaniversario",
+    "category": "NEG_R",
+    "weight": -0.281306905
+  },
+  {
+    "term": "de las",
+    "category": "NEG_R",
+    "weight": -0.042721735
+  },
+  {
+    "term": "buenas",
+    "category": "NEG_R",
+    "weight": -0.195063365
+  },
+  {
+    "term": "tonto",
+    "category": "NEG_R",
+    "weight": 0.641596877
+  },
+  {
+    "term": "asi",
+    "category": "NEG_R",
+    "weight": 0.110320314
+  },
+  {
+    "term": "eh",
+    "category": "NEG_R",
+    "weight": 0.144020597
+  },
+  {
+    "term": "tiene",
+    "category": "NEG_R",
+    "weight": -0.018866748
+  },
+  {
+    "term": "y no",
+    "category": "NEG_R",
+    "weight": 0.518026029
+  },
+  {
+    "term": "guarra",
+    "category": "NEG_R",
+    "weight": 0.114583773
+  },
+  {
+    "term": "..",
+    "category": "NEG_R",
+    "weight": 0.117755375
+  },
+  {
+    "term": "contra",
+    "category": "NEG_R",
+    "weight": 0.160333718
+  },
+  {
+    "term": "siento",
+    "category": "NEG_R",
+    "weight": 0.207553269
+  },
+  {
+    "term": "en la",
+    "category": "NEG_R",
+    "weight": 0.036182866
+  },
+  {
+    "term": "pero",
+    "category": "NEG_R",
+    "weight": 0.090362783
+  },
+  {
+    "term": "abrazo",
+    "category": "NEG_R",
+    "weight": -0.076220353
+  },
+  {
+    "term": ".",
+    "category": "NEG_R",
+    "weight": 0.055273761
+  },
+  {
+    "term": "los",
+    "category": "NEG_R",
+    "weight": 0.142379253
+  },
+  {
+    "term": "puta",
+    "category": "NEG_R",
+    "weight": 1.120149343
+  },
+  {
+    "term": "llevo",
+    "category": "NEG_R",
+    "weight": 0.035935223
+  },
+  {
+    "term": ":",
+    "category": "NEG_R",
+    "weight": -0.070712836
+  },
+  {
+    "term": "final",
+    "category": "NEG_R",
+    "weight": -0.009602683
+  },
+  {
+    "term": "encanta",
+    "category": "NEG_R",
+    "weight": -0.152286438
+  },
+  {
+    "term": "no me",
+    "category": "NEG_R",
+    "weight": 0.157739255
+  },
+  {
+    "term": "te quiero",
+    "category": "NEG_R",
+    "weight": -0.3081053
+  },
+  {
+    "term": "para",
+    "category": "NEG_R",
+    "weight": -0.029337325
+  },
+  {
+    "term": "llorando",
+    "category": "NEG_R",
+    "weight": 0.556983547
+  },
+  {
+    "term": "en el",
+    "category": "NEG_R",
+    "weight": 0.051582019
+  },
+  {
+    "term": "asco",
+    "category": "NEG_R",
+    "weight": 0.301080249
+  },
+  {
+    "term": "vuestro",
+    "category": "NEG_R",
+    "weight": -0.079860662
+  },
+  {
+    "term": "ha",
+    "category": "NEG_R",
+    "weight": -0.041456363
+  },
+  {
+    "term": "espera",
+    "category": "NEG_R",
+    "weight": -0.193920675
+  },
+  {
+    "term": "me",
+    "category": "NEG_R",
+    "weight": 0.167946961
+  },
+  {
+    "term": "gracias",
+    "category": "NEG_R",
+    "weight": -0.418026814
+  },
+  {
+    "term": "casa",
+    "category": "NEG_R",
+    "weight": 0.120732082
+  },
+  {
+    "term": "_intercept",
+    "category": "NEG_R",
+    "weight": 1.782788984
+  },
+  {
+    "term": "sube un",
+    "category": "NEG_R",
+    "weight": 7.22e-15
+  },
+  {
+    "term": "lo que",
+    "category": "NEG_R",
+    "weight": 0.056056487
+  },
+  {
+    "term": "mi",
+    "category": "NEG_R",
+    "weight": -0.012107898
+  },
+  {
+    "term": "que estoy",
+    "category": "NEG_R",
+    "weight": -0.00760934
+  },
+  {
+    "term": "como me",
+    "category": "NEG_R",
+    "weight": 0.114334005
+  },
+  {
+    "term": "haya",
+    "category": "NEG_R",
+    "weight": 0.137318355
+  },
+  {
+    "term": "del",
+    "category": "NEG_R",
+    "weight": -0.012928459
+  },
+  {
+    "term": "soporto",
+    "category": "NEG_R",
+    "weight": 0.177276096
+  },
+  {
+    "term": "tampoco",
+    "category": "NEG_R",
+    "weight": 0.055507503
+  },
+  {
+    "term": "sabe",
+    "category": "NEG_R",
+    "weight": -0.005758884
+  },
+  {
+    "term": "necesito",
+    "category": "NEG_R",
+    "weight": 0.101542594
+  },
+  {
+    "term": "esta",
+    "category": "NEG_R",
+    "weight": -0.204343559
+  },
+  {
+    "term": ". que",
+    "category": "NEG_R",
+    "weight": 0.072340613
+  },
+  {
+    "term": "feliz",
+    "category": "NEG_R",
+    "weight": -0.222367089
+  },
+  {
+    "term": "esto",
+    "category": "NEG_R",
+    "weight": 0.091418762
+  },
+  {
+    "term": "��_ https://t.co",
+    "category": "NEG_R",
+    "weight": -0.069122529
+  },
+  {
+    "term": "mundo",
+    "category": "NEG_R",
+    "weight": 0.093392791
+  },
+  {
+    "term": "me lo",
+    "category": "NEG_R",
+    "weight": -0.060167193
+  },
+  {
+    "term": "cabrones",
+    "category": "NEG_R",
+    "weight": 0.539756443
+  },
+  {
+    "term": "mejor",
+    "category": "NEG_R",
+    "weight": -0.317803348
+  },
+  {
+    "term": "de los",
+    "category": "NEG_R",
+    "weight": -0.109820673
+  },
+  {
+    "term": "!",
+    "category": "NEG_R",
+    "weight": -0.201339586
+  },
+  {
+    "term": "hasta",
+    "category": "NEG_R",
+    "weight": -0.141908106
+  },
+  {
+    "term": "mio",
+    "category": "NEG_R",
+    "weight": 0.346452078
+  },
+  {
+    "term": "no",
+    "category": "NEG_R",
+    "weight": 0.310643399
+  },
+  {
+    "term": ")",
+    "category": "NEG_R",
+    "weight": -0.111025655
+  },
+  {
+    "term": "con las",
+    "category": "NEG_R",
+    "weight": 0.168481591
+  },
+  {
+    "term": 1,
+    "category": "NEG_R",
+    "weight": -0.085279396
+  },
+  {
+    "term": "de la",
+    "category": "NEG_R",
+    "weight": -0.045830128
+  },
+  {
+    "term": "besos",
+    "category": "NEG_R",
+    "weight": -0.05925209
+  },
+  {
+    "term": 9,
+    "category": "NEG_R",
+    "weight": -0.119762964
+  },
+  {
+    "term": "con una",
+    "category": "NEG_R",
+    "weight": 0.032403887
+  },
+  {
+    "term": "hoy",
+    "category": "NEG_R",
+    "weight": -0.176382056
+  },
+  {
+    "term": "tiempo",
+    "category": "NEG_R",
+    "weight": 0.013061638
+  },
+  {
+    "term": "noche",
+    "category": "NEG_R",
+    "weight": -0.127505713
+  },
+  {
+    "term": ", que",
+    "category": "NEG_R",
+    "weight": 0.102754992
+  },
+  {
+    "term": "ni",
+    "category": "NEG_R",
+    "weight": 0.144993275
+  },
+  {
+    "term": "jajajaja",
+    "category": "NEG_R",
+    "weight": -0.050469118
+  },
+  {
+    "term": "mismo",
+    "category": "NEG_R",
+    "weight": 0.293049713
+  },
+  {
+    "term": "jajaja",
+    "category": "NEG_R",
+    "weight": -0.071773994
+  },
+  {
+    "term": "ya no",
+    "category": "NEG_R",
+    "weight": 0.316454855
+  },
+  {
+    "term": "a̱o",
+    "category": "NEG_R",
+    "weight": -0.012879919
+  },
+  {
+    "term": "estado",
+    "category": "NEG_R",
+    "weight": 0.353215296
+  },
+  {
+    "term": "mal",
+    "category": "NEG_R",
+    "weight": 0.811225012
+  },
+  {
+    "term": "problema",
+    "category": "NEG_R",
+    "weight": 0.008094535
+  },
+  {
+    "term": "las",
+    "category": "NEG_R",
+    "weight": -0.029390702
+  },
+  {
+    "term": "a",
+    "category": "NEG_R",
+    "weight": 0.031700328
+  },
+  {
+    "term": "mente",
+    "category": "NEG_R",
+    "weight": 0.35999025
+  },
+  {
+    "term": ", se",
+    "category": "NEG_R",
+    "weight": 0.019375274
+  },
+  {
+    "term": "! !",
+    "category": "NEG_R",
+    "weight": -0.112588841
+  },
+  {
+    "term": "su",
+    "category": "NEG_R",
+    "weight": 0.23972521
+  },
+  {
+    "term": "q",
+    "category": "NEG_R",
+    "weight": 0.156380435
+  },
+  {
+    "term": "si",
+    "category": "NEG_R",
+    "weight": 0.078606714
+  },
+  {
+    "term": "doy",
+    "category": "NEG_R",
+    "weight": 0.025999146
+  },
+  {
+    "term": "vaya",
+    "category": "NEG_R",
+    "weight": 0.449829381
+  },
+  {
+    "term": "no lo",
+    "category": "NEG_R",
+    "weight": -0.266040068
+  },
+  {
+    "term": "a ti",
+    "category": "NEG_R",
+    "weight": -0.137595275
+  },
+  {
+    "term": "tendencia",
+    "category": "NEG_R",
+    "weight": -0.169619143
+  },
+  {
+    "term": "que no",
+    "category": "NEG_R",
+    "weight": 0.021637546
+  },
+  {
+    "term": "se",
+    "category": "NEG_R",
+    "weight": 0.119183663
+  },
+  {
+    "term": "jaja",
+    "category": "POS_R",
+    "weight": 0.0272983
+  },
+  {
+    "term": ":)",
+    "category": "POS_R",
+    "weight": 0.18383416
+  },
+  {
+    "term": "<newline>",
+    "category": "POS_R",
+    "weight": -0.028351833
+  },
+  {
+    "term": "tener",
+    "category": "POS_R",
+    "weight": 0.205131294
+  },
+  {
+    "term": "a la",
+    "category": "POS_R",
+    "weight": 0.045963572
+  },
+  {
+    "term": "udima",
+    "category": "POS_R",
+    "weight": -6.61e-17
+  },
+  {
+    "term": "magistrado",
+    "category": "POS_R",
+    "weight": -6.61e-17
+  },
+  {
+    "term": "menos",
+    "category": "POS_R",
+    "weight": 0.212195564
+  },
+  {
+    "term": "lo mejor",
+    "category": "POS_R",
+    "weight": 0.198176622
+  },
+  {
+    "term": "̩l",
+    "category": "POS_R",
+    "weight": 0.379475119
+  },
+  {
+    "term": "que bien",
+    "category": "POS_R",
+    "weight": 0.16243498
+  },
+  {
+    "term": "cole",
+    "category": "POS_R",
+    "weight": -0.140223543
+  },
+  {
+    "term": "va a",
+    "category": "POS_R",
+    "weight": -0.042892194
+  },
+  {
+    "term": "mejores",
+    "category": "POS_R",
+    "weight": 0.618608357
+  },
+  {
+    "term": "quiero",
+    "category": "POS_R",
+    "weight": 0.495175215
+  },
+  {
+    "term": "http://t.co /",
+    "category": "POS_R",
+    "weight": 0.015829394
+  },
+  {
+    "term": "han",
+    "category": "POS_R",
+    "weight": -0.19388879
+  },
+  {
+    "term": "la",
+    "category": "POS_R",
+    "weight": -0.060618665
+  },
+  {
+    "term": "con la",
+    "category": "POS_R",
+    "weight": -0.033622168
+  },
+  {
+    "term": "vida",
+    "category": "POS_R",
+    "weight": 0.487610387
+  },
+  {
+    "term": "tu",
+    "category": "POS_R",
+    "weight": 0.249626063
+  },
+  {
+    "term": ",",
+    "category": "POS_R",
+    "weight": 0.018097558
+  },
+  {
+    "term": "#l̩ricasegundoaniversario",
+    "category": "POS_R",
+    "weight": 2.548315413
+  },
+  {
+    "term": "aun",
+    "category": "POS_R",
+    "weight": -0.046563045
+  },
+  {
+    "term": "sonrisa",
+    "category": "POS_R",
+    "weight": 0.186398027
+  },
+  {
+    "term": "hay",
+    "category": "POS_R",
+    "weight": -0.071834503
+  },
+  {
+    "term": "nadie",
+    "category": "POS_R",
+    "weight": -0.122806898
+  },
+  {
+    "term": "de menos",
+    "category": "POS_R",
+    "weight": 0.767672759
+  },
+  {
+    "term": 4,
+    "category": "POS_R",
+    "weight": -0.296415653
+  },
+  {
+    "term": "ti",
+    "category": "POS_R",
+    "weight": 0.93682703
+  },
+  {
+    "term": "te",
+    "category": "POS_R",
+    "weight": 0.361289177
+  },
+  {
+    "term": "fin",
+    "category": "POS_R",
+    "weight": 0.391655028
+  },
+  {
+    "term": "��",
+    "category": "POS_R",
+    "weight": -0.067170846
+  },
+  {
+    "term": "porque",
+    "category": "POS_R",
+    "weight": -0.0083165
+  },
+  {
+    "term": "cef",
+    "category": "POS_R",
+    "weight": -6.61e-17
+  },
+  {
+    "term": "yo",
+    "category": "POS_R",
+    "weight": -0.030226229
+  },
+  {
+    "term": "ya",
+    "category": "POS_R",
+    "weight": -0.01245308
+  },
+  {
+    "term": "en una",
+    "category": "POS_R",
+    "weight": -0.067443363
+  },
+  {
+    "term": "lado",
+    "category": "POS_R",
+    "weight": 0.117350594
+  },
+  {
+    "term": "grande",
+    "category": "POS_R",
+    "weight": 0.31542674
+  },
+  {
+    "term": "risa",
+    "category": "POS_R",
+    "weight": 0.155670762
+  },
+  {
+    "term": "miedo",
+    "category": "POS_R",
+    "weight": -0.001113643
+  },
+  {
+    "term": "verte",
+    "category": "POS_R",
+    "weight": 1.463168303
+  },
+  {
+    "term": "dar",
+    "category": "POS_R",
+    "weight": -0.02735274
+  },
+  {
+    "term": ", tu",
+    "category": "POS_R",
+    "weight": 0.648019903
+  },
+  {
+    "term": "mucho",
+    "category": "POS_R",
+    "weight": 0.118508356
+  },
+  {
+    "term": "odio",
+    "category": "POS_R",
+    "weight": -0.173038368
+  },
+  {
+    "term": "nos",
+    "category": "POS_R",
+    "weight": 0.210567481
+  },
+  {
+    "term": "ha sido",
+    "category": "POS_R",
+    "weight": 0.085545107
+  },
+  {
+    "term": "a mi",
+    "category": "POS_R",
+    "weight": -0.027081177
+  },
+  {
+    "term": "contencioso",
+    "category": "POS_R",
+    "weight": -6.61e-17
+  },
+  {
+    "term": "sube un",
+    "category": "POS_R",
+    "weight": -5.18e-14
+  },
+  {
+    "term": "esto",
+    "category": "POS_R",
+    "weight": -0.033708455
+  },
+  {
+    "term": "ni̱a",
+    "category": "POS_R",
+    "weight": 0.683362276
+  },
+  {
+    "term": "cosas",
+    "category": "POS_R",
+    "weight": -0.123566047
+  },
+  {
+    "term": "ganas",
+    "category": "POS_R",
+    "weight": 0.479208264
+  },
+  {
+    "term": "desde",
+    "category": "POS_R",
+    "weight": 0.144558816
+  },
+  {
+    "term": "gran",
+    "category": "POS_R",
+    "weight": 0.134635153
+  },
+  {
+    "term": "amor",
+    "category": "POS_R",
+    "weight": 0.933632491
+  },
+  {
+    "term": ". http://t.co",
+    "category": "POS_R",
+    "weight": 0.022894865
+  },
+  {
+    "term": "el",
+    "category": "POS_R",
+    "weight": -0.096852193
+  },
+  {
+    "term": "paro sube",
+    "category": "POS_R",
+    "weight": -0.103573788
+  },
+  {
+    "term": "en",
+    "category": "POS_R",
+    "weight": -0.101796598
+  },
+  {
+    "term": "bueno",
+    "category": "POS_R",
+    "weight": 0.150807049
+  },
+  {
+    "term": "ser",
+    "category": "POS_R",
+    "weight": 0.020890717
+  },
+  {
+    "term": "madrid",
+    "category": "POS_R",
+    "weight": -0.060298812
+  },
+  {
+    "term": "por el",
+    "category": "POS_R",
+    "weight": -0.048523289
+  },
+  {
+    "term": "cef https://t.co",
+    "category": "POS_R",
+    "weight": -5.29e-16
+  },
+  {
+    "term": ". me",
+    "category": "POS_R",
+    "weight": 0.110328618
+  },
+  {
+    "term": "que estoy",
+    "category": "POS_R",
+    "weight": 0.138852267
+  },
+  {
+    "term": "sea",
+    "category": "POS_R",
+    "weight": 0.028954148
+  },
+  {
+    "term": "me encanta",
+    "category": "POS_R",
+    "weight": 0.788273652
+  },
+  {
+    "term": "todo",
+    "category": "POS_R",
+    "weight": 0.192192665
+  },
+  {
+    "term": "la rutina",
+    "category": "POS_R",
+    "weight": -0.039079123
+  },
+  {
+    "term": "es",
+    "category": "POS_R",
+    "weight": -0.037261176
+  },
+  {
+    "term": "eres",
+    "category": "POS_R",
+    "weight": 0.220613395
+  },
+  {
+    "term": "'",
+    "category": "POS_R",
+    "weight": -0.041160484
+  },
+  {
+    "term": "con los",
+    "category": "POS_R",
+    "weight": 0.094466584
+  },
+  {
+    "term": "+",
+    "category": "POS_R",
+    "weight": 0.170352035
+  },
+  {
+    "term": "muy",
+    "category": "POS_R",
+    "weight": 0.212711202
+  },
+  {
+    "term": "/",
+    "category": "POS_R",
+    "weight": 0.116981406
+  },
+  {
+    "term": "poco",
+    "category": "POS_R",
+    "weight": -0.02636009
+  },
+  {
+    "term": "bien",
+    "category": "POS_R",
+    "weight": 0.362194536
+  },
+  {
+    "term": "@lericamusic",
+    "category": "POS_R",
+    "weight": 3.98e-14
+  },
+  {
+    "term": "y no",
+    "category": "POS_R",
+    "weight": -0.121772044
+  },
+  {
+    "term": "contigo",
+    "category": "POS_R",
+    "weight": 1.489774154
+  },
+  {
+    "term": "?",
+    "category": "POS_R",
+    "weight": -0.071307787
+  },
+  {
+    "term": "acabo de",
+    "category": "POS_R",
+    "weight": -0.124956982
+  },
+  {
+    "term": "solo",
+    "category": "POS_R",
+    "weight": -0.265929832
+  },
+  {
+    "term": "foto",
+    "category": "POS_R",
+    "weight": -0.083216236
+  },
+  {
+    "term": "puedo",
+    "category": "POS_R",
+    "weight": 0.035759974
+  },
+  {
+    "term": ", es",
+    "category": "POS_R",
+    "weight": 0.077860491
+  },
+  {
+    "term": "tus",
+    "category": "POS_R",
+    "weight": 0.163022345
+  },
+  {
+    "term": "supremo en",
+    "category": "POS_R",
+    "weight": -9.59e-15
+  },
+  {
+    "term": "si no",
+    "category": "POS_R",
+    "weight": -0.03629969
+  },
+  {
+    "term": "le",
+    "category": "POS_R",
+    "weight": -0.034441797
+  },
+  {
+    "term": "como",
+    "category": "POS_R",
+    "weight": 0.106911017
+  },
+  {
+    "term": "muchas",
+    "category": "POS_R",
+    "weight": 0.023765508
+  },
+  {
+    "term": "@alopezsimon",
+    "category": "POS_R",
+    "weight": 0.029332214
+  },
+  {
+    "term": "verg�_enza",
+    "category": "POS_R",
+    "weight": -0.150611426
+  },
+  {
+    "term": "no puedo",
+    "category": "POS_R",
+    "weight": 0.077068279
+  },
+  {
+    "term": "d�_a",
+    "category": "POS_R",
+    "weight": 0.004391567
+  },
+  {
+    "term": "gusta",
+    "category": "POS_R",
+    "weight": 0.248821049
+  },
+  {
+    "term": "luego",
+    "category": "POS_R",
+    "weight": -0.232442096
+  },
+  {
+    "term": "amo",
+    "category": "POS_R",
+    "weight": 1.35624685
+  },
+  {
+    "term": "? ?",
+    "category": "POS_R",
+    "weight": 0.265540822
+  },
+  {
+    "term": "ahora",
+    "category": "POS_R",
+    "weight": -0.046189366
+  },
+  {
+    "term": "grandes",
+    "category": "POS_R",
+    "weight": 0.488166827
+  },
+  {
+    "term": "o",
+    "category": "POS_R",
+    "weight": -0.086511326
+  },
+  {
+    "term": "y que",
+    "category": "POS_R",
+    "weight": 0.01799719
+  },
+  {
+    "term": "una",
+    "category": "POS_R",
+    "weight": -0.006166101
+  },
+  {
+    "term": "les",
+    "category": "POS_R",
+    "weight": -0.08391618
+  },
+  {
+    "term": "? !",
+    "category": "POS_R",
+    "weight": -0.14250887
+  },
+  {
+    "term": "que no",
+    "category": "POS_R",
+    "weight": -0.050614448
+  },
+  {
+    "term": "con",
+    "category": "POS_R",
+    "weight": 0.029947122
+  },
+  {
+    "term": "ruego rt",
+    "category": "POS_R",
+    "weight": -2.65e-16
+  },
+  {
+    "term": "es el",
+    "category": "POS_R",
+    "weight": 0.117178685
+  },
+  {
+    "term": "la libertad",
+    "category": "POS_R",
+    "weight": 0.01037104
+  },
+  {
+    "term": "pluriempleado en",
+    "category": "POS_R",
+    "weight": -1.32e-16
+  },
+  {
+    "term": "sois",
+    "category": "POS_R",
+    "weight": -0.05572805
+  },
+  {
+    "term": "orgullosa de",
+    "category": "POS_R",
+    "weight": 0.045595344
+  },
+  {
+    "term": "juntas",
+    "category": "POS_R",
+    "weight": 0.003634797
+  },
+  {
+    "term": "xd",
+    "category": "POS_R",
+    "weight": -0.125995239
+  },
+  {
+    "term": "son",
+    "category": "POS_R",
+    "weight": 0.248145246
+  },
+  {
+    "term": "enhorabuena",
+    "category": "POS_R",
+    "weight": 0.556536534
+  },
+  {
+    "term": "cgpj magistrado",
+    "category": "POS_R",
+    "weight": -1.32e-16
+  },
+  {
+    "term": "felicidades",
+    "category": "POS_R",
+    "weight": 0.951989164
+  },
+  {
+    "term": "semana",
+    "category": "POS_R",
+    "weight": 0.039963432
+  },
+  {
+    "term": "buenas",
+    "category": "POS_R",
+    "weight": 0.504939501
+  },
+  {
+    "term": "la mejor",
+    "category": "POS_R",
+    "weight": 0.293384355
+  },
+  {
+    "term": "udima y",
+    "category": "POS_R",
+    "weight": -0.003000047
+  },
+  {
+    "term": "tiene",
+    "category": "POS_R",
+    "weight": -0.023102711
+  },
+  {
+    "term": "has",
+    "category": "POS_R",
+    "weight": -0.139016783
+  },
+  {
+    "term": "siempre",
+    "category": "POS_R",
+    "weight": 0.061155493
+  },
+  {
+    "term": "bonita",
+    "category": "POS_R",
+    "weight": 0.842466147
+  },
+  {
+    "term": "..",
+    "category": "POS_R",
+    "weight": 0.047122156
+  },
+  {
+    "term": "contra",
+    "category": "POS_R",
+    "weight": -0.097657881
+  },
+  {
+    "term": "fiestas",
+    "category": "POS_R",
+    "weight": 0.02542976
+  },
+  {
+    "term": "bonito",
+    "category": "POS_R",
+    "weight": 0.828301539
+  },
+  {
+    "term": "abrazo",
+    "category": "POS_R",
+    "weight": 0.945589723
+  },
+  {
+    "term": "amiga",
+    "category": "POS_R",
+    "weight": 0.120767833
+  },
+  {
+    "term": ".",
+    "category": "POS_R",
+    "weight": 0.035421688
+  },
+  {
+    "term": "los",
+    "category": "POS_R",
+    "weight": -0.139970648
+  },
+  {
+    "term": "para mi",
+    "category": "POS_R",
+    "weight": 0.011987764
+  },
+  {
+    "term": "puta",
+    "category": "POS_R",
+    "weight": -0.183039582
+  },
+  {
+    "term": "hasta",
+    "category": "POS_R",
+    "weight": 0.102633825
+  },
+  {
+    "term": "llevo",
+    "category": "POS_R",
+    "weight": -0.058317858
+  },
+  {
+    "term": "tienes que",
+    "category": "POS_R",
+    "weight": 0.404351808
+  },
+  {
+    "term": ":",
+    "category": "POS_R",
+    "weight": -0.072761933
+  },
+  {
+    "term": "equipo",
+    "category": "POS_R",
+    "weight": 0.005931707
+  },
+  {
+    "term": "#soyrepublicanopporque",
+    "category": "POS_R",
+    "weight": -0.021369286
+  },
+  {
+    "term": "precioso",
+    "category": "POS_R",
+    "weight": 0.59909015
+  },
+  {
+    "term": "no me",
+    "category": "POS_R",
+    "weight": -0.130393896
+  },
+  {
+    "term": "m��s",
+    "category": "POS_R",
+    "weight": 0.229927904
+  },
+  {
+    "term": "dormir",
+    "category": "POS_R",
+    "weight": -0.203121132
+  },
+  {
+    "term": "para",
+    "category": "POS_R",
+    "weight": -0.06047733
+  },
+  {
+    "term": "sabes",
+    "category": "POS_R",
+    "weight": 0.038943132
+  },
+  {
+    "term": "hermana",
+    "category": "POS_R",
+    "weight": 0.698732427
+  },
+  {
+    "term": "mira",
+    "category": "POS_R",
+    "weight": -0.027209646
+  },
+  {
+    "term": "preciosa",
+    "category": "POS_R",
+    "weight": 1.034838457
+  },
+  {
+    "term": "��_ https://t.co",
+    "category": "POS_R",
+    "weight": 0.647838549
+  },
+  {
+    "term": "digo",
+    "category": "POS_R",
+    "weight": -0.042992416
+  },
+  {
+    "term": "jueves",
+    "category": "POS_R",
+    "weight": -0.062512405
+  },
+  {
+    "term": ", a",
+    "category": "POS_R",
+    "weight": 0.004921355
+  },
+  {
+    "term": "familia",
+    "category": "POS_R",
+    "weight": 0.109630744
+  },
+  {
+    "term": "vuestro",
+    "category": "POS_R",
+    "weight": 0.245857029
+  },
+  {
+    "term": "baja",
+    "category": "POS_R",
+    "weight": 0.091384323
+  },
+  {
+    "term": "he",
+    "category": "POS_R",
+    "weight": -0.015233619
+  },
+  {
+    "term": "me",
+    "category": "POS_R",
+    "weight": 0.058757038
+  },
+  {
+    "term": "tribunal",
+    "category": "POS_R",
+    "weight": -1.24e-14
+  },
+  {
+    "term": "gracias",
+    "category": "POS_R",
+    "weight": 1.33238622
+  },
+  {
+    "term": "_intercept",
+    "category": "POS_R",
+    "weight": 1.977389757
+  },
+  {
+    "term": "placer",
+    "category": "POS_R",
+    "weight": 0.352924282
+  },
+  {
+    "term": "lo que",
+    "category": "POS_R",
+    "weight": 0.015104803
+  },
+  {
+    "term": "mi",
+    "category": "POS_R",
+    "weight": 0.362637465
+  },
+  {
+    "term": "vocal",
+    "category": "POS_R",
+    "weight": -6.61e-17
+  },
+  {
+    "term": "poder",
+    "category": "POS_R",
+    "weight": 0.164371171
+  },
+  {
+    "term": "malo",
+    "category": "POS_R",
+    "weight": -0.173416927
+  },
+  {
+    "term": "todo el",
+    "category": "POS_R",
+    "weight": -0.184075333
+  },
+  {
+    "term": "del",
+    "category": "POS_R",
+    "weight": -0.037625844
+  },
+  {
+    "term": "que nos",
+    "category": "POS_R",
+    "weight": 0.043444505
+  },
+  {
+    "term": "cabeza",
+    "category": "POS_R",
+    "weight": -0.028825048
+  },
+  {
+    "term": "tema",
+    "category": "POS_R",
+    "weight": -0.260698801
+  },
+  {
+    "term": "? gracias",
+    "category": "POS_R",
+    "weight": -0.289372065
+  },
+  {
+    "term": "tampoco",
+    "category": "POS_R",
+    "weight": -0.128664194
+  },
+  {
+    "term": "buen",
+    "category": "POS_R",
+    "weight": 0.47119539
+  },
+  {
+    "term": "este",
+    "category": "POS_R",
+    "weight": 0.01085801
+  },
+  {
+    "term": "genial",
+    "category": "POS_R",
+    "weight": 0.40055053
+  },
+  {
+    "term": "esta",
+    "category": "POS_R",
+    "weight": 0.065421883
+  },
+  {
+    "term": "...",
+    "category": "POS_R",
+    "weight": -0.014768678
+  },
+  {
+    "term": "feliz",
+    "category": "POS_R",
+    "weight": 0.897984766
+  },
+  {
+    "term": "ir",
+    "category": "POS_R",
+    "weight": -0.140362474
+  },
+  {
+    "term": "la vida",
+    "category": "POS_R",
+    "weight": 0.185538539
+  },
+  {
+    "term": "mundo",
+    "category": "POS_R",
+    "weight": 0.233401098
+  },
+  {
+    "term": "te quiero",
+    "category": "POS_R",
+    "weight": 1.812339397
+  },
+  {
+    "term": "dicho",
+    "category": "POS_R",
+    "weight": -0.074061275
+  },
+  {
+    "term": "mejor",
+    "category": "POS_R",
+    "weight": 0.69686927
+  },
+  {
+    "term": "tan",
+    "category": "POS_R",
+    "weight": 0.191722034
+  },
+  {
+    "term": "voy",
+    "category": "POS_R",
+    "weight": -0.144021504
+  },
+  {
+    "term": "voz",
+    "category": "POS_R",
+    "weight": 0.271923013
+  },
+  {
+    "term": "!",
+    "category": "POS_R",
+    "weight": 0.512823119
+  },
+  {
+    "term": "ni",
+    "category": "POS_R",
+    "weight": -0.164151815
+  },
+  {
+    "term": "cielo",
+    "category": "POS_R",
+    "weight": 0.498752994
+  },
+  {
+    "term": "mil",
+    "category": "POS_R",
+    "weight": 0.348973723
+  },
+  {
+    "term": "2zbkd9pkfm",
+    "category": "POS_R",
+    "weight": -7.28e-16
+  },
+  {
+    "term": "no",
+    "category": "POS_R",
+    "weight": -0.227725261
+  },
+  {
+    "term": "haciendo",
+    "category": "POS_R",
+    "weight": -0.196696401
+  },
+  {
+    "term": "-",
+    "category": "POS_R",
+    "weight": -0.080108294
+  },
+  {
+    "term": "parece",
+    "category": "POS_R",
+    "weight": -0.0357794
+  },
+  {
+    "term": "que ha",
+    "category": "POS_R",
+    "weight": -0.044787938
+  },
+  {
+    "term": "de la",
+    "category": "POS_R",
+    "weight": -0.036296381
+  },
+  {
+    "term": "besos",
+    "category": "POS_R",
+    "weight": 1.345977982
+  },
+  {
+    "term": "lindo",
+    "category": "POS_R",
+    "weight": 0.225970809
+  },
+  {
+    "term": "? http://t.co",
+    "category": "POS_R",
+    "weight": 0.020111046
+  },
+  {
+    "term": "mis",
+    "category": "POS_R",
+    "weight": 0.255191556
+  },
+  {
+    "term": "? <newline>",
+    "category": "POS_R",
+    "weight": 0.073380374
+  },
+  {
+    "term": "todos",
+    "category": "POS_R",
+    "weight": -0.107938097
+  },
+  {
+    "term": "hoy",
+    "category": "POS_R",
+    "weight": 0.185004769
+  },
+  {
+    "term": "cgpj",
+    "category": "POS_R",
+    "weight": -0.383768898
+  },
+  {
+    "term": "especial",
+    "category": "POS_R",
+    "weight": 0.742370884
+  },
+  {
+    "term": "persona",
+    "category": "POS_R",
+    "weight": 0.637477026
+  },
+  {
+    "term": "noche",
+    "category": "POS_R",
+    "weight": 0.248802008
+  },
+  {
+    "term": "en contencioso",
+    "category": "POS_R",
+    "weight": -6.61e-17
+  },
+  {
+    "term": "tarde",
+    "category": "POS_R",
+    "weight": 0.563271678
+  },
+  {
+    "term": "mierda",
+    "category": "POS_R",
+    "weight": -0.351681908
+  },
+  {
+    "term": "ella",
+    "category": "POS_R",
+    "weight": 0.189682511
+  },
+  {
+    "term": "en el",
+    "category": "POS_R",
+    "weight": 0.096111881
+  },
+  {
+    "term": "me gusta",
+    "category": "POS_R",
+    "weight": 0.23443725
+  },
+  {
+    "term": "de hoy",
+    "category": "POS_R",
+    "weight": 0.00423427
+  },
+  {
+    "term": "jajaja",
+    "category": "POS_R",
+    "weight": 0.051347866
+  },
+  {
+    "term": "de verdad",
+    "category": "POS_R",
+    "weight": 0.093911967
+  },
+  {
+    "term": "a̱o",
+    "category": "POS_R",
+    "weight": 0.090902412
+  },
+  {
+    "term": "mal",
+    "category": "POS_R",
+    "weight": -0.192438674
+  },
+  {
+    "term": "las",
+    "category": "POS_R",
+    "weight": -0.092608888
+  },
+  {
+    "term": "hacer",
+    "category": "POS_R",
+    "weight": -0.004950344
+  },
+  {
+    "term": "contencioso pluriempleado",
+    "category": "POS_R",
+    "weight": -9.92e-16
+  },
+  {
+    "term": "! !",
+    "category": "POS_R",
+    "weight": 0.046276597
+  },
+  {
+    "term": "una tarde",
+    "category": "POS_R",
+    "weight": 0.333574029
+  },
+  {
+    "term": "barcelona",
+    "category": "POS_R",
+    "weight": 0.067802837
+  },
+  {
+    "term": "q",
+    "category": "POS_R",
+    "weight": -0.105076896
+  },
+  {
+    "term": "si",
+    "category": "POS_R",
+    "weight": 0.106266285
+  },
+  {
+    "term": "orgullosa",
+    "category": "POS_R",
+    "weight": 0.317517763
+  },
+  {
+    "term": "vaya",
+    "category": "POS_R",
+    "weight": -0.100420538
+  },
+  {
+    "term": "noches",
+    "category": "POS_R",
+    "weight": 0.296557933
+  },
+  {
+    "term": "se",
+    "category": "POS_R",
+    "weight": -0.015054522
+  }
+]
