@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en-GB">
+<html lang="en-GB" prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb#">
     <head>
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -12,16 +12,22 @@
         <meta name="mobile-web-app-capable" content="yes">
         <meta name="application-name" content="Positive Psychology Text Analyser">
         <link rel="manifest" href="manifest.json">
-        <link rel="canonical" href="http://www.phugh.es/tech/permatoken">
+        <link rel="canonical" href="http://www.phugh.es/tech/permatoken/">
+
+        <meta property="og:url" content="http://www.phugh.es/tech/permatoken/"/>
+        <meta property="og:type" content="website"/>
+        <meta property="og:title" content="Positive Psychology Text Analyser"/>
+        <meta property="og:description" content="Analyse any text against various positive psychology lexica."/>
+        <meta property="og:image" content="http://www.phugh.es/tech/permatoken/200.png"/>
 
         <script type='application/ld+json'>
             {
-            "@context": "http://www.schema.org",
-            "@type": "product",
-            "brand": "Peter Hughes",
-            "name": "Positive Psychology Text Analyser",
-            "image": "http://www.phugh.es/tech/permatoken/192.png",
-            "description": "Analyse any text against various positive psychology lexica."
+                "@context": "http://www.schema.org",
+                "@type": "product",
+                "brand": "Peter Hughes",
+                "name": "Positive Psychology Text Analyser",
+                "image": "http://www.phugh.es/tech/permatoken/200.png",
+                "description": "Analyse any text against various positive psychology lexica."
             }
         </script>
 
@@ -264,7 +270,7 @@
                                             <td><span id="pel"></span></td>
                                         </tr>
                                          <tr>
-                                            <td>Disngagement (-)</td>
+                                            <td>Disengagement (-)</td>
                                             <td><span id="nel"></span></td>
                                         </tr>
                                         <tr>
@@ -396,7 +402,7 @@
                                 <div id="res5" class="panel-collapse collapse" role="tabpanel" aria-labelledby="h5">
                                     <div class="panel-body container">
                                         <p><strong>Total A/I matches: </strong><span id="affTotal"></span> items.</p>
-                                        <p><strong>Scale:</strong> Affect: 1 = very negative, 5 = neutral, 9 = very positive. Intensity: 1 = netural, 9 = high.</p>
+                                        <p><strong>Scale:</strong> Affect: 1 = very negative, 5 = neutral, 9 = very positive. Intensity: 1 = neutral, 9 = high.</p>
                                         <div id="affCharts" class="row">
                                             <div class="col-xs-12 col-md-6">
                                                 <canvas id="affBubble" class="chart" width="400" height="400"></canvas>
