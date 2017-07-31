@@ -19,10 +19,7 @@ h1, h2, h3 {
   margin-top: 0;
   margin-bottom: 2rem;
   font-weight: 300; }
-h1 { font-size: 4.0rem; line-height: 1.2;  letter-spacing: -.1rem;}
-@media (min-width: 550px) {
-  h1 { font-size: 5.0rem; }
-}
+h1 { font-size: 6.0rem; line-height: 0.6;  letter-spacing: -.1rem;}
 .container:after,
 .row:after,
 .u-cf {
@@ -36,15 +33,6 @@ h1 { font-size: 4.0rem; line-height: 1.2;  letter-spacing: -.1rem;}
   margin: 0 auto;
   padding: 0 20px;
   box-sizing: border-box; }
-@media (min-width: 400px) {
-  .container {
-    width: 85%;
-    padding: 0; }
-}
-@media (min-width: 550px) {
-  .container {
-      width: 80%; }
-}
 h1 {
   color: #fff;
   padding: 0.4em 0 0 0.5em;
@@ -126,7 +114,9 @@ main {
 .section {
   padding: 1rem 2rem 1rem 2rem;
 }
-@media (max-width: 550px) {
+@media (max-width: 450px) {
+  h1 { font-size: 4.0rem; }
+  .container { width: 85%; }
   .innerpaper {
     position: relative;
     background-color: #607D8B;
@@ -138,7 +128,7 @@ main {
     border-color: #B6B6B6;
   }
   .fab {
-    top: -0.8em;
+    top: 4.4em;
     width: 50px;
     height: 50px;
   }
@@ -151,13 +141,13 @@ main {
     text-align: center;
   }
   #mailfab {
-   right: 10em;
+   right: 9em;
   }
   #twitterfab {
-    right: 6em;
+    right: 5em;
   }
   #linkedinfab {
-    right: 2em;
+    right: 1em;
   }
   .firstpara {
     padding-top: 0.6em;
