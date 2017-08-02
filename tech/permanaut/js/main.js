@@ -1,4 +1,6 @@
-/* jshint globalstrict: true, browser: true, sub: true, esversion: 5, asi: true, -W041 */ /* global $, Materialize, Chart, FB */
+/* jshint globalstrict: true, browser: true, sub: true, esversion: 5, asi: true, -W041 */
+/* global $, Materialize, Chart, FB */
+
 'use strict'; // eslint-disable-line
 var testNo = 0 // testNo becomes a count of previous tests in localStorage
 var storage = false // localStorage availability
@@ -252,7 +254,7 @@ function calculateScores () {
   }
 
   var ctx = document.getElementById('resultsChart').getContext('2d')
-  var myBarChart = null // eslint-disable-line
+  var myBarChart // eslint-disable-line
   if ($('#goCompare').prop('checked')) {
     myBarChart = new Chart(ctx, {
       type: 'bar',
@@ -312,6 +314,11 @@ $(document).ready(function () {
 
   // test localStorage availability
   lsTest()
+
+  // service worker
+  if ('serviceWorker' in navigator) {
+    navigator.serviceWorker.register('/sw.js')
+  }
 
   // if localStorage is available, itterate test number
   if (storage === true) {

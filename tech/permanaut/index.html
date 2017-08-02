@@ -1,19 +1,20 @@
 <!doctype html>
 <html lang="en-GB">
-    <head prefix="og: http://ogp.me/ns#">
-      <meta charset="utf-8">
-      <meta http-equiv="x-ua-compatible" content="IE=edge">
-      <meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1,minimal-ui">
+  <head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb#">
+      <meta charset="UTF-8">
+      <meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1">
+      <meta name="viewport" content="width=device-width,initial-scale=1,minimal-ui">
       <title>PERMAnaut</title>
-      <meta name="description" content="PERMA Measurement Tool based on Butler, J., &amp; Kern, M. L. (2015)">
+      <meta name="description" content="PERMA Profiler Measurement Tool based on Butler, J., &amp; Kern, M. L. (2015)">
+      <meta name="robots" content="index, follow">
       <link type="text/plain" rel="author" href="http://phugh.es/tech/permanaut/humans.txt">
 
-      <!-- Mobile Stuff -->
       <meta name="HandheldFriendly" content="True">
       <meta name="MobileOptimized" content="320">
       <meta name="mobile-web-app-capable" content="yes">
+      <meta name="application-name" content="Peter Hughes">
+      <meta name="theme-color" content="#3071a9">
 
-      <!-- OpenGraph data -->
       <meta property="og:title" content="PERMAnaut">
       <meta property="og:type" content="website">
       <meta property="og:url" content="http://phugh.es/tech/permanaut/">
@@ -21,28 +22,50 @@
       <meta property="og:image:type" content="image/png">
       <meta property="og:image:width" content="558">
       <meta property="og:image:height" content="270">
-      <meta property="og:description" content="PERMA Wellbeing Profiler. Test yo'self before your wreck yo'self. Based on Butler, J., &amp; Kern, M. L. (2015).">
+      <meta property="og:description" content="PERMA Wellbeing Profiler. Based on Butler, J., &amp; Kern, M. L. (2015).">
 
-      <!-- Add to homescreen for Safari on iOS -->
+      <meta name="twitter:card" content="summary_large_image">
+      <meta name="twitter:site" content="@peterhughesmcr">
+      <meta name="twitter:creator" content="@peterhughesmcr">
+      <meta name="twitter:title" content="Peter Hughes">
+      <meta name="twitter:description" content="Peter Hughes - Positive Psychologist, Meaning in Life Researcher and Tech Geek in Manchester.">
+      <meta name="twitter:image:src" content="http://www.phugh.es/img/headshot.jpg">
+      <meta property="og:locale" content="en_GB">
+
       <meta name="apple-mobile-web-app-capable" content="yes">
       <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
       <meta name="apple-mobile-web-app-title" content="PERMAnaut">
       <link rel="apple-touch-icon" href="apple-touch-icon.png">
 
-      <!-- Tile icon for Windows 10 (144x144 + tile color) -->
       <meta name="msapplication-TileImage" content="tile.png">
       <meta name="msapplication-TileColor" content="#3071a9">
 
-      <!-- Chrome for Android theme color -->
-      <meta name="theme-color" content="#3071a9">
-
-      <!-- Disable format detection -->
       <meta name="format-detection" content="telephone=no"/>
       <meta name="format-detection" content="address=no"/>
 
-      <link rel="stylesheet" href="http://fonts.googleapis.com/icon?family=Material+Icons">
-      <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.98.1/css/materialize.min.css">
-      <link rel="stylesheet" href="css/main.css">
+      <link rel="canonical" href="http://www.phugh.es/tech/permanaut/index.html">
+      <link rel="manifest" href="manifest.json">
+
+      <script type="application/ld+json">
+        {
+          "@context": "http://schema.org",
+          "@type": "WebSite",
+          "url": "http://www.phugh.es/tech/permanaut/",
+          "name": "PERMAnaut - Wellbeing Measurement Tool",
+          "author": {
+              "@type": "Person",
+              "name": "Peter Hughes",
+              "url": "http://www.phugh.es"
+            },
+          "description": "PERMA Measurement Tool based on Butler, J., and Kern, M. L. (2015)"
+        }
+      </script>
+
+      <noscript>
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.100.1/css/materialize.min.css">
+        <link rel="stylesheet" href="css/main.css">
+        <link rel="stylesheet" href="http://fonts.googleapis.com/icon?family=Material+Icons">
+      </noscript>
     </head>
     <body>
       <div id="fb-root"></div>
@@ -492,16 +515,29 @@
         </div><!-- eng of resultsPane -->
       </div><!-- end of container -->
 
+      <script>
+        'use strict';
+        function loadCss (filename) {
+          var l = document.createElement('link')
+          l.rel = 'stylesheet'
+          l.href = filename
+          var h = document.getElementsByTagName('head')[0]
+          h.parentNode.insertBefore(l, h)
+        }
+        loadCss('https://cdnjs.cloudflare.com/ajax/libs/materialize/0.100.1/css/materialize.min.css')
+        loadCss('css/main.css')
+        loadCss('http://fonts.googleapis.com/icon?family=Material+Icons')
+      </script>
       <script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
-      <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.98.1/js/materialize.min.js"></script>
-      <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.5.0/Chart.bundle.min.js"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.100.1/js/materialize.min.js"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.6.0/Chart.bundle.min.js"></script>
       <script src="js/main.js"></script>
       <script>
         (function(d, s, id) {
           var js, fjs = d.getElementsByTagName(s)[0];
           if (d.getElementById(id)) return;
           js = d.createElement(s); js.id = id;
-          js.src = "//connect.facebook.net/en_US/sdk.js";
+          js.src = "//connect.facebook.net/en_GB/sdk.js";
           fjs.parentNode.insertBefore(js, fjs);
         }(document, 'script', 'facebook-jssdk'));
       </script>

@@ -1,0 +1,15 @@
+{
+  "name": "Coachbot by phugh.es",
+  "short_name": "Coachbot",
+  "icons": [
+    {
+      "src": "\/android-chrome-144x144.png",
+      "sizes": "144x144",
+      "type": "image\/png"
+    }
+  ],
+  "theme_color": "#455A64",
+  "background_color": "#d3d3d3",
+  "start_url": "index.html",
+  "display": "standalone"
+}

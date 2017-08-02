@@ -1,6 +1,6 @@
 <!doctype html>
 <html lang="en-GB">
-  <head>
+  <head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb#">
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -8,17 +8,44 @@
     <meta name="description" content="CoachBot - Clean Language Coaching Robot">
     <meta name="theme-color" content="#455A64">
     <meta name="mobile-web-app-capable" content="yes">
-    <meta name="application-name" content="Coachbot | Peter Hughes">
+    <meta name="application-name" content="Coachbot by Peter Hughes">
     <meta name="HandheldFriendly" content="True">
     <meta name="MobileOptimized" content="320">
-    <meta name="author" content="Peter Hughes">
+    <link rel="manifest" href="manifest.json">
+
+    <meta property="og:title" content="Coachbot Peter Hughes">
+    <meta property="og:description" content="Coachbot is a clean language coaching robot.">
+    <meta property="og:image" content="http://www.phugh.es/img/headshot.jpg">
+
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:site" content="@peterhughesmcr">
+    <meta name="twitter:creator" content="@peterhughesmcr">
+    <meta name="twitter:title" content="Peter Hughes">
+    <meta name="twitter:description" content="Peter Hughes - Positive Psychologist, Meaning in Life Researcher and Tech Geek in Manchester.">
+    <meta name="twitter:image:src" content="http://www.phugh.es/img/headshot.jpg">
+    <meta property="og:locale" content="en_GB">
+
+    <meta name="author" content="Peter Hughes - www.phugh.es">
     <meta name="robots" content="index, follow">
-    <link rel="canonical" href="http://www.phugh.es/">
+    <link rel="canonical" href="http://www.phugh.es/tech/coachbot/index.html">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/skeleton/2.0.4/skeleton.min.css">
     <style>
       body {background-color: #d3d3d3; color: #222;}
       hr {border-top: 1px solid #898989;}
-      </style>
+    </style>
+    <script type="application/ld+json">
+      {
+        "@context": "http://schema.org/",
+        "@type": "Product",
+        "name": "Coachbot",
+        "image": "http://www.phugh.es/tech/coachbot/balloon.png",
+        "description": "Coachbot is a clean language coaching robot!",
+        "brand": {
+          "@type": "Thing",
+          "name": "Peter Hughes - www.phugh.es"
+        }
+      }
+      </script>
   </head>
   <body>
     <div class="container">
@@ -43,7 +70,7 @@
         </div>
         <div class="one-third column">
           <h3>Open</h3>
-          <p>CoachBot is completely <a href="https://github.com/phugh/CoachBot" target="_blank">free and open-source software</a>. Built on Node.js's awesome framework, you can even <a href="https://www.npmjs.com/package/miabot" target="_blank">include CoachBot in your own Javascript projects</a>!</p>
+          <p>CoachBot is completely <a href="https://github.com/phugh/CoachBot" target="_blank" rel="noopener">free and open-source software</a>. Built on Node.js's awesome framework, you can even <a href="https://www.npmjs.com/package/miabot" target="_blank">include CoachBot in your own Javascript projects</a>!</p>
         </div>
       </div>
       <hr>
@@ -120,7 +147,7 @@
       </div>
       <hr>
       <div class="row">
-        <p>&copy; 2017 Peter Hughes, MIT License. See <a href="https://github.com/phugh/CoachBot" target="_blank">Github</a> for project source.</p>
+        <p>&copy; 2017 <a href="http://www.phugh.es" target="_blank" rel="noopener">Peter Hughes</a>, MIT License. See <a href="https://github.com/phugh/CoachBot" target="_blank" rel="noopener">Github</a> for project source.</p>
       </div>
     </div>
   </body>
